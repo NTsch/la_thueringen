@@ -1,0 +1,1415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cei:cei xmlns:cei="http://www.monasterium.net/NS/cei">
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009395">1</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Elisabeth Gräfin von Henneberg (Henin-), Witwe des Johann Grafen von Henneberg, bekundet: ihr Sohn Heinrich Graf von Henneberg hat mit ihrem Wissen 112 Pfund Heller im Lande zu Franken gängiger Landwährung dem Knappen Hugo von Wasungen, ihrem Getreuen, auf das Dorf Silbach (Syl-) verschrieben. Johann von Ostheim, dem das Dorf von ihr und ihren Kindern zu Pfand steht, hatte darum gebeten; er soll es binnen des nächsten Jahres nicht auslösen. Das Lösungsrecht der Gräfin, ihrer Söhne und Erben bleibt vorbehalten entsprechend den gegenüber Johann ausgestellten Urkunden. Wenn Hugo zum Dorf gehörige Äcker einsäht, folgen die Erträge daraus dem Pflug auch dann, wenn das Dorf zwischenzeitlich ausgelöst wird.</cei:abstract>
+        <cei:issued>
+          <cei:date value="13600220">1360 Februar 20</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>1</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009395" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel der Ausstellerin.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00026361%2FHennMD_U01_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00026361%2FHennMD_U01_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>1360 an der zweyer heiligen tak Fabiani und Sebastiani.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009396">2</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Heinrich Graf und Herr zu Henneberg (Hennen-) bekundet: der Einsiedler Siegfried saß wegen seines Vaters und der Herrschaft Henneberg und soll seinet- und seiner Herrschaft wegen, solange er lebt, sitzen auf dem von ihm erbauten Einsiedlerhof und dessen Einkünften auf dem Thüringer Wald zwischen Frauenwald (den Ffrauwen) und Ilmenau (Ylmena) und den Hof mit Wiesen und 40 Gerten Holz in Länge und Breite um den Hof innehaben. Er soll dort alle armen Leute beherbergen, die Herberge begehren, und ihnen in Winter und Sommer Feuer (fuerwerg) und Wasser geben. Wenn Siegfried dabei säumig ist und vor dem Grafen verklagt wird, kann der ihn bestrafen. Nach Siegfrieds Tod können der Graf und seine Erben andere an dessen Stelle setzen. Siegfried erhält von ihnen Schutz und Schirm; die Grafen werden ihn gegen jedermann verantworten.</cei:abstract>
+        <cei:issued>
+          <cei:date value="13640508">1364 Mai 8</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>2</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009396" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022907%2FHennMD_U02_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022907%2FHennMD_U02_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Geben 1364 an dem nehsten mitwochen nach unsers hern uffart tag.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009397">3</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Heinrich Graf und Herr zu Henneberg (Hennen-) bekundet, dem Knappen Cunz Widirsatze, seinem Getreuen, und dessen Erben 40 Pfund Heller Landwährung schuldig zu sein; dafür setzt er ihm jährlich 5 Pfund Landwährung auf das Dorf Bischofrod (-rode), je zur Hälfte im Mai und an Michaelis [29. Sept.], jederzeit 14 Tage vor Michaelis durch beide Seiten mit 40 Pfund ablösbar. Wenn Cunz oder seine Erben um Lösung nachsuchen, der Graf und seine Erben dies aber nicht tun, so kann die Gülte an andere Diener weiterverpfändet werden vorbehaltlich des Lösungsrechts. Bei säumiger Zahlung können die Inhaber die Leute im Dorf ohne Zorn des Grafen pfänden und die Pfänder verkaufen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="13761209">1376 Dezember 9</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>3</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009397" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022918%2FHennMD_U03_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022918%2FHennMD_U03_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>1376 am dinstage vor Lucie.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009398">4</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Bruder Johann Goldsmit aus dem Zisterzienserorden genannt von Citeaux (Cytel) bekundet für sich und die Brüder, die mit oder nach ihm dort wohnen: Mechtild Markgräfin zu Baden, Gräfin und Frau zu Henneberg, und ihr Sohn Wilhelm Graf und Herr zu Henneberg haben ihm aus Liebe zum Orden und zu ihrem und ihrer Erben Gedächtnis die Einsiedelei im Thüringer Wald übereignet in einem Umfang, der in der darüber ausgestellten Urkunde festgelegt ist. Der Aussteller verspricht für sich und seine Nachfolger aus dem Orden, Gräfin und Graf gewärtig und ihr Kaplan zu sein, sich niemals wegen der Einsiedelei an Dritte zu wenden und keine Gelübde und Zusagen außerhalb der Herrschaft Henneberg zu tun. Er verspricht, beim nächsten Generalkapitel des Ordens von diesem oder einem dazu beauftragten Abt einen Revers zu der von Gräfin und Graf ausgestellten Urkunde beizubringen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14120713">1412 Juli 13</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>4</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009398" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022929%2FHennMD_U04_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022929%2FHennMD_U04_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Gegeben 1412 an sant Marie Magdalene tag etc.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009399">5</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Die Brüder Ruprecht und Günther von der Kere, Dorothea und Jutta, ihre Ehefrauen, verkaufen an die Frühmesse zu Haina (Hein), Georg Grafen und Herrn zu Henneberg als Lehnsherrn, den Frühmesser Berthold Tuphorn und dessen Nachfolger ihren Hof zu Exdorf (-dorff) mit den im folgenden aufgezählten Seldnern, Gütern und Zubehör - Häusern, Höfen, Hofreiten, Äckern, Wiesen, gemeinem Holz, Feld, Wunne und Weide in Dorf und Feld; den Hof hat jetzt Claus Snider inne gegen je 4 Malter Korn und Hafer Themarer (Themer) Maß jährlich, zwei Weihnachtshühner und ein Schock Eier zu Ostern; von den 5 Seldnersgütern zu Exdorf hat Hans Knot zwei inne für jährlich 10 alte Groschen zu Michaelis, 6 Hühner zu Weihnachten, 1 Achtel Mohn und 2 Schock Eier zu Ostern; je ein Gut haben Heinz Knot für 3 alte Groschen an Michaelis und 2 Hühner zu Weihnachten, Heinz Wener für 4 alte Groschen an Michaelis und ein Huhn zu Weihnachten sowie Katharina Kolhusen für 2 Hühner zu Weihnachten, ein Achtel Mohn und 1 Schock Eier zu Ostern; ein Gut zu Wachenbrunn (-born) hat Betz Jan für 10 alte Groschen an Michaelis, ein Gut ebenda Hans Werner für 24 alte Groschen an Michaelis; hinzu gehören schließlich Geld, Zinse und Getreide zu Obendorf (-dorff), die Betz Kornlein von Äckern und Zubehör gibt. Die Verkäufer quittieren über den Kaufpreis von 115 Gulden rheinisch. Der Frühmesser zu Haina kann über die Güter künftig frei verfügen; die Verkäufer haben sie in aller Form aufgelassen und übertragen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14330331">1433 März 31</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>5</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009399" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Sie versprechen Währschaft und bitten den Grafen Georg um Mitbesiegelung zum Zeichen der Zustimmung; dieser kündigt sein Siegel an (1); Ruprecht (2) und Günther (3) von der Kere siegeln.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022932%2FHennMD_U05_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022932%2FHennMD_U05_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022932%2FHennMD_U05_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der ist gegeben 1433 am dinstage nach Judica in der heilgen fasten.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009400">6</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Wilhelm Graf und Herr zu Henneberg (Hennen-) bekundet: die in seinem Lande und seiner Herrschaft wohnhaften und ansässigen Priester und [geistlichen] Herren haben ihm den Wunsch vorgetragen, eine Bruderschaft zu gründen; sie wollen jährlich zusammenkommen und einen Gottesdienst mit Gesang und Lesung halten zu Ehren Gottes und der Gottesmutter sowie zu Hilfe und Trost ihrer Seelen. Der Aussteller hat den Pfarrern, Vikaren, Frühmessern, Kaplänen und anderen Geistlichen (phaffheit), die jetzt oder künftig in seinen Städten, Dörfern, Ämtern, Gerichten und Gebieten, Land und Herrschaft ansässig sind, versprochen, sie zu schützen und zu schirmen, ihr Gut und ihre Fahrhabe nach ihrem Tod an Schuldner oder Verwandte ausfolgen zu lassen; Vögte, Zentgrafen, Rentmeister, Landknechte, Büttel und andere Untertanen sind gehalten, die Geistlichen darin nicht beschweren. Daher haben die Priester und Geistlichen sich gegenüber dem Grafen und seinen Erben verpflichtet, jährlich am Sonntag Jubilate in der Stadt Wasungen zusammenzukommen; am Vorabend soll eine Vigilie, am Morgen eine Seelenmesse im Kloster oder einer anderen dortigen Kirche gesungen, dann eine Prozession von einer Kirche zur anderen gehalten werden; die an dieser Messe nicht beteiligten Priester sollen gleichzeitig jeder eine Seelenmesse für die Vorfahren und Nachkommen des Grafen lesen. Wer von den Mitgliedern nicht teilnimmt, verfällt einer Strafe von zwei Pfund Wachs, fällig innerhalb vier Wochen, es sei denn, Herren- oder Leibesnot hielten sie ab. Das Wachs soll von den gewählten Prokuratoren für die vier Kerzen bei Vigilien und Seelenmesse verwendet werden. Wenn Mitglieder ohne Testament sterben, steht die Verfügung über den Nachlaß den Prokuratoren oder dem nächst gesessenen Mitglied der Bruderschaft zu; er soll zugunsten der Bruderschaft verwendet werden. Wenn der Graf Städte, Dörfer oder Gerichte kauft und zu Pfand nimmt, sollen die dortigen Priester der Bruderschaft beitreten. Werden Güter verkauft oder versetzt, soll der neue Inhaber die Priester in der Bruderschaft belassen. Wollen auswärtige Geistliche beitreten, so genießen ihre in der Herrschaft gelegenen Güter Schutz, Schirm und Freiheiten.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14360419">1436 April 19</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>6</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009400" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022933%2FHennMD_U06_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022933%2FHennMD_U06_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der gegebin ist 1436 am dornstage nach dem Sontage alz man in der heilighen kirchen singet Quasimodo Geniti.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009401">7</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Wilhelm Graf und Herr zu Henneberg nimmt für sich, seine Brüder Johann und Berthold und ihre Erben die folgenden, vom Vater ererbten Hauer (heuer) an: Ludwig von Bodenstein, Hans Sieshern von Hildburghausen (Hilpershusen), Hans von Misten, Conz Gouch von Bamberg (Baben-), Thomas Hutter von Erfurt (-ffartt), Conz Hoseman von Bamberg, Hans Hoseman von Bamberg, Heinz Snidczing von Bamberg, Conz Hegeuer von Weismain (Weysman), Ruger von Rosenstein, Hans Heser von Coburg (Ko-), Hans Heuer von Schwabach (Swa-) und andere Hauer zwischen den vier Wäldern, die hier nicht genannt sind, aber zu deren Innung gehören. Die Genannten haben für sich und die Mitglieder der Innung dem Grafen geschworen, getreu und hold zu sein, seinen Schaden zu warnen und jährlich an Weihnachten von der Innung wegen in des Grafen Haus, wo er jeweils seine Küche hat, zwei Pfund Pfeffer und ein Pfund Ingwer zu liefern. Die Innung soll jährlich in einer Stadt oder in einem Schloß des Grafen Kapitel halten; wer nicht erscheint, schuldet dem Grafen und seinen Gesellen je zehn Gulden außer bei Leibes- oder Herrennot; der Graf und seine Diener sollen diese Strafe, nicht aber sonstige, die sie einander setzen, eintreiben helfen; sonst können die Mitglieder nach ihrem Gutdünken verfahren. Dem Grafen und seinen Erben steht von jedem Hauer, den sie in die Innung künftig aufnehmen, ein Gulden zu, da sie Freiheit und Rechte vom Grafen zu Lehen haben. Wer beim Kapitel dem Grafen noch nicht gehuldigt hat, soll dessen Amtmann gemeldet werden, der dann die Huldigung entgegennimmt. Der Graf und seine Erben sollen ihnen insbesondere helfen gegen alle, die Heuern kaufen oder verkaufen und nicht in der Innung sind.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14460125">1446 Januar 25</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>7</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009401" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Graf Wilhelm siegelt für sich und seine Brüder.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022934%2FHennMD_U07_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022934%2FHennMD_U07_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022934%2FHennMD_U07_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1446 uff sant Pauwels tag conversionis genant.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009402">8</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Die Schwestern Ottilie, Barbara und Helene, Töchter des Conz von Rosenberg, bekunden: Wilhelm Graf und Herr zu Henneberg und sein Bruder haben für sie 500 Gulden gegenüber Hans von Leimbach (Leym-) übernommen, für die sie jährlich 50 Gulden Gülte zahlen müssen; die 500 Gulden rheinisch sind zu den Schulden der Schwestern hinzugerechnet worden. Diese verpflichten sich, die Hauptsumme an Kathedra Petri [22. Febr. 1449], den Zins an Martini [11. Nov.] zurückzuzahlen. Bei Säumnis kann der Graf die Summe bei Christen oder Juden leihen; für den Schaden kommen die Schwestern auf.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14480328">1448 März 28</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>8</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009402" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Deren Vormünder Heinz von Seckendorff, Wilhelm Zolner und Engelhard von Thüngen (Thungen) geben ihre Zustimmung und drücken ihre Siegel auf.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022935%2FHennMD_U08_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022935%2FHennMD_U08_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022935%2FHennMD_U08_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1448 uff donerstag nach dem heiligen Ostertag.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009403">9</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>[Wilhelm Graf und Herr zu Henneberg] bekundet: da es zu den Pflichten eines christlichen Fürsten gehört, den Gottesdienst zu mehren, hatte er sich bereits längere Zeit mit dem Gedanken getragen, eine Stiftung zur Ehre Gottes, der Gottesmutter und der 14 Nothelfer, insbesondere des hl. Christophorus, sowie zu seiner Eltern und Vorfahren Seelenheil vorzunehmen. Nun hat er mit etlichen Freunden und Räten eine Gesellschaft gegründet.Jedes Mitglied hat einen um den Hals zu tragenden Anhänger anfertigen zu lassen mit einem zweiflügligen Engel, &lt;ein Flügel über Hals und Brust, der andere ungefaltet&gt; {darum einen Rahmen mit den Namen der 14 Nothelfer}; auf der Brust den hl. Geist, ohne dessen Hilfe nichts geschieht, auf dem Haupt ein Diadem; unter dem hl. Geist die Gestalt des hl. Christophorus, wie er den Herrn des Himmels und der Erde durch das Meer getragen hat und von ihm getauft worden ist, ohne Diadem. Unterhalb des Christophorus ein kleiner Rahmen mit den Initialen der 14 Nothelfer, am Rahmen acht Kettchen mit ebensoviel kleinen Klötzchen als Symbol der acht Seligkeiten. Dieses Zeichen soll als reinem Silber gefertigt werden und nicht unter einer Mark wiegen. Da aber ohne feste Ordnung nichts bestehen bleibt, hat der Graf mit Rat gelehrter Leute für sich und seine Gesellen die folgende Ordnung dazu erlassen, wer in die Gesellschaft aufgenommen werden soll und welche Pflichten die Mitglieder haben.1. Mitglieder sollen ehelich und rechtmäßig von vier Ahnen zu Schild und Helm geboren sein. &lt;Wenn dies nicht landkundig ist, sind vor Aufnahme entsprechende Nachweise erbringen.&gt; {Jeder soll einen Nachweis über seine vier Ahnen der Gesellschaft vorlegen; dieser ist &lt;an den Herrn von Henneberg&gt; nach Schleusingen (Slusungen) zu schicken}.2. Mitglieder sollen, wenn sie an den Hof oder anderswo zu Herrentagen, Feiern und Kapiteln der Gesellschaft kommen, an kirchlichen Hochfesten, Festen der Gottesmutter und der 14 Nothelfer das Zeichen der Gesellschaft öffentlich tragen. Bei Säumnis erhält der Mitgeselle, der den Betreffenden deswegen angesprochen hat, jeweils 4 Pfennige, die an Arme auszureichen sind. Wer vor Aufnahme bereits in einer anderen Gesellschaft ist und deren Zeichen an diesen Tagen zu tragen hat, bleibt deswegen unbehelligt.3. Mitglieder sollen zu Ehren Gottes, der Jungfrau Maria, der 14 Nothelfer und besonders des hl. Christoph täglich ein Vater Unser und ein Ave Maria andächtig beten und dabei der verstorbenen Mitglieder gedenken. Wer es vergißt, soll nach dem Rat seines Beichtvaters an Arme Almosen geben oder es sonst wiedergutmachen.4. Mitglieder sollen zu Ehren Gottes, des hl. Christoph und der 14 Nothelfer an deren Festen die Messe hören, Almosen geben und andere gute Werke tun.5. Mitglieder sollen sich ihrem Stand gemäß verhalten und sich vor schändlichen Missetaten, Unfug und Unmaß hüten. Wem Verstöße gegen die Ehre der Gesellschaft vor dieser oder vor Gericht nachgewiesen werden, der wird daraus verstoßen und hat ihr Zeichen abzulegen. Tut er das nicht, sollen es die Mitgesellen ihm abnehmen und an den Abt von Veßra (Fesser) senden, der darüber verfügen soll wie im folgenden beschrieben.6. &lt;Wird ein Mitglied widerrechtlich von einem Dritten befehdet, sollen die Mitgesellen diesen nicht mit Gewalt überziehen oder bekriegen helfen.&gt;7. Hört ein Mitglied, daß ein Mitgeselle in seiner Ehre bescholten wird, soll er den Betroffenen verteidigen und ihn informieren, wessen und von wem er bezichtigt worden ist. Der Beschuldigte soll sich selbst verantworten und rechtfertigen, damit der Vorwurf nicht an ihm hängen bleibt.8. Was auf Kapiteln und Versammlungen gesprochen wird, unterliegt der Schweigepflicht.9. Der Graf und seine Mitgesellen haben je vier Gulden gezahlt. Neue Mitglieder sollen künftig jeweils vier rheinische Gulden an den Abt von Veßra schicken oder selbst bezahlen; sie haben sich eidlich auf die Statuten der Gesellschaft zu verpflichten. Die Einkünfte soll der Abt von Veßra sammeln und nach Rat</cei:abstract>
+        <cei:issued>
+          <cei:date value="14650626">1465 Juni 26</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>9</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009403" />
+          </cei:archIdentifier>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_04.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_05.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_06.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_07.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022936%2FHennMD_U09_08.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:listBiblEdition>
+            <cei:bibl>Christian Schöttgen/ George Christoph Kreysig, Diplomatische Nachlese der Historie von Ober-Sachsen, 5. Theil, Dreßden und Leipzig 1731 S. 35-46 (nach Druck).</cei:bibl>
+          </cei:listBiblEdition>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009404">10</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>[Formular einer Adelsprobe für die Aufnahme in die Christophorusgesellschaft]Hans von N. bekundet: Wilhelm Graf und Herr zu Henneberg hat ihm gegönnt, die zu Ehren Gottes, der Gottesmutter, der 14 Nothelfer und besonders des hl. Christophorus und aller heiligen Engel gegründete Gesellschaft zu tragen. Da dies niemand tun soll, der nicht von vier Ahnen adlig und Wappengenosse ist, bekundet der Aussteller, daß sein Vater einer von N., dessen Mutter eine von N., seine Mutter eine von N. und deren Mutter eine von N. gewesen ist.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14659999">1465</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>10</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009404" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Der Aussteller siegelt und bittet wegen Vater- bzw. Mutterseite NN. und NN. um Mitbesiegelung; diese kündigen ihre Siegel an.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022896%2FHennMD_U10_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022896%2FHennMD_U10_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:listBiblEdition>
+            <cei:bibl>Schöttgen / Kreysig S. 46-47.</cei:bibl>
+          </cei:listBiblEdition>
+          <cei:quoteOriginaldatierung>Der gebin ist ...</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009405">11</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Hans von Schaumberg (Schawm-), Ritter, gegen Wilhelm Grafen und Herrn zu Henneberg, wegen Aufnahme in die Christophorusgesellschaft: + Vater von Schaumberg, dessen Mutter von Redwitz, + Mutter Kemnaterin, deren Mutter von Holleben.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14650703">1465 Juli 3</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>11</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009405" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (2); Mitsiegler (1) Albrecht von Giech (Gich), Ritter, und (3) Hans von Lichtenberg.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022897%2FHennMD_U11_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022897%2FHennMD_U11_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist am mitwuchen nach visitationis Marie virginis 1465.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009406">12</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Martin Zollner zu Walchenfeld (Walchenfelt), Ritter: Vater Zollner von Rottenstein, Mutter Zollner von der Hallburg, Vatersmutter [von] Floch (Flache), Muttersmutter von Rosenberg (Rosenborgh).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14680408">1468 April 8</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>12</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009406" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Hans Truchseß von Wildberg (Wilpergh) und (3) Hans Zollner zu Birkenfeld (Birckenfelt).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022898%2FHennMD_U12_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022898%2FHennMD_U12_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Datum am freytag vor Palmarum a. etc. 68.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009407">13</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Caspar von Schönberg (Schonnenberg): Vater von Schönberg, Vatersmutter von Bärenstein (Bern-), Mutter von Hirschfeld (Hirßfelt), Muttersmutter von Schrapßlewbin.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14680424">1468 April 24</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>13</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009407" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Dietrich von Harras und (3) Hans von Gräfendorf (Grefendorff).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022899%2FHennMD_U13_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022899%2FHennMD_U13_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022899%2FHennMD_U13_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der gebin ist zcu Missenn am suntag Quasimodo Geniti a.d. 1468.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009408">14</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Heinrich von Meude: Vater von Meudt, dessen Mutter Pflug (Pflugin), Mutter Thüna (Thunynn), deren Mutter von Meckau (Megkaw).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14680426">1468 April 26</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>14</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009408" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Heinrich von Schönberg (Schonn-) und (3) Dietrich von Harras (Harrus).Der gegeben ist zu Slewicz am dinstag nach Marci des heiligen ewangelisten.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022900%2FHennMD_U14_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022900%2FHennMD_U14_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009409">15</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe der Brüder (1) Werner, (2) Christoph, (3) Reinhard und (4) Hartmann Marschalk von [Ostheim zu Burg-] Wallbach (Walppach). Vater Marschalk, Vatersmutter von Karsbach (-pach), Mutter von Maßbach (Maspach), Muttersmutter von Seckendorff.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14691101">1469 November 1</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>15</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009409" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Die vier Aussteller siegeln; Mitsiegler (5) Balthasar von Ostheim und (6) Eberhard von Maßbach.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022901%2FHennMD_U15_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022901%2FHennMD_U15_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Geben uff aller heilgen tag 1469.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009410">16</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Ida (Eyde) Marschalkin geborene von Herbstadt (Herbilstat). Vater von Herbstadt, dessen Mutter vom Stein zum Altenstein, Mutter von Waltershausen (Waltert-), deren Mutter von Giech (Gych).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14691101">1469 November 1</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>16</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009410" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegler auf Bitten der Ausstellerin (1) Andreas von Herbstadt und (2) Hans von Milz (Mylcz).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022902%2FHennMD_U16_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022902%2FHennMD_U16_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022902%2FHennMD_U16_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist uff aller heylgen tag 1469.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009411">17</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Christoph Scheller zu Gartenau (-aw): Vater Scheller, Vatersmutter Schifferin, Mutter Falkensteinerin (Volkenstainerin), Muttersmutter Hauserin (Hawserin) von Chlam (Cklam). diese in erster Ehe verheiratet mit einem Haslauer (-lawer).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14710328">1471 März 28</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>17</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009411" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler: (2) Lukas Hohenfelder und (3) Michael Hertzfelder (Hirs-).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022904%2FHennMD_U17_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022904%2FHennMD_U17_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Geben zu Saltzburg an pfintztag nach mittvasten a.d. 1471.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009412">18</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Sigmund Waltenhofer zu Höfen (Hofen): Vater Waltenhofer, Vatersmutter Sachsenkamerin (Se-), Mutter Sendlingerin (Senndtlingerinn), Muttersmutter Weilbergerin (Weylbergerinn).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14710328">1471 März 28</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>18</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009412" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Michael Hertzfelder (Hirs-) und (3) Bernhard Oder.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022905%2FHennMD_U18_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022905%2FHennMD_U18_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist an phintztag nach sannd Ruprechts tag in der vasten 1471.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009413">19</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Heinrich von Pappenheim (Bappen-), HRR Erbmarschall: Vater Marschall von Pappenheim, Vatersmutter von Rotenstein (-stain), Mutter von Abensberg (-perg), Muttersmutter Gräfin von Schaunberg.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14710819">1471 August 19</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>19</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009413" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler Konrad von Hürnheim (Hurenhaim), Ritter (2).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022906%2FHennMD_U19_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022906%2FHennMD_U19_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist uf montag vor sand Bartolmestag 1471.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009414">20</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Christoph Scheller zu Gartenau (Garttenaw) und Sigmund Waltenhofer (-hover) zu Höfen (Heyffen) ersuchen den Fürsten Wilhelm Grafen zu Henneberg (Hennen-) um Aufnahme in die [Christophorus-] Gesellschaft und versprechen, sich an deren Regeln zu halten. Sie haben des Fürsten Diener Paul gebeten, diesem ihr Anliegen vorzutragen, und bitten bitten um schriftliche Antwort; für den fälligen Botenlohn wollen sie aufkommen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14710117">1471 Januar 17</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>20</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009414" />
+          </cei:archIdentifier>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022908%2FHennMD_U20_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022908%2FHennMD_U20_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:listBiblEdition>
+            <cei:bibl>Schöttgen/ Kreysig S. 48-49. Dort S. 49-50 auch die Antwort vom 10. März 1471.</cei:bibl>
+          </cei:listBiblEdition>
+          <cei:quoteOriginaldatierung>Datum Saltzeburg an sand Anthonii tag a.d. etc. [14]71.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009415">21</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Sigmund von Fraunberg (Frawnbergk) vom Haag (Hag) zu Prunn, Ritter, und seine Ehefrau Margarete. Sigmunds Vater Hans von Fraunberg vom Haag zu Prunn, Ritter; Mutter Anna Schenk von Geyern (Geirn); Wilpolt von Fraunberg zum Haag und Martha von Laiming (Lay-) Großeltern väterlicherseits, Anna von Freyberg Muttersmutter. Margarete von Fraunberg vom Haag zu Prunn ist eine geborene von Aichberg (-perg) zum Moos (Moß) und Söldenau (Selldenaw), Vater Gebhard [von Aichberg] zum Moos und Söldenau, Mutter Anna von Waldau zu Waldthurn, Großvater Georg von Aichberg zum Moos, Ritter, Großmutter von Mutterseite eine Tochter des Haimeran Notthafft zu Wernberg (Bern-), Großmutter von Vaterseite Alheid von Kamer.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14710822">1471 August 22</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>21</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009415" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel der Aussteller; Mitsiegler Haug von Parsberg zu Parsberg, Ritter, Albrecht von Stauf (Stauff) zu Ehrenfels (Ern-), Wolfgang Zenger zum Lichtenwald (Liechtn-) und Balthasar Notthafft zum Bodenstein (Podnstain).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022909%2FHennMD_U21_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022909%2FHennMD_U21_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist am pfincztag nagst vor Bartholomei des heiligen zwelffpoten 1471.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009416">22</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Cunz von der Kere: Vater von der Kere, dessen Mutter eine Wolff (Wulffin); Mutter von Lichtenstein, deren Mutter eine Zweckengrunerin.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14730809">1473 August 9</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>22</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009416" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Wilhelm von der Kere und (3) Andreas von Lichtenstein, Vetter und Oheim.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022910%2FHennMD_U22_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022910%2FHennMD_U22_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist ann montag nach sant Ciriacis tag [14]73.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009417">23</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Heinrich (Heincz) Forstmeister von Lebenhan: Vater Forstmeister, Vatersmutter von Hirschfeld (Hirßvelt), Mutter von der Kere, Muttersmutter vom Altenstein.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14740109">1474 Januar 9</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>23</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009417" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler: (2) Jörg von der Kere und (3) Peter von Maßbach.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022911%2FHennMD_U23_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022911%2FHennMD_U23_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist uff suntag noch obersten a.d. etc. [14] 74.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009418">24</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Philipp Diemar (Dimer): Vater Diemar, dessen Mutter eine von Heid (Heuden), Mutter von Alitzheim (Alleczem), deren Mutter eine von Eggolsheim (Eigelsem).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14740501">1474 Mai 1</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>24</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009418" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler: (2) Leonhard Kottwitz (Kotweß) und (3) Andreas Zobel (Czobele).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022912%2FHennMD_U24_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022912%2FHennMD_U24_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist auff sant Walber tag 1474.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009419">25</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Bernhard vom Berge: Vater vom Berge, dessen Mutter von Ostheim, Mutter von Boineburg (Beummel-), deren Mutter von Buttlar.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14791004">1479 Oktober 4</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>25</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009419" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler: (2) Kilian Meusser für Vater-, (3) Dietz Marschalk für Mutterseite.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022913%2FHennMD_U25_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022913%2FHennMD_U25_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022913%2FHennMD_U25_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1479 am montag nach sant Michels des heiligen erczengels tage.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009420">26</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Papst Sixtus [IV.] bekundet: die Klosterkirche zu Veßra (Vessere), Prämonstratenserordens, Würzburger (Wirczpurger) Bistums, liegt in Schutz und Herrschaft des Wilhelm Grafen von Henneberg (Hennen-), der aus besonderer Zuneigung zum Kloster an dessen Kirche eine Bruderschaft, der Fürsten, Grafen, Bannerherren und Edelleute angehören, gegründet und ihr Statuten gegeben hat mit dem Ziel, den Gottesdienst zu mehren und Bau, Reparatur und Unterhalt der Klosterkirche zu sichern. Kraft seiner Autorität verleiht der Papst allen Gläubigen, die bereut und gebeichtet haben, die die Klosterkirche an den Donnerstagen in den Quatembern aufsuchen, an denen der verstorbenen Mitglieder der Bruderschaft gedacht wird, und die zur Reparatur und zum Unterhalt der Kirche beitragen, 25 Jahre und ebensoviele Karenen Ablaß. Der jeweilige Abt soll an diesen Tagen geeignete Beichtväter - Welt- oder Ordensgeistliche aus dem eigenen oder anderen Orden - bereithalten, die die Beichte der Gläubigen hören und ihnen so ermöglichen, den Ablaß zu erwerben; sie können auch von Sünden absolvieren, deren Absolution sonst der Kurie vorbehalten ist. Die Mitglieder der Gesellschaft - bis zu 100 - haben das Recht, sich einen geeigneten Beichtvater zu wählen, der sie ebenfalls von allen Sünden absolvieren kann, auch von solchen, die sonst der Kurie vorbehalten sind, und einmal im Angesicht des Todes auch die Generalabsolution erteilen darf. Poenformel.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14800523">1480 Mai 23</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>26</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009420" />
+          </cei:archIdentifier>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022914%2FHennMD_U26_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022914%2FHennMD_U26_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022914%2FHennMD_U26_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022914%2FHennMD_U26_04.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:listBiblEdition>
+            <cei:bibl>Schöttgen/ Kreysig S. 31-34 (mit Datum Juni 10).</cei:bibl>
+          </cei:listBiblEdition>
+          <cei:listBiblRegest>
+            <cei:bibl>Wilhelm Engel, Vatikanische Quellen zur Geschichte des Bistums Würzburg im XIV. und XV. Jahrhundert (Quellen und Forschungen zur Geschichte des Bistums und Hochstifts Würzburg Bd. 1), Würzburg 1948 S. 249 Nr. 1623 (zu Mai 23) nach der Überlieferung im vatikanischen Archiv.</cei:bibl>
+          </cei:listBiblRegest>
+          <cei:quoteOriginaldatierung>Geben zu Rome bey sandtt Peter 1480 am dreyundzwenzigisten tage des Meyen unnsers babisthums im neunden jaren.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009421">27</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Jakob Abt zu Veßra (Vessere) bekundet: der verstorbene Wilhelm Graf und Herr zu Henneberg hat zu Lebzeiten zu Ehren Gottes, der Gottesmutter und der 14 Nothelfer, insbesondere des hl. Christoph, eine Gesellschaft von Rittern gegründet und dem Kloster Veßra eng verbunden. Aus den Statuten betreffen etliche Punkte das Kloster; diese werden zitiert [Punkte 9-12, 14 und 15 der Urk. von 1465 Juni 26]. Abt und Konvent versprechen, sich an diese Verpflichtungen zu halten. Sie haben die Mitglieder der Gesellschaft in ihre Gebetsbruderschaft aufgenommen, so daß sie aller im Kloster verrichteten guten Werke teilhaftig werden. Abt, Prior, Kustos, Konvent und Hintersassen des Klosters werden die Zinse und Renten der Gesellschaft schützen und gegen ihre aus den Statuten herrührenden Verpflichtungen nicht vorgehen. Die Verleihung der Mitgliedschaft bleibt dem Hause Henneberg vorbehalten; das Kloster hat damit nichts zu tun.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14801021">1480 Oktober 21</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>27</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009421" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Es siegeln der Abt mit seinem, Prior, Kustos und Konvent mit dem Konventssiegel.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022915%2FHennMD_U27_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022915%2FHennMD_U27_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1480 am sonnabent der eylfftusent jungfrauwenn tagk.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009422">28</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Jakob Abt zu Veßra (Vesser) bekundet: der verstorbene Wilhelm Graf und Herr zu Henneberg hatte zu Lebzeiten eine Gesellschaft von Rittern begründet, mit dem Kloster verbunden und ihr bei Papst Sixtus IV. eine Ablaßbulle erworben; deren Inhalt wird wiedergegeben. Abt, Prior, Kustos und Konvent haben diese Wohltat gerne entgegengenommen und verpflichten sich als Gegenleistung in aller Form, für den verstorbenen Grafen, seine Witwe Margarete, geborene Herzogin zu Braunschweig (Brunßwigk) und Lüneburg (Lune-), und beider Vorfahren über Jahr und Tag jeden Sonntag in der Grabkapelle des Hauses Henneberg eine Seelenmesse mit Kollekte zu halten; bei Säumnis haben Abt und Konvent 28 Pfennige Würzburger (Wurtzpurger) Währung aus ihren Zinsen, Gülten, Renten und Gefällen an die Erben des Grafen zu zahlen. Wenn auf die Sonntage Hochfeste fallen, sind die Messen auf geziemende Termine zu verschieben. Messen, die aufgrund Interdikt oder anderen Kirchenstrafen ausfallen, sind nachzuholen; andernfalls ist die genannte Strafe fällig. Seit alters wird vom Kloster täglich in der Begräbniskapelle eine Liebfrauenmesse gesungen; dies soll auch künftig geschehen. Sonntags werden beide nacheinander gehalten; dazwischen soll mindestens eine Viertelstunde Pause sein; dies gilt auch, wenn beide Messen wegen Interdikt nachgeholt werden müssen. Abt, Prior, Kustos und Konvent verpflichten sich dazu in aller Form; kein Privileg soll sie davor schützen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14801021">1480 Oktober 21</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>28</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009422" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Es siegeln der Abt mit seinem (2), Prior, Kustos und Konvent mit dem Konventssiegel (1).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022916%2FHennMD_U28_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022916%2FHennMD_U28_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022916%2FHennMD_U28_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1480 am sonnabent der eilfftausent jungkfrauwen tage.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009423">29</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Bernhard von Steinau (-awe) gegen Wilhelm Grafen zu Henneberg wegen Aufnahme in die Christophorus-Gesellschaft: Vater von Steinau, dessen Mutter Voitin von Rieneck (Rineck), Mutter Fuchsin von Burgpreppach (-preitpach), deren Mutter von Rotenhan (Rottenhayn) zu Rentweinsdorf (Remperstorff).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14809999">1480</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>29</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009423" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler wegen der Vaterseite (2) Hans von Steinau, wegen Mutterseite (3) Jörg Voit von Salzburg (Saltzpurgk) der Junge.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022917%2FHennMD_U29_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022917%2FHennMD_U29_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022917%2FHennMD_U29_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1480.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009424">30</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Philipp Graf zu Hanau (-awe): Vater Graf von Hanau, dessen Mutter Gräfin von Nassau (-awe), Mutter Pfalzgräfin bei Rhein und Herzogin in Bayern, deren Mutter Herzogin von Nieder- und Oberbayern.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14821223">1482 Dezember 23</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>30</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009424" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler wegen Vaterseite (2) Friedrich von Dorfelden, wegen Mutterseite (3) Johann Frei von Dehrn (Deherrn).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022919%2FHennMD_U30_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022919%2FHennMD_U30_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022919%2FHennMD_U30_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist am montage nach Thome apostoli a.d. 1482.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009425">31</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Jakob von Hutten, auch für seinen verstorbenen Vetter Frowin von Hutten: Dessen Vater von Hutten, Vatersmutter von Rüdigheim (Ridickeim), Frowins Mutter von Thüngen, deren Mutter von Bibra (Bieberawe). Jakobs Vater hieß Hans von Hutten, dessen Mutter von Thüngen, Mutter Forstmeister von Gelnhausen (Gelinhusen), deren Mutter Kreis (Kreyßin) von Lindenfels.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14830120">1483 Januar 20</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>31</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009425" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Hans von Ebersberg und (3) Bernhard Forstmeister von Gelnhausen, Schwager und Vetter.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022920%2FHennMD_U31_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022920%2FHennMD_U31_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1483 uff sant Fabiancz und Sebestianus der heiligen nothelfernn und merteler tag.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009426">32</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Philipp von Eberstein für den gleichnamigen verstorbenen Vater: dessen Vater von Eberstein, Vatersmutter von Schaumberg (Schawen-), dessen Mutter von Haun (Hune), Muttersmutter Waise [von Faurbach] (Weysen). Der Aussteller ist dieses Philipps Sohn; seine Mutter ist eine vom Stein [zu Liebenstein], deren Mutter eine von Herda (Heerde).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14830223">1483 Februar 23</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>32</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009426" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Hans von Ebersberg und (3) Ulrich Hoelin, Vettern und Schwäger.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022921%2FHennMD_U32_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022921%2FHennMD_U32_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022921%2FHennMD_U32_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1483 uff den sontag Reminiscere.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009427">33</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Reinhard von Wechmar: Vater von Wechmar, dessen Mutter eine von Rauheneck (Rawenecke), Mutter von Seinsheim (Sehenßheym), deren Mutter eine Fuchs (Fuschsen).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14841116">1484 November 16</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>33</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009427" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Balthasar Speßhardt (Spechsart) und (3) Reinhard von der Kere.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022922%2FHennMD_U33_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022922%2FHennMD_U33_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1484 am dinstag nach sant Mertins des heiligen bischoffs tag.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009428">34</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Helene Spade (Spatin/ Spadt): Vater Lutolf Spade, dessen Jutta Mutter vom Teich, Mutter Jutta eine von Langeln (Langell), deren Mutter Armgard eine von Rheden (Reden).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14860219">1486 Februar 19</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>34</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009428" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Die Ausstellerin kündigt ihr Siegel an; Mitsiegler wegen der Vaterseite (1) Berthold von Oldershausen (-hüsenn), wegen der Mutterseite (2) Herwart Berner.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022923%2FHennMD_U34_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022923%2FHennMD_U34_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022923%2FHennMD_U34_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1486 am mantage nach dem sontage Reminiscere in der heiligen vastenn.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009429">35</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Albrecht Zobel von Guttenberg: Vater ein Zobel, dessen Mutter eine Schenkin von Schenkenstein (Schencken-), Mutter von Thüngen (Thungen), deren Mutter von Elm (Elheim).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14860327">1486 März 27</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>35</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009429" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers; Mitsiegler die Ritter Michael von Gebsattel (-settel) und Veit von Brend (Brende).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022924%2FHennMD_U35_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022924%2FHennMD_U35_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist am montag nach unser lieben frawen tagk annuntiationis genant a.d. 1486.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009430">36</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Christina vom Berge: Vater von Helba (Helbe), dessen Mutter eine von Bibra (Bibrach), Mutter eine Truchsessin, deren Mutter eine von Seckendorff.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14890223">1489 Februar 23</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>36</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009430" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Auf Bitten der Ausstellerin siegeln (1) Karl von Bibra wegen der Vater- und (2) Apel von Milz (Miltz) zu Kleineibstadt (Klein Eybstadt) wegen der Mutterseite.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022925%2FHennMD_U36_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022925%2FHennMD_U36_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022925%2FHennMD_U36_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der geben ist 1489 am montag nach Petri Kathedra genant.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009431">37</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Philipp vom Berge: Vater vom Berge, dessen Mutter eine von Boineburg (Beymel-), Mutter vom Stein, deren Mutter eine von Brunn (Braun).</cei:abstract>
+        <cei:issued>
+          <cei:date value="14900326">1490 März 26</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>37</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009431" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Siegel des Ausstellers (1); Mitsiegler (2) Jorg von Schaumberg (Schawem-), Amtmann zu Schleusingen (Slusungen), wegen der Vater- und (3) Siegfried vom Stein wegen der Mutterseite.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022926%2FHennMD_U37_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022926%2FHennMD_U37_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022926%2FHennMD_U37_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Der gebin ist 1490 am freitage nach dem sontage Letare.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009432">38</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Ahnenprobe Sophie vom Berge: Vater vom Berge, dessen Mutter eine von Boineburg (Beymel-), Mutter eine von Helba (Helbe), deren Mutter eine Truchsessin.</cei:abstract>
+        <cei:issued>
+          <cei:date value="14890131">1489 Januar 31</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>38</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009432" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Auf Bitten der Ausstellerin siegeln (1) Jorg von Schaumberg (Schwaem-) wegen der Vater- und (2) Christoph von Herbstadt (Herbilstat) wegen der Mutterseite.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022927%2FHennMD_U38_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022927%2FHennMD_U38_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Gegebin 1489 an sonabende nach conversionis Pauli.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009433">39</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Wilhelm Graf und Herr zu Henneberg gibt als Oberherr des Klosters Wasungen seine Zustimmung dazu, daß seinem Vetter Hermann Grafen und Herrn zu Henneberg durch Jorg Tolmar zu Metzels, Witwer, mit Zustimmung seiner Söhne Hans und Gerhard sowie des Tochtermanns Klaus Helteprand, Bürgers zu Schmalkalden, wegen seiner Frau Katharina, Jorg Tolmars Tochter, das Zinsgut in der Wüstung Trenckriedt und der sonstige dortige Besitz Tolmars, die dieser vom Kloster Wasungen für jährlich vier Pfund Geld Würzburger Währung zu Zinslehen hatte, für einen Kaufpreis von 120 Gulden, 42 Gnacken pro Gulden gerechnet, verkauft worden sind. Die darüber ausgestellte Urkunde ist von des Ausstellers Rat und Hofmeister Peter von Gundelsheim (Gundoltzhaim), Dr. beider Rechte, sowie Peter von Heldritt (Helderith) besiegelt, mit des Ausstellers Zustimmung aufgerichtet und dem Vetter zugestellt, die Zinsherrschaft ist an diesen abgetreten worden. Im Tausch erhält der Aussteller für das Kloster Wasungen die Lehnschaft des Anton Wolff zu Dreißigacker (Dreyssig-) mit Zubehör: von einem Gut vier Pfund Geld jährlichen Zins, je zur Hälfte Walpurgis und Michaelis, ein Pfund für eine Lammkeule, ein Pfund 15 Pfennig für 15 Käse - drei Pfennig pro Käse, 8 Schilling für Hühner, 3 2 Malter Hafer Meininger Maß, 50 Heringe in der Fastenzeit und bei Verkauf von je 15 Gulden einen Gulden Handlohn; Anton hatte diese bisher vom Grafen Hermann und seinen Vorfahren zu Zinslehen. Frühere Lehnsbriefe werden für ungültig erklärt. Graf Hermann bekundet für sich und seine Erben ebenfalls den Tausch der Zinsgüter zu Trenckriedt gegen diejenigen zu Dreißigacker; er sagt Anton Wolf von seinen bisherigen Verpflichtungen los und weist ihn an Graf Wilhelm.</cei:abstract>
+        <cei:issued>
+          <cei:date value="15300222">1530 Februar 22</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>39</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009433" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Zwei gleichlautende Ausfertigungen, besiegelt von den Grafen Wilhelm und Hermann.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022928%2FHennMD_U39_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022928%2FHennMD_U39_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022928%2FHennMD_U39_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Die geben seint dinstags sant Peters tage Cathedra 1530.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009434">40</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Wilhelm Graf und Herr zu Henneberg bekundet, seinem Getreuen Georg Diemar zu Walldorf (-dorff) und dessen Erben einen jährlichen Zins von 25 Gulden - 42 Gnacken pro Gulden gerechnet - auf das Dorf Herpf für erhaltene 500 rheinische Gulden fränkischer Landwährung verkauft zu haben. Zu Unterpfand stellt er das Dorf Herpf mit allem Zubehör, an das Diemar und seine Erben sich bei Säumnis halten können. Der Graf soll sie darin schützen und schirmen, bis Fehlbetrag und eventueller Schaden gezahlt sind; wegen der Schadenshöhe soll man bloßen Worten glauben.</cei:abstract>
+        <cei:issued>
+          <cei:date value="15400222">1540 Februar 22</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>40</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009434" />
+          </cei:archIdentifier>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022930%2FHennMD_U40_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022930%2FHennMD_U40_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Schultheiß, Dorfmeister und Dorfschaft zu Herpf werden angewiesen, die Gülte an Kathedra Petri [22. Febr.] mit Frist von acht Tagen an Diemar, seine Erben oder den Inhaber der Urkunde in seine gewöhnliche Behausung auf Kosten der Herrschaft gegen Quittung zu liefern. Ihre Pflichten gegenüber dem Aussteller haben sie ggf. dem Pfandinhaber zu leisten. Der Aussteller verspricht Währschaft. Wird Herpf durch Brand oder anderswie verwüstet oder verdorben, ist die Gülte aus anderen Einkünften der Herrschaft zu liefern. Rückkauf bzw. Ablösung sind beiden Seiten jeweils zu Kathedra Petri mit 500 Gulden und der Jahresgülte möglich; dies ist ein halbes Jahr vorher anzukündigen. Diemar hat zugesagt, dies zu Lebzeiten seiner Mutter Kunigunde Diemar geb. Stiebar (Sibarin) nicht zu tun, und gebeten, die Gülte der Mutter auszuzahlen. Gleichzeitig hat er eine neue Lehnsurkunde ausgestellt. Nach dem Tod der Mutter ist eine Auslösung unter Wahrung der Frist möglich; das Geld ist nach Meiningen (Mey-), Mellrichstadt (Melrichstat) oder Römhild (Romhilt) zu liefern. Beschädigungen der Pfandurkunde gehen nicht zu Lasten des Pfandnehmers. Graf Wilhelm siegelt; er und sein Sohn Graf Ernst unterschreiben. Schultheiß, Dorfmeister und Gemeinde zu Herpf übernehmen ihre Verpflichtungen und bitten Fabian von Uttenhofen (-hofenn) und Hans Zufraß, Amtmann zu Wasungen (-genn) und Kaltennordheim (Kalthen Northeim), um Besiegelung; diese kündigen ihre Siegel an.Der geben ist dornstag nach sant Peters tag Cathedra 1540.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009435">41</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Propst Cuno Riedesel von Bellersheim (Bellerßheym), Äbtissin Agner Löher (Loherin) und der Konvent des Klosters Zella unter Fischberg (-berck) bekunden: Wilhelm Graf und Herr zu Henneberg hatte ihren Vorgängern und dem Kloster ein Stück Fischwasser im Amt Fischberg von der Lindenauer (-auwer) Brücke bis an die Bottlerswanne für 200 Goldgulden verpfändet nach Ausweis einer von ihm ausgestellten Urkunde, Datum am montag nach sanct Michels tage des heiligen erzengels tag 1534 [1534 Okt. 5]. Die Aussteller bekunden, daß Graf Wilhelm an diesem Tag die 200 Goldgulden gezahlt und das Fischwasser wieder an das Amt Fischberg und die Grafschaft Henneberg ausgelöst hat.</cei:abstract>
+        <cei:issued>
+          <cei:date value="15450222">1545 Februar 22</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>41</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009435" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Sie quittieren über die Summe und kündigen (1) Propstei- und (2) Konventssiegel an.</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00026362%2FVorlage%20fehlende%20Digitalisate_0001.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Geschehen am tage Petri Kathedra denn sontagk Invocavit a.d. 1545.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+  <cei:text type="charter">
+    <cei:body>
+      <cei:idno id="stat_file_00009436">42</cei:idno>
+      <cei:chDesc>
+        <cei:abstract>Stephan von Königshofen (-hoven), gesessen zu Kühndorf (Kundorff), und seine Frau Dorothea geborene Rentzlin bekunden: ihr Vetter und Schwager Wilhelm von Roßdorf (-dorff) hatte ihnen sein Haus zu Schleusingen (Sleu-) mitsamt dem darin vorhandenen Hausrat und 50 rheinische Gulden hinterlassen. Wilhelm Fürst und Graf zu Henneberg sowie die Testamentsvollstrecker Wilhelms von Roßdorf, Jakob Genslin, Johann Jeger, Georg Emeß und Hans Slosser, haben jetzt das Haus übergeben und die Summe ausgezahlt. Die Aussteller quittieren darüber und stellen fest, daß sie keine weiteren Forderungen mehr haben. Stephan bekundet weiter: als Wilhelm in seinem Hause verstorben war, hat er dessen Siegel an sich genommen, es in vier Stücke zerschlagen und diese den Treuhändern zugeschickt für den Fall, daß deswegen einige Nachrede entstünde. Wird daher eine Schuldurkunde über 100 Gulden, ausgestellt von Stephan und seiner Schwiegermutter Anna Rentzlin, Datum Mittwoch nach Michaelis 1516 [Okt. 1], vorgelegt, hat Stephan diese zu bezahlen.</cei:abstract>
+        <cei:issued>
+          <cei:date value="15170816">1517 August 16</cei:date>
+        </cei:issued>
+        <cei:witnessOrig>
+          <cei:archIdentifier>
+            <cei:settlement>Meiningen</cei:settlement>
+            <cei:arch>Landesarchiv Thüringen – Staatsarchiv Meiningen</cei:arch>
+            <cei:archFond>Hennebergica Magdeburg/Urkunden</cei:archFond>
+            <cei:idno>42</cei:idno>
+            <cei:ref target="https://staatsarchive.thulb.uni-jena.de/receive/stat_file_00009436" />
+          </cei:archIdentifier>
+          <cei:auth>
+            <cei:sealDesc>Stephan siegelt für sich und seine Ehefrau (1). Diese bittet Eberhard von Ostheim (-heym), Amtmann zu Hallenberg (-burg), ihren Schwager, um Besiegelung. Dieser kündigt sein Siegel an (2).</cei:sealDesc>
+          </cei:auth>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022931%2FHennMD_U42_01.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022931%2FHennMD_U42_02.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022931%2FHennMD_U42_03.tif/full/full/0/default.jpg" />
+          </cei:figure>
+          <cei:figure>
+            <cei:graphic url="https://staatsarchive.thulb.uni-jena.de/api/iiif/image/v2/stat_derivate_00022931%2FHennMD_U42_04.tif/full/full/0/default.jpg" />
+          </cei:figure>
+        </cei:witnessOrig>
+        <cei:diplomaticAnalysis>
+          <cei:quoteOriginaldatierung>Datum sonntags nach assumpcionis Marie 1517.</cei:quoteOriginaldatierung>
+        </cei:diplomaticAnalysis>
+      </cei:chDesc>
+    </cei:body>
+  </cei:text>
+</cei:cei>

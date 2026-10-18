@@ -1,0 +1,49 @@
+records converted: 2503
+fonds written: 9
+derivate_images: 10526
+derivates: 2484
+fonds: 9
+layout:certificate: 892
+layout:stat_file: 1611
+records: 2503
+review:date_circa_or_uncertain_check: 6
+review:date_irregular_check_value: 14
+review:date_range_from_index_check: 10
+review:date_text_differs_from_index: 3
+review:gnd_person_names_misaligned: 16
+review:siegel_word_left_in_abstract: 83
+review:size_found_in_provenance_field: 8
+review:vnum_differs_from_unitid: 4
+review:zeugen_word_left_in_abstract: 27
+with_bibliography: 258
+with_dating_clause: 1890
+with_gnd_links: 1315
+with_manifest_images: 2484
+with_seal_sentence: 593
+with_witness_list: 380
+
+unmapped input fields (not in the CEI output, not on the ignore list):
+  none
+
+input fields deliberately not converted:
+  ArchFile_class_001_Label.de: duplicate of ArchFile_class_001_Label
+  dateOfBirth: biographical data of the linked GND persons, not of the charter
+  dateOfDeath: biographical data of the linked GND persons, not of the charter
+  date_extended_search: search-index copy of date/datequote
+  date_iso_to: harvester helper (index stores only the start date for certificates)
+  date_precision: harvester helper; precision is re-derived from the date text
+  date_uncertain: harvester helper
+  derivate.class.derivate_types.content: database internal (derivate id)
+  entitylink.gnd.significant: duplicate of entitylink.gnd.href
+  entitylink.gnd.type: database internal
+  file_type: database internal (always 'certificate')
+  gnd: duplicate of the entity links / place GND ids
+  indexBrowseCorporation: search-index copy of the title
+  objectKind: database internal
+  place_extended_search: search-index copy of place
+  propertitle: duplicate of unittitle.type.proper
+  quote: citation string, rebuilt from archive labels + signature
+  state: database internal
+  tectonics_path: duplicate of ArchFile_class_001_Label
+  unitid.as.is: duplicate of unitid
+  unittitleSort: sort key
