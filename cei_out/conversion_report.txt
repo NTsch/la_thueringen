@@ -47,3 +47,5 @@ input fields deliberately not converted:
   tectonics_path: duplicate of ArchFile_class_001_Label
   unitid.as.is: duplicate of unitid
   unittitleSort: sort key
+
+XSD validation: 9 valid files, 0 invalid

@@ -752,9 +752,12 @@ def main():
 
     written_fonds = 0
     for fond, items in fonds.items():
+        # make root element cei:cei/cei:text/cei:group
         root = ET.Element(f"{{{NS}}}cei")
+        text = ET.SubElement(root, f"{{{NS}}}text")
+        group = ET.SubElement(text, f"{{{NS}}}group")
         for text_el, _, _, _ in items:
-            root.append(text_el)
+            group.append(text_el)
         path = out / fond / f"{fond}.cei.xml"
         write_xml(root, path)
         written_fonds += 1
