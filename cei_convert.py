@@ -336,7 +336,12 @@ def strip_final_parenthetical(text):
     return text, None
 
 
-PLACE_PREFIX = re.compile(r"^(?P<p>[^\d]+?),\s*(?P<rest>\[?(?:nach\s+|um\s+|vor\s+)?\d{4}.*)$")
+#PLACE_PREFIX = re.compile(r"^(?P<p>[^\d]+?),\s*(?P<rest>\[?(?:nach\s+|um\s+|vor\s+)?\d{4}.*)$")
+PLACE_PREFIX = re.compile(
+    r"^(?P<p>[^\d]{1,60}?),\s*"
+    r"(?P<rest>(?:\[?(?:nach\s+|um\s+|vor\s+)?)?"
+    r"(?:\d{4}|(?:den\s+)?\d{1,2}\.\s*[A-Za-zäöüÄÖÜ]+\.?\s*\d{4}).*)$"
+)
 
 
 def split_place_prefix(text):
@@ -451,7 +456,6 @@ def normalize(rec):
     n["place_names"] = [x for x in (rec.get("place") or []) if x not in n["place_gnd"]]
     n["urn"] = rec.get("urnLinks") or []
     return n
-
 
 # ------------------------------------------------------------------ XML building
 def sub(parent, tag, text=None, **attrs):

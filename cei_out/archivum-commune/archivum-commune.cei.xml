@@ -8,7 +8,7 @@
           <cei:chDesc>
             <cei:abstract>Belehnung des Grafen Dietrich von Hohnstein mit Oberspier durch den Erzbischof von Mainz. Erzbischof Siegfrid von Mainz gibt dem Grafen Dietrich von Hohnstein drei Hufen Landes in Oberspier als Lehen, die nach dem Tod des Ministerialen Dietmar frei geworden sind. | Zeugen: Heinricus comes de Kirchberg, frater Dittericus de Salza, frater Elgerus de Hohnstein ordinis praedicatorum, Heinricus praeposits de Helingistat, Heinricus Pincerna de Apolde, Heinricus de Medingin villicus.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="12420204">1242 Februar 4</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -47,7 +47,7 @@
           <cei:chDesc>
             <cei:abstract>Kaufbrief der Witwe Sophie von Schwarzburg über die Schlösser Kirchberg (bei Sondershausen) und Großenehrich (Ehrich) Sophie, Witwe des Grafen Heinrich (III.) von Schwarzburg überlässt ihrem Bruder Heinrich, Graf von Hohnstein ihre Schlösser Kirchberg (bei Sondershausen) und Ehrich (Großenehrich) mit allen Gütern an der Unstrut. Bürge dafür ist auch Hermann von Lobdeburg. Dafür erhalten Sophie und Hermann von Heinrich 600 Mark Silber, wovon 200 bezahlt sind. | Zeugen: Burggraf Burchard von Querfurt (Burchardus de Querenvorde), Berengerus von Blankenhagen et filius Ludwig, Ludwig von Meldingen, Heinrich von Meldingen, Swippodo de Rochusin (Rockhausen), Heinrich von Witzleben, Heinrich von Elleben, Heinrich von Tannrode, Helenvicus de Sufelt, Hermannus de Beringin, Titmar de Willerstedt, Th. et H. de Welrode, Walther de Wrrel (?), Henricus de Aschalzerode, Bertholdus de Heringen, Th. von Werthern (de Wertere), Berenger de Meldingen, Berenger de Mulihusin.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Kranichfeld">Kranichfeld</cei:placeName>
+              <cei:placeName>Kranichfeld</cei:placeName>
               <cei:date value="12591024">1259 Oktober 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -84,7 +84,7 @@
           <cei:chDesc>
             <cei:abstract>Mitteilung der Witwe Sophie von Schwarzburg an den Erzbischof Werner von Mainz und dem Abt von Fulda über den Verkauf ihrer Rechte in den Schlössern Kirchberg (bei Sondershausen) und Ehrich (Großenehrich) Sophie, Witwe des Grafen Heinrich von Schwarzburg, zeigt dem Erzbischof Magnus von Mainz, dem Abt von Fulda und Hersfeld und dem Markgrafen von Meißen an, daß sie alle ihre Güter mit der Hälfte der Schlösser Kirchberg und Ehrich ihrem Bruder, dem Grafen Heinrich von Hohnstein, übertragen hat, und bittet die Genannten, ihn damit zu belehnen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Kranichfeld">Kranichfeld</cei:placeName>
+              <cei:placeName>Kranichfeld</cei:placeName>
               <cei:date value="12591025">1259 Oktober 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -192,7 +192,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Albrecht von Thüringen belehnt Graf Heinrich von Hohnstein unter anderem mit dem Schloss Spatenberg</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="12630408">1263 April 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -259,7 +259,7 @@
           <cei:chDesc>
             <cei:abstract>Das Kloster Hersfeld bestätigt die Stadtrechte der Stadt Arnstadt. Heinrich III., Abt von Hersfeld, und Ditmar, Dekan, und der ganze Konvent geben den Bürgern von Arnstadt (Arnisthede) auf ihr Verlangen die Rechte, Gewohnheiten und Freiheiten die Kaiser Karl der Große bei dessen Gründung übergeben hat und daran sich bisher alle ihre Vorgänger, besonders die Äbte Siegfried, Johannes und Ludwig bedient haben. | Zeugen: Conradus prepositus Sancti Iohannis, Wernher prepositus Sancti Petri, prelati Hersfelt; magister Ercinbertus, Guntherus de Arnisthete, Ercinbertus advocatus de Buchenau (Buchenowe), Reinboldus Pincerna de Lengisfeld, Conradus et Gerlacus fratres de Ufhusin, Volpertus Helbini milites et Heinricus Angelus, Heinricus de Hattenbach, Mönche der Abtei, Heinricus de Sula et Reinoldus frater eius, Craftho Bertholdus monitarius, Ludewicus de Capellana, Theodoricus Friso monetarius cives - diese sechs letzteren Bürger von Hersfeld.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hersfeld">Hersfeld</cei:placeName>
+              <cei:placeName>Hersfeld</cei:placeName>
               <cei:date value="12660421">1266 April 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -297,7 +297,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Berthold II. (Berthous) von Fulda belehnt Graf Heinrich von Hohnstein mit den Gütern in Abtsbessingen, welche früher Graf Heinrich von Schwarzburg vom Abt Heinrich, Bertholds Vorgänger, zu Lehen hatte</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="12680505">1268 Mai 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -335,7 +335,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Albrecht von Thüringen verspricht aus Freundschaft für den Grafen Heinrich von Hohnstein, dass weder er selbst, noch irgendein anderer in Großenehrich (Grosserich) ein Schloss bauen werde</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="12701016">1270 Oktober 16</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -517,7 +517,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Albrecht von Thüringen bekennt, dass die Grafen Dietrich und Heinrich von Hohnstein, Brüder, die Vogtei zu Dietenborn mit allen Rechten von ihm zu Lehen tragen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="12990312">1299 März 12</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -578,7 +578,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Albrecht von Thüringen belehnt Graf Heinrich von Hohnstein mit Schloss Wachsenburg, Ilmenau und Ichtershausen und allem Zubehör, wie sie der verstorbene Graf Günther von Käfernburg von ihm zu Lehen gehabt hat | Zeugen: Graf Friedrich von Rabenswald; Graf Dietrich von Hohnstein; Graf Günther von Schwarzburg; Brüder Otto und Dittrich von Wechmar; Hartung von Erfa; Albert von Heilingen; Günther von Salza; Friedrich von Wernrode; Heinrich von Wilrade.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Gotha">Gotha</cei:placeName>
+              <cei:placeName>Gotha</cei:placeName>
               <cei:date value="13021113">1302 November 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -781,7 +781,7 @@
           <cei:chDesc>
             <cei:abstract>Ritter Eckehard von Kannawurf verkauft die Hälfte der Jurisdiktion und seiner Güter in Trebra dem Grafen Heinrich dem Jüngeren von Hohnstein. Ritter Eckehard von Kannawurf (Kaneverfen) bekennt, dass er sein Erbteil, die Hälfte der Jurisdiktion und seiner Güter in Trebra (Trebere) dem Grafen Heinrich dem Jüngeren von Hohnstein und dessen Erben für 26 Mark "et fertone" Nordhäuser Silbers mit Zustimmung seiner Erben verkauft hat. | Zeugen: Friedrich von Sondershausen; Heinrich von Harraz; Friedrich von Werthern (Werthere); Heinrich Vunke, Ritter; Kerstan von Sondershausen; Heinrich von Raspenberg; Eckehard civis (?); Hermann Klynkoz; Werner dictus Buwe.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Sondershausen">Sondershausen</cei:placeName>
+              <cei:placeName>Sondershausen</cei:placeName>
               <cei:date value="13170711">1317 Juli 11</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -849,7 +849,7 @@
           <cei:chDesc>
             <cei:abstract>König Ludwig IV. belehnt die Grafen Heinrich und Günther von Schwarzburg mit Saalfeld und Blankenburg. König Ludwig IV. bekennt, dass er den Brüdern Graf Heinrich und Graf Günther von Schwarzburg unter Vorbehalt seiner, des Reiches und Dritter Rechte folgende Lehen, welche sie von ihm und dem Reiche zu haben bezeugen, übertragen hat: die Stadt Saalfeld mit der Münze, dem Zoll, den Gerichten und allen anderen Pertinenzien, das Schloss Blankenburg mit der dabei liegenden Stadt, Wäldern, Jagden, Münzen, Zoll, Gerichten, Bergwerken, Untertanen, Gütern und Pertinenzien, ebenso das Schloss "zu dem Stein" mit allen Zubehör.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Regensburg">Regensburg</cei:placeName>
+              <cei:placeName>Regensburg</cei:placeName>
               <cei:date value="13230122">1323 Januar 22. (Dat. Ratispone XIo kalend. Febr. 1323, r.a. 9.)</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -896,7 +896,7 @@
           <cei:chDesc>
             <cei:abstract>König Ludwig IV. anerkennt Rechte des Klosters Stadtilm in Seebergen. König Ludwig IV. bekennt, dass er durch glaubwürdige Männer erfahren habe, dass das Dorf Seebergen mit allen Rechten dem Nonnenkloster zu Stadtilm gehöre und zwar so, dass die eine Hälfte früher durch die Grafen von Schwarzburg dem Kloster testamentarisch vermacht, die andere Hälfte testamentarisch verkauft worden sei, weshalb also die Markgräfin Elisabeth und deren Sohn Friedrich II. Markgraf von Meißen und Landgraf von Thüringen kein Recht auf Seebergen haben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="13230820">1323 August 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -1373,7 +1373,7 @@
           <cei:chDesc>
             <cei:abstract>Verpfändung eines Teils der Stadt Frankenhausen und des Hauses in Brücken durch die Grafen von Beichlingen an die Grafen von Schwarzburg. Graf Heinrich von Hohnstein, Herr zu Sondershausen, Günther und Heinrich, Grafen zu Schwarzburg, Herren zu Arnstadt, Heinrich und Günther, Grafen und Herren zu Schwarzburg, bekennen, dass die Brüder, Grafen Friedrich und Gerhard von Beichlingen, Herren zu Rothenburg, für 1000 Mark lötigen Silbers, welche die erstgenannten Herren für die letzteren in Erfurt schuldig sind, ihren Teil des Hauses und der Stadt Frankenhausen und ihr Haus zu Brücken bis zum nächsten Palmsonntag versetzt haben. Den zu Brücken von den Gläubigern eingesetzten Voigt sollen die von Beichlingen verköstigen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13300323">1330 März 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -1508,7 +1508,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen bekennt, dass seine Oheime, die Grafen Heinrich und Günther in Schwarzburg, Herrn zu Arnstadt, bei dem Verkauf von Jena noch 14 1/2 Schock Groschen jährliche Gülde sich vorbehalten und dieselben zu Lehen empfangen haben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Altenburg">Altenburg</cei:placeName>
+              <cei:placeName>Altenburg</cei:placeName>
               <cei:date value="13320702">1332 Juli 2</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -1615,7 +1615,7 @@
           <cei:chDesc>
             <cei:abstract>Kaufbrief des Landgrafen von Thüringen für Kahla (Leuchtenburg) und Stadtroda. Landgraf Friedrich von Thüringen bekennt, dass er mit den Brüdern Heinrich und Günther, Grafen zu Schwarzburg, in Betreff der Leuchtenburg und der Städte Kahla und Stadtroda, welche dieselben von den Vettern Albrecht und Johann von Leuchtenburg gekauft haben, dahin übereingekommen ist, dass er die Burg und die genannten Städte vor nächsten Michaeli für dasselbe Geld, welches die Grafen von Schwarzburg dafür bezahlt haben, nämlich vierthalbtausend Schock, einlösen soll, widrigenfalls, wenn die Einlösung in den folgenden 6 Jahren nicht geschehen ist, sollen die Grafen von Schwarzburg dieselben als erbliches Lehen behalten. | Zeugen: Bischof Withego von Meißen; Graf Günther der Ältere von Schwarzburg; Voigt Heinrich der Jüngere von Plauen, genannt Reuß; Voigt Heinrich der Ältere von Gera; Otto der Ältere von Bergowe; die Brüder Heinrich und Thime, Herren zu Kolditz; Johann von Syweschin der Ältere; Peter Pertzk, Marschalk des Landgrafen Friedrich von Thüringen; Götz Schindekopf, Hofmeister des Landgrafen Friedrich von Thüringen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="13330226">1333 Februar 26</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -1819,7 +1819,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Otto von Orlamünde schenkt das Patronatsrecht über die Parochialkirche in Rudolstadt dem Zisterzienserkloster Langheim. Graf Otto von Orlamünde, Herr zu Plassenburg (Blassenberch), schenkt unter Zustimmung seiner Gemahlin Kunigunde das Patronatrecht über die Parochialkirche in Rudolstadt, in der Diözese Mainz, mit den zugehörigen Kapellen dem Abt Heinrich und dem Konvent des Zisterzienserklosters Langheim, in der Diözese Bamberg. | Zeugen: Heinrich, Abt von Langheim; Reinhard von Greußen (de Grüzen); Heinrich von Streiperg; Albert von Redwitz; der Camerarius, Bursarius, Priester und Mönch des Klosters; Otto "magister in corona coeli" (Himmelkron) und andere.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Kulmbach">Kulmbach</cei:placeName>
+              <cei:placeName>Kulmbach</cei:placeName>
               <cei:date value="13380413">1338 April 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2012,7 +2012,7 @@
           <cei:chDesc>
             <cei:abstract>Die Grafen von Beichlingen versprechen eine Bestätigung des Markgrafen Friedrich von Meißen über die den Grafen von Hohnstein und von Schwarzburg verpfändeten Besitzungen in Frankenhausen und Brücken. Die Grafen Friedrich und Gerhard von Beichlingen, Herren von Rothenburg, und ihre Erben, geloben dem Grafen Günther dem Älteren von Schwarzburg, Graf Heinrich von Hohnstein, Herrn von Sondershausen, den Grafen Günther und Heinrich von Schwarzburg, Herren von Arnstadt, sowie den Grafen Heinrich und Günther von Schwarzburg, Herren von Schwarzburg, und all ihren Erben, vor dem Martinstag (1339 November 11) ein Bekenntnis des Markgrafen Friedrich von Meißen über die Belehnung mit ihrem Teil des Salzbrunnens zu Frankenhausen, den sie mit ihrem Teile des Hauses und der Stadt Frankenhausen und mit ihrem Haus zu Brücken den Hohnsteinern und den Schwarzburgen zum Pfande gesetzt haben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13390323">1339 März 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2147,7 +2147,7 @@
           <cei:chDesc>
             <cei:abstract>Verkauf der Stadt Frankenhausen durch die Grafen von Beichlingen an die Grafen von Schwarzburg. Friedrich Graf zu Beichlingen, sein Sohn Heinrich und ihre Erben, und Friedrich, Albrecht und Gebhard, Grafen zu Beichlingen und ihre Erben verkaufen den Grafen Günther und Heinrich von Schwarzburg, Herren zu Arnstadt, und ihren Erben, Frankenhausen, Haus und Stadt und alle ihre Weingärten mit allen Nutzen, Rechten, Freiheiten um 6500 (siebenthalbtausend) Mark lötigen Silbers Erfurter Währung. Sie geloben, niemanden in ihren Gerichten aufzuhalten, die Straßen nach und von Frankenhausen zu beschützen, ihre Weide nicht zu hindern. | Zeugen: Graf Günther der Ältere von Schwarzburg, Heinrich von Hohnstein dem Sondershausen ist, Albrecht Burggraf zu Kirchberg, Conrad von Tannrode, Albrecht von Hopfgarten, Heinrich von Magdela.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13401229">1340 Dezember 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2181,7 +2181,7 @@
           <cei:chDesc>
             <cei:abstract>Verkauf der Stadt Frankenhausen durch die Grafen von Beichlingen an die Grafen von Schwarzburg. Friedrich, Graf von Beichlingen, Heinrich sein Sohn und alle ihre Erben und Friedrich, Albrecht und Gerhard, Gebrüder, Grafen zu Beichlingen und ihre Erben bekennen, dass sie dem Grafen Günther von Schwarzburg (Arnstadt) und Erben Frankenhausen, Haus und Stadt verkauft haben für siebeneinhalbtausend Mark lötigen Silber Erfurter Währung. Das Geld sollen sie bezahlen in der Weise, dass sie 1000 Mark geben zu Lichtmess, 1700 auf den Sontag Lätare, auch haben sie für 2200 Mark lötigen Silber zum Pfande gegeben Haus und Stadt Schlotheim und andere Güter und Dörfer, die Graf Heinrich von Hohnstein, dem Sondershausen ist, ihnen "damit gesatzet". | Zeugen: Graf Günther der Ältere von Schwarzburg, Heinrich von Hohnstein, Albrecht Burggraf von Kirchberg, Konrad zu Tannroda, Albrecht von Hopfgarten, Heinrich von Madela und andere.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13401229">1340 Dezember 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2215,7 +2215,7 @@
           <cei:chDesc>
             <cei:abstract>Verkauf des Dorfes Holzußra durch die Grafen von Hohnstein an die Lutolf, Otto und Albrecht von Ebeleben. Graf Heinrich zu Hohnstein verkauft den Brüdern Lutolf, Otto und Albrecht, Herren zu Ebeleben, das Dorf Holzsußra für 70 Mark Silber Mühlhäuser Währung, vorbehaltlich des Rechtes des Rückkaufs innerhalb von zwölf Jahren. | Zeugen: Günther, Heynrich und Johannes von Bösleben (Buzeleyben), Heinrich von Schernberge, Heinrich von Wertenruten, Heinrich von Herbsleben (Herbersleyben), Heinrich von Bukersleyben (Schwager der Herren von Ebeleben) Vogt zu Kulan, Sigfrid Schalun, Thiezel von Vachen, Knechte und A.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Straußberg">Straußberg</cei:placeName>
+              <cei:placeName>Straußberg</cei:placeName>
               <cei:date value="13400617">1340 Juni 17</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2395,7 +2395,7 @@
           <cei:chDesc>
             <cei:abstract>Quittung des Grafen Friedrich von Beichlingen und seines Sohnes Heinrich über die Zahlung des Kaufgelds für die Stadt Frankenhausen durch die Grafen Günther und Heinrich von Schwarzburg. Graf Friedrich von Beichlingen und sein Sohn Heinrich quittieren den Grafen Günther und Heinrich von Schwarzburg die Zahlung von 1600 Mark Silber Kaufpreis für die Stadt Frankenhausen und entbindet die Stadt Frankenhausen selbst von den bezüglich jenes Kaufes getanen Gelübden. Die Grafen von Schwarzburg aber sollen der "Mume" der Grafen von Beichlingen, Mechtild von Brunswic die 50 Mark Zinsen von ihrem Leibgedingen zu Frankenhausen auszahlen. | Zeugen: Albrecht, Landgraf von Kirchberg; Konrad, Herr zu Tannroda; die Ritter Albrecht von Hopfgarten, Thyzel von Eschleben (Escheleybin), Ludewig von Hemleben (Hemeleybin), Heinrich Fraz und Friedrich von Hemleben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="13411224">1341 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2429,7 +2429,7 @@
           <cei:chDesc>
             <cei:abstract>Gewährleistung des Grafen Friedrich von Beichlingen und seines Sohnes Heinrich für das den Grafen Günther und Heinrich von Schwarzburg-Arnstadt verkaufte halbe Rathsfeld. Graf Friedrich von Beichlingen und sein Sohn Heinrich geloben den Grafen Günther und Heinrich von Schwarzburg, Herr von Arnstadt, denselben für das halbe, an sie verkaufte Rahtsfeld ein "rechte were" zu tun. Bürgen sind: Heynrich Grytze, Hermann von Kollede, Ludewig von Hemleben, Heinrich Fraz und Friderich von Hemleben, Herdeyn von Beringen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="13411224">1341 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2460,7 +2460,7 @@
           <cei:chDesc>
             <cei:abstract>Gesuch des Grafen Friedrich von Beichlingen und seines Sohnes Heinrich um Belehnung mit dem halben Rathsfeld, welches sie zuvor den Grafen Günther und Heinrich von Schwarzburg verkauft haben. Graf Friedrich zu Beichlingen und sein Sohn Heinrich erklären, dass sie das halbe Rathsfeld, das sie den Grafen Günther und Heinrich von Schwarzburg verkauft haben, zu Lehen nehmen wollen. | Zeugen: Albrecht Burggraf von Kirchberg, Konrad von Tannroda, Albrecht Ritter von Hopfgarten, Thiezel von Uthleiben, Lodewig von Hemeleyben, Heinrich Fraz und andere mehr.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="13411224">1341 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2494,7 +2494,7 @@
           <cei:chDesc>
             <cei:abstract>Belehnung der Ritter Albrecht von Hopfgarten und Heinrich von Magdala mit dem Salzbrunnen in Frankenhausen. Die Grafen Friedrich und Heinrich von Beichlingen sowie die Grafen Friedrich, Albrecht und Gerhard von Beichlingen-Rothenburg belehnen die Ritter Albrecht von Hopfgarten und Heinrich von Magdala (Madela) mit den Lehen, die sie von Markgraf Friedrich von Meißen über den Salzbrunnen zu Frankenhausen und über anderes mit der Stadt Frankenhausen an die Grafen von Schwarzburg verkauftes Gut erhalten haben. | Zeugen: Günther von Schwarzburg, Graf Hans von Hohnstein-Sondershausen, Albrecht Burggraf von Kirchberg, Konrad von Tannroda, Ludwig von Hemleben (Hemeleybin), Heinrich Fraz.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13411228">1341 Dezember 28</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -2529,7 +2529,7 @@
           <cei:chDesc>
             <cei:abstract>Verpfändung von Eckartsberga und Bechstedt durch Landgraf Friedrich von Thüringen an Graf Heinrich von Schwarzburg. Friedrich Landgraf zu Thüringen, zu Meißen und im Osterland, Herr des Pleißenlandes, erklärt, dass er für eine Heerfahrt (Herwart) von seinem Oheim, dem Grafen Heinrich von Schwarzburg 1300 Mark lötigen Silbers geliehen hat und ihm dafür einige seiner Besitzungen (das Haus Ekartsberge und alle seinen Nutzen zu Bechstedt) verpfändet. Diese Besitzungen soll jedoch, auf ein Jahr, zunächst noch inne haben: Kunemunt von Stotternheim (Stuternheim) und im Falle seines vorzeitigen Todes die Ritter Konrad Worm und Christian von Witzleben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="13420929">1342 September 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -3185,7 +3185,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. gewährt den Städten Frankfurt und Friedberg Verzeihung, dass sie Graf Günther XXI. von Schwarzburg als römischen König gehuldigt haben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490528">1349 Mai 28</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -3929,7 +3929,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen bestätigt den Grafen Heinrich, Dietrich, Heinrich und Ulrich von Hohnstein ihr Pfandrecht in Frankenhausen. Landgraf Friedrich von Thüringen bestätigt den Grafen Heinrich, Dietrich, Heinrich und Ulrich von Hohnstein ihr Pfandrecht an allem, was von ihm zu Frankenhausen zu Lehn geht, namentlich am halben Born, nach Maßgabe der Urkunden, die sie darüber vom verstorbenen Grafen Günther zu Schwarzburg-Arnstadt, ihrem Schwager, empfangen haben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Gotha">Gotha</cei:placeName>
+              <cei:placeName>Gotha</cei:placeName>
               <cei:date value="13540210">1354 Februar 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4009,7 +4009,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. verleiht dem Grafen Heinrich von Schwarzburg Markt und Gerichtsbarkeit in Straußberg. Kaiser Karl IV. gestattet dem Grafen Heinrich von Schwarzburg, aus seinem Dorf zu Straußberg einen Marktflecken zu machen und daselbst einen wöchentlichen Markt abzuhalten. Zugleich verleiht er dem Grafen alle Gerichte, namentlich das oberste Gericht, das Haupt und Glieder anrufet, über alle Leute, die mit Übeltat im Straußberger Gebiet ergriffen werden.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Metz">Metz</cei:placeName>
+              <cei:placeName>Metz</cei:placeName>
               <cei:date value="13561221">1356 Dezember 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4053,7 +4053,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. verleiht dem Grafen Heinrich von Schwarzburg Markt und Gerichtsbarkeit in Ehrenstein. Kaiser Karl IV. gestattet dem Grafen Heinrich von Schwarzburg das Recht, unter seiner Feste Ehrenstein einen wöchentlichen Markt abzuhalten. Auch verleiht er ihm in demselben Markt alle Gerichte, namentlich das oberste Gericht über Hals und Hand.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Metz">Metz</cei:placeName>
+              <cei:placeName>Metz</cei:placeName>
               <cei:date value="13561221">1356 Dezember 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4097,7 +4097,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. belehnt Graf Heinrich von Schwarzburg mit dem Zoll in Sondershausen. Kaiser Karl IV. begnadet den Grafen Heinrich von Schwarzburg mit dem Zoll in Sondershausen, wie ihn der verstorbene Graf Heinrich von Hohnstein bereits besessen hat, nämlich: von einem Fass Wein ein Stübchen Weines, von der Tonne Heringe 4 Pfennig und bei anderer Ware vom Pferd 4 Pfennig.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Metz">Metz</cei:placeName>
+              <cei:placeName>Metz</cei:placeName>
               <cei:date value="13561221">1356 Dezember 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4138,7 +4138,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. verleiht dem Grafen Heinrich von Schwarzburg Markt und Gerichtsbarkeit in Göllingen. Kaiser Karl IV. verleiht dem Grafen Heinrich von Schwarzburg das Recht, im Dorf Göllingen einen Wochenmarkt abzuhalten. Zugleich begnadet er den Grafen mit allen Gerichten, namentlich dem Halsgericht, über den Marktflecken Göllingen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Metz">Metz</cei:placeName>
+              <cei:placeName>Metz</cei:placeName>
               <cei:date value="13561221">1356 Dezember 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4182,7 +4182,7 @@
           <cei:chDesc>
             <cei:abstract>Schlichtung von Streitigkeiten über die Jagd auf der Hainleite und über die Vogtei in Nordhausen und Ilfeld zwischen den Grafen von Hohnstein und den Grafen von Schwarzburg durch die Landgrafen von Thüringen. Die Landgrafen Friedrich und Balthasar von Thüringen schlichten die Streitigkeiten zwischen den Grafen Heinrich, Dietrich und Ulrich von Hohnstein einerseits und den Grafen Heinrich und Günther von Schwarzburg, Herren zu Arnstadt, andererseits. Es wird bestimmt: Alle Mannschaften und Lehen, die in der Grafschaft Hohnstein jenseits der Wipper (Wipfera) sind, gehören zu Hohnstein (ausgenommen sind Burglehen und Burggüter, diese sollen zu ihrer Burg gehören). Was den Grafen von Schwarzburg gehört und früher ihrem Schwager, dem Grafen Heinrich von Hohnstein zu Sondershausen, gehörte - diesseits der Wipper - bleibt schwarzburgisch. Die Jagd an dem Harz und am Kohnstein (Kanstein) gehört zu Hohnstein, die auf der Hainleite zu Schwarzburg. Die Jagd, die der Mannschaft gemeinsam war, bleibt gemeinsam. Die Vogtei zu Nordhausen und das Kloster Ilfeld, sind hohnsteinisch, die Klostergüter diesseits der Wipper sind schwarzburgisch. Ritter Walther von Mila und Heinrich von Rüxleben (Rukersleben) sollen über das Gut Düna (an der Dyne) entscheiden. Die Grafen von Hohnstein sollen ihre Mannschaft diesseits der Wipper lossagen und an die von Schwarzburg weisen und ebenso umgekehrt. | Zeugen: Bernhart Graf von Regenstein (Reinstein), Cunrat Graf von Werningerode, Heinrich Graf von Stolberg (Stalberg), Gebhard von Querfurt (Quernfurt), Heinrich Vogt von Gera, Konrad (Cunrat) von Tannroda, Christian (Cristan) von Witzleben, Hofrichter, Heinrich von Rochwitz (Rochewicz) Kanzler.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="13560802">1356 August 2</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4234,7 +4234,7 @@
           <cei:chDesc>
             <cei:abstract>Schlichtung von Streitigkeiten über die Jagd auf der Hainleite und über die Vogtei in Nordhausen und Ilfeld zwischen den Grafen von Hohnstein und den Grafen von Schwarzburg durch die Landgrafen von Thüringen. Wie Nr. 115.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="13560802">1356 August 2</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4320,7 +4320,7 @@
           <cei:chDesc>
             <cei:abstract>Schiedsspruch im Streit zwischen den Landgrafen von Thüringen und den Grafen zu Schwarzburg über Schloss und Stadt Frankenhausen. Zwischen Landgraf Friedrich und seinem Bruder Balthasar einerseits und den Grafen Heinrich und Günther von Schwarzburg waren Streitigkeiten ausgebrochen wegen Frankenhausen. Als Schiedsrichter für die Streitigkeiten sind gewählt worden die Großmutter der beiden Landgrafen, Elisabeth, und Konrad von Tannroda der Ältere, Hofrichter, Christian (Kristan) von Witzleben, Kanzler, Heinrich von Kottewitz, Hans Deynhart, Hans von Meinsberg und Dietrich von Weißensee, Bürger zu Erfurt. Die Landgrafen verzichten auf Frankenhausen, dafür wird ihnen Drinburg, Haus und Stadt, Lobdeburg und die Lehen vor Windberg (?), die Häuser mit Mannschaften und allem Zubehör, Tautenburg. Das Schiedsgericht soll am nächsten Dienstag gehalten werden. Wenn die Großmutter bis dahin stirbt, sollen die genannten sechs Herren allein entscheiden. Diese sollen auch die Entscheidung darüber haben, wenn etwa ein Streit zwischen den Landgrafen und den Städten Erfurt und Mühlhausen oder zwischen ihren Dienern entsteht.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Gotha">Gotha</cei:placeName>
+              <cei:placeName>Gotha</cei:placeName>
               <cei:date value="13580907">1358 September 7</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4712,7 +4712,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. und Markgraf Otto von Brandenburg begnadigen die Städte in der Altmark Stendal, Salzwedel, Gardelegen, Osterburg und Tangermünde und die Landgemeinden, die dazu gehören, dass, was ihnen Graf Heinrich von Schwarzburg ihr Hauptmann in der Altmark oder dessen Amtsnachfolger zu lehen oder zu eigen geben wolle, Gültigkeit haben solle, als hätten sie es selbst getan</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13660222">1366 Februar 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4761,7 +4761,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. und Markgraf Otto von Brandenburg begnadigen die Städte in der Altmark Stendal, Salzwedel, Gardelegen, Osterburg und Tangermünde und die Landgemeinden, die dazu gehören, dass, was ihnen Graf Heinrich von Schwarzburg ihr Hauptmann in der Altmark oder dessen Amtsnachfolger zu lehen oder zu eigen geben wolle, Gültigkeit haben solle, als hätten sie es selbst getan. Genau derselbe Inhalt wie Nr. 129.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13660222">1366 Februar 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -4850,7 +4850,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. bestätigt die Privilegien der Stadt Werben/Elbe. Karl IV. bestätigt alle Freiheiten, Rechte und Gewohnheiten der Bürger von Werben/Elbe.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13660127">1366 Januar 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -5799,7 +5799,7 @@
           <cei:chDesc>
             <cei:abstract>König Wenzel bestätigt alle Briefe seines Vaters Karl IV. über Einkünfte in Frankfurt, Gelnhausen, Friedberg und Mainz. König Wenzel bestätigt alle Briefe, die sein Vater den Grafen Heinrich und Günther von Schwarzburg und Heinrich und Dittrich von Hohnstein gegeben hat, nämlich die jährliche Gulte in den Städten Frankfurt, Gelnhausen, Friedberg und den Zoll zu Mainz.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Frankfurt am Main">Frankfurt am Main</cei:placeName>
+              <cei:placeName>Frankfurt am Main</cei:placeName>
               <cei:date value="13800501">1380 Mai 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -5875,7 +5875,7 @@
           <cei:chDesc>
             <cei:abstract>Die Grafen Heinrich und Günther von Schwarzburg, Herren zu Arnstadt und Sondershausen, kaufen Arnstadt und Plaue von den Grafen Heinrich und Günther von Schwarzburg, Herren zu Ranis und Blankenburg. Die Grafen Heinrich und Günther von Schwarzburg, Herren zu Arnstadt und Sondershausen, kaufen Arnstadt und Plaue um 12500 Mark lötiges Silbers von den Grafen Heinrich und Günther von Schwarzburg, Herren zu Ranis und Blankenburg. Davon haben sie 10000 Mark sogleich bezahlt und versprechen die übrigen 2500 Mark binnen zwei Jahren vom nächsten Walpurgistage an gerechnet zu bezahlen, nämlich an die Juden Friedel und Meckil zu Wilsin (?) 560 Schock guter meißnischer Groschen, an die Juden Samson von Duderstadt (Tudirstad) und Meyer von Osterode 348 Mark lötigen Silbers, an den Juden Leuwin 77 Pfund Pfennig und 15 Schock Groschen an Rechla von Magdeburg 400 Schock Groschen, an die Bürger zu Arnstadt 106 Schock Groschen, an den jungen Schalin 170 Schock Groschen, an den Juden Abraham 8 Schock Groschen, an Hermann Stege von Witzleben 600 Mark Silber, an denselben 400 Mark Silber, an Gottschalg Kieden von Lichtenberg 100 Mark Silber, an Hugo Bruns und seine Gesellschaft 104 Pfund Pfennig, an Hermann Hurkener und seine Gesellschaft 40 Pfund Pfennig; alle diese Schulden nehmen die Sondershäuser den Blankenburgern ab. Als Pfand setzen sie dafür Stadt und Schloss Arnstadt, welches sie bereits Hermann Werm und Heinrich von Stockhausen (Stoghusin) übergeben haben. Diese sollen es einstweilen behalten und haben den Blankenburgern bereits gehuldigt. Wenn binnen der genannten Zeit die Schulden bezahlt werden, sollen die genannten zwei Mannen ihrer Verpflichtungen wieder ledig sein und das Schloss den Sondershäusern wieder übergeben. Wenn aber die Schulden in der genannten Zeit nicht bezahlt werden, sollen die beiden Mannen auf die Aufforderung der Blankenburger diesen das Schloss übergeben; diese können es dann, wenn sie wollen, auch verkaufen. Alle Zinsen und Stützungen von Arnstadt sollen die Sondershäuser innehaben. Der Vogt zu Arnstadt hat den beiden, Hermann Werm und Heinrich von Stockhausen, bereits gehuldigt. Diese sollen die Sondershäuser nicht absetzen, ebenso seinen etwaigen Nachfolger, bevor nicht der mit dem Beirate der zwei Mannen ernannte gehuldigt hat. Wenn die 2500 Mark binnen der gesetzten Zeit bezahlt sind, soll auch Hermann von Holbach und Heinrich Schike (Schick) davon Mitteilung gemacht werden. Wenn einer von diesen beiden oder den frühen genannten beiden ausscheiden, soll an seiner Stelle ein anderer gewählt werden.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="13811220">1381 Dezember 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -6322,7 +6322,7 @@
           <cei:chDesc>
             <cei:abstract>Lehnbrief des Königs Wenzel über Ehrenstein. König Wenzel beleiht Graf Günther von Schwarzburg, Herrn zu Ranis, mit dem Amt Ehrenstein. Falls dieser ohne männliche Lehnserben sterben sollte, soll Graf Johann von Schwarzburg die Dörfer Großliebringen (Groß Lybergen), Kleinliebringen (Wenig Lybergen), Nahwinden, Ehrenstein (Teichmannsdorf), Kleinhettstedt (Wenig Hetsteten) und Dienstedt (?) (Tensteten) mit allen Nutzen und Zugehörungen erhalten.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13871121">1387 November 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -6755,7 +6755,7 @@
           <cei:chDesc>
             <cei:abstract>Leibgedinge für Gräfin Anna von Schwarzburg. Die Grafen Günther und Heinrich von Schwarzburg bekennen, dass sie die Städte Greußen (Markgreußen) und Clingen angewiesen haben, der Gräfin Anna von Schwarzburg, Gattin des Grafen Günther, jährlich am Michaelistage 100 Gulden lötigen Silbers Erfurtischen Gewichtes und Währung als Leibgedinge zu zahlen in einer der Städte Erfurt, Mühlhausen, Sondershausen, Frankenhausen oder Greußen. Als Vormünder für sie sind bestimmt ihr Vater Landgraf Johann von Leuchtenberg, ihr Bruder Sigost, Graf Friedrich von Beichlingen (Bichelingen). Es soll ihr ferner in einer der genannten Städte ein Siedelhof gegeben werden, der ihr genehm ist. Als Bürgen für die Ausführung des Vertrags werden bestimmt Graf Heinrich von Hohnstein, Ulrichs Sohn, Herr zu Kelbra, Graf Dietrich von Hohnstein, Herr zu Heringen, Gerhard Marschalk, Apel von Ebeleben, Ritter, sein Bruder Otto von Ebeleben, Dietrich von Hopfgarten. Falls die Zahlung der 100 Mark Silbers nicht erfolgt, sollen die Bürgen das Recht haben, Einlager in die genannten Städte zu legen bis zur Zahlung, und ebenso in das Gebiet der Grafen von Schwarzburg, wenn diese den Vertrag nicht halten. Wenn einer der Vormünder oder Bürgen stirbt, soll Anna das Recht haben, einen anderen an seiner Stelle zu wählen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Sondershausen">Sondershausen</cei:placeName>
+              <cei:placeName>Sondershausen</cei:placeName>
               <cei:date value="13960807">1396 August 7</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -7468,7 +7468,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen belehnt die Grafen Heinrich und Günther von Schwarzburg mit Kyffhausen. Landgraf Friedrich von Thüringen belehnt die Grafen Heinrich und Günther von Schwarzburg, Herren zu Sondershausen und Arnstadt, mit Schloss und Berg Kyffhausen unter der Bedingung, dass sie keine neue Burg auf dem Berg erbauen ohne Vorwissen des Lehnsherren; die daselbst befindliche Wohnung dürfen sie jedoch ausbessern lassen. | Zeugen: Graf Friedrich von Beichlingen, Burggraf Albrecht von Kirchberg, Herr zu Kranichfeld, und der Marschall Hans von Polentzigk.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14070601">1407 Juni 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -7543,7 +7543,7 @@
           <cei:chDesc>
             <cei:abstract>König Ruprecht bestätigt das Reichslehen über Schwarzburg und Königsee, die vormals Graf Johannes von Schwarzburg und Heinrich, sein Enkel zu Lehen gehabt haben, und die augenblicklich der Bruder des Verstorbenen, Günther von Schwarzburg zu Lehen hat, und die, falls dieser Günther ohne Erben sterben sollte, Graf Günther, Herr zu Ranis, erhalten soll</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mergentheim">Mergentheim</cei:placeName>
+              <cei:placeName>Mergentheim</cei:placeName>
               <cei:date value="14080126">1408 Januar 26</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -7582,7 +7582,7 @@
           <cei:chDesc>
             <cei:abstract>König Ruprecht bestätigt dem Grafen Günther von Schwarzburg, Herrn zu Ranis, den Zoll (von jedem geladenen Lastwagen einen Meissener Groschen) zu Rudolstadt und Ehrenstein</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mergentheim">Mergentheim</cei:placeName>
+              <cei:placeName>Mergentheim</cei:placeName>
               <cei:date value="14080201">1408 Februar 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -7621,7 +7621,7 @@
           <cei:chDesc>
             <cei:abstract>Leibgedingsbrief des Landgrafen Friedrich von Thüringen für seine Gemahlin Anna, geborene von Schwarzburg. Landgraf Friedrich von Thüringen verschreibt seiner Gemahlin Anna, geborene von Schwarzburg, die Städte und Schlösser Käfernburg, Tenneberg und Waltershausen als Leibgedinge mit allen Zugehörungen unter der Bedingung, dass sie diese so verwalte, dass sie der Herrschaft nicht entfremdet werden. Auch sollen die etwaigen Erben des Landgrafen das Recht haben, die genannten Schlösser und Städte für 12000 rheinische Gulden zurückzukaufen. Als Vormünder werden bestellt der Erzbischof Günther von Magdeburg und die Grafen Heinrich und Günther von Schwarzburg. | Zeugen: Heinrich von Plauen, Graf Günther von Schwarzburg, Herr zu Schwarzburg, Graf Heinrich von Schwarzburg, Herr zu Leutenberg, Ludwig und Heinrich, Herren zu Blankenhain, Gebhard von Querfurt, Herr zu Tannroda, Dietrich von Buwalde, Hofmeister, Busse Vitzthum, Marschall, Apel Vitzthum und Dietrich von Witzleben, Ritter, Dietrich von Hopfgarten.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14080809">1408 August 9</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -8706,7 +8706,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Brandenburg belehnt Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen mit der Stadt Görzke</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wittenberg">Wittenberg</cei:placeName>
+              <cei:placeName>Wittenberg</cei:placeName>
               <cei:date value="14210508">1421 Mai 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -8981,7 +8981,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen belehnt Graf Heinrich von Schwarzburg mit einem Mühlteich zu Ilmenau. Landgraf Friedrich von Thüringen und Markgraf zu Meißen belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, mit einem Mühlteich zu Ilmenau. | Zeugen: Graf Friedrich von Beichlingen, Hofmeister, Dietrich von Witzeleben, Ritter, Albrecht von Harraß, Marschalk, Rudolf von Meldingen und Georg (Jörge) von Heitingsburg, Räte.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Gotha">Gotha</cei:placeName>
+              <cei:placeName>Gotha</cei:placeName>
               <cei:date value="14240713">1424 Juli 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -9222,7 +9222,7 @@
           <cei:chDesc>
             <cei:abstract>Eventualbelehnung der Anna von Schwarzburg mit der Hälfte von Arnstadt durch Landgraf Friedrich von Thüringen. Landgraf Friedrich von Thüringen belehnt Anna von Schwarzburg, Tochter des Grafen Heinrich von Schwarzburg, Herrn von Arnstadt und Sondershausen, mit der Hälfte von Stadt und Schloss Arnstadt samt allen Zugehörungen als Knechtlehen, falls Heinrich ohne Lehnserben sterben sollte. | Zeugen: Herr Busse Vitzthum, Dietrich von Witzleben, Friedrich von Hopfgarten, Ritter, Hans von Polenz (Polentzk), Gerhard Marschalk, Georg von Heitingsburg.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Jena">Jena</cei:placeName>
+              <cei:placeName>Jena</cei:placeName>
               <cei:date value="14280319">1428 März 19</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -9654,7 +9654,7 @@
           <cei:chDesc>
             <cei:abstract>Friedrich und Sigismund, Landgrafen in Thüringen und Markgrafen zu Meißen, belehnen auf dessen Bitten Heinrich von Schwarzburg zusammen mit Bodo von Stolberg, Gottschalk und Thomas von Plessow (?) und Heinrich dem Jüngeren und dem Älteren von Gera mit Schloss und Stadt Heringen nebst allem Zubehör | Zeugen: Der Kanzler Georg von Nebildow, der Obermarschall Conrad von Stein, der Hofmeister Konrad (von) Thüna, die Ritter Eberhard von Brandenstein und Heinrich von Bünau, der Jüngere, die Räte Friedrich von Maltitz und Hugold von Schleinitz (Slynitz).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Altenburg">Altenburg</cei:placeName>
+              <cei:placeName>Altenburg</cei:placeName>
               <cei:date value="14320228">1432 Februar 28</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -9801,7 +9801,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen belehnt die Grafen von Stolberg, Schwarzburg und von Hohnstein mit der Ebersburg, Roßla, Röblingen, Bleicherode und Hüttenrode. Langraf Friedrich von Thüringen beurkundet, dass die Grafen Bodo von Stolberg, Heinrich von Schwarzburg, Herr von Arnstadt und Sondershausen, sowie Ernst und Eldiger (Eylger) von Hohnstein, Herren von Lohra und Klettenberg, eine Verabredung getroffen haben, nach der die drei letzten zusammen mit dem ersten mit dem Schlosse Ebersburg (Ebersperg), Roßla und Röblingen (Rebenyngen), und der erste zusammen mit den anderen mit der Stadt Bleicherode und Hüttenrode (Hotenrode) belehnt werden, mit der Bestimmung, dass wenn einer der Genannten ohne Leibeserben stirbt, sein Anteil den anderen zufallen soll. | Zeugen: Busse Vizthum der Ältere, Friedrich von Hopfgarten, Gerhard Marschalk, Obermarschall Heinrich von Hausen (Husen), Oberschreiber Thomas von Buttelstedt (Bottilstet).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14331025">1433 Oktober 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -9838,7 +9838,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen belehnt die Grafen von Stolberg, Schwarzburg und von Hohnstein mit der Ebersburg, Roßla und Röblingen und sichert das Leibgedinge der Anna von Stolberg. Landgraf Friedrich von Thüringen belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, Graf Bodo von Stolberg und die Grafen Heinrich, Ernst und Eldiger (Eylger) von Hohnstein, Herren zu Lohra und Klettenberg, mit der Ebersburg, Roßla und Röblingen (Rebenyngen), ohne Schaden jedoch für das Leibgedinge von Bodos Gemahlin Anna, das ihr an den Schlössern Roßla und Röblingen verschieben ist, und mit der Bedingung, dass wenn die Grafen von Hohnstein ohne Leibeserben sterben sollten, ihr Anteil an die beiden anderen übergeht. | Zeugen: die Ritter Busse Vitzthum und Friedrich von Hopfgarten, Gerhard Marschalk, Obermarschall Heinrich von Hausen, Oberschreiber Thomas von Buttelstedt (Bottilstedt).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14331022">1433 Oktober 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10122,7 +10122,7 @@
           <cei:chDesc>
             <cei:abstract>Die Landgrafen von Thüringen belehnen Graf Heinrich von Schwarzburg mit Stadtilm. Die Herzöge Friedrich und Siegmund von Sachsen, Landgrafen von Thüringen, beurkunden, dass Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, von Graf Günther von Schwarzburg, Herr zu Schwarzburg, die Stadt Stadtilm gekauft hat. Heinrich von Schwarzburg wird, soweit Stadtilm in ihrem Besitz ist, belehnt. Bedingung ist, dass er, sollte einer von beiden oder ihr Vetter Friedrich, Landgraf von Thüringen, es zurückkaufen wollen, damit einverstanden ist. Ebenso soll, wenn etwa der genannte Günther zu Schwarzburg oder Sieghard und Günther von Schwarzburg, Herren zu Leutenberg, ohne Leibeserben sterben solllten, und sie oder ihr Vetter Friedrich ihren Anteil zurückkaufen wollen, jedem seinen Anteil für 600 Mark lötigen Silbers zurückgeben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Altenburg">Altenburg</cei:placeName>
+              <cei:placeName>Altenburg</cei:placeName>
               <cei:date value="14340831">1434 August 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10161,7 +10161,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen belehnt Graf Heinrich von Schwarzburg mit Stadtilm. Herzog Friedrich von Sachsen, Landgraf von Thüringen belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, mit Stadtilm, nachdem er es von Graf Günther von Schwarzburg, Herr zu Schwarzburg, gekauft hat. Er behält sich jedoch das Recht vor, es jederzeit auch für sich und seine Erben zu erwerben, und besonders soll es gestattet sein, falls der genannte Graf Günther oder die Grafen Sieghard und Günther von Schwarzburg, Herren zu Leutenberg, ohne Leibeserben sterben sollten, seinen Anteil für 600 Mark lötigen Silbers, und für denselben Preis den seinen Vettern Friedrich und Siegmund zurückzukaufen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14340831">1434 August 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10551,7 +10551,7 @@
           <cei:chDesc>
             <cei:abstract>Die Brüder Friedrich und Sigismund, Herzöge von Sachsen und Landgrafen in Thüringen, Friedrich Landgraf in Thüringen, Graf Heinrich zu Schwarzburg, Herr zu Arnstadt und Sondershausen, Graf Bodo von Stolberg, die Grafen Volrad, Gelhard und Günther von Mansfeld sowie Gebhard von Querfurt geloben, den Grafen Ulrich von Regenstein (Reinstein), der sich mit ihnen gegen die von Magdeburg verbündet hat, zu schützen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Zwickau">Zwickau</cei:placeName>
+              <cei:placeName>Zwickau</cei:placeName>
               <cei:date value="14350525">1435 Mai 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10690,7 +10690,7 @@
           <cei:chDesc>
             <cei:abstract>Landgraf Friedrich von Thüringen nimmt die Güter und Zinsen, welche das Kloster Pforte im Gericht von Käfernburg vormals erworben hat, jetzt aber, um sein durch Feuer beschädigtes Münster wiederaufzubauen, verkauft hat, von ihm auf und eignet sie dem Kloster Paulinzella zu. Landgraf Friedrich von Thüringen stimmt der Vereinbarung zwischen den Klöstern Pforta und Paulinzella zu: Der Abt Jakob vom Kloster Pforta hat ihn um Zustimmung gebeten, um die Mittel zur Wiederherstellung des durch Brand beschädigten Gotteshauses des Klosters Pforta zu erlangen, an den Abt Johann, den Prior und die ganze Samnung des Klosters Paulinzella folgende Einkünfte im Gericht Käfernburg verkaufen zu dürfen: zu Alkersleben acht Malter und ein 1/2 Metzen Korns, ein Malter und zwei Metzen Gerste Arnstädtischen Maßes, sechs Malter Hafer, neuntehalb Schilling Pfennigs, neun Hühner, das Geld von 1/2 Backofen, zwei Höfen und achthalb Hufen Landes, zu Osthausen ein Huhn von einem Weingarten, zu Oberwillingen 22 Schilling Pfennige von 1/2 Hufe Landes zu Hausen 22 Schilling Pfennige von einer Hufe Landes, zu Dannheim achtzehntehalb Schilling Pfennig von 1/2 Hufe Landes zu Arnstadt 94 Schilling Pfennige, zu Bösleben drei Pfund fünf Schilling Pfennige von einer Hufe, drei Hufen und ein Viertel Landes, zu Dornheim (Großen Dornheym) drei Pfund fünf Schilling Pfennige von sechs Höfen, vier Gärten, vier Hufen und vier Ackern Landes und 1/2 Ackern Weingarten, zu Rehestädt (Rechstete) acht Schillinge und zwei Hühner von 1/2 Hufe, und zu Elleben zwei Pfund von fünf Acker Wiesen. Die Urkunde enthält den Konsens zu dem Verkauf und die Belehnung mit den Zinsen. | Zeugen: Bodo zu Stolberg, Busse Vitzthum der Ältere, Friedrich von Hopfgarten, Friedrich von Witzleben, Heinrich von Hausen, Thomas von Buttelstedt (Bottilstedt).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Gotha">Gotha</cei:placeName>
+              <cei:placeName>Gotha</cei:placeName>
               <cei:date value="14361019">1436 Oktober 19</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10732,7 +10732,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Günther von Magdeburg belehnt Graf Heinrich von Schwarzburg mit Pfannen in Halle und dem Siedelhof zu Döllnitz. Erzbischof Günther von Magdeburg belehnt seinen Bruder, Graf Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit der Feste Giebichenstein bei Halle und dem Siedelhof in Döllnitz. Im Jahre 1433 war Erzbischof Günther aus Magdeburg und Halle vertrieben worden. Während seiner Abwesenheit hatten Kurfürst Friedrich von Sachsen und Herzog Sigismund von Sachsen die Feste Giebichenstein als Pfand innegehabt und diese, da der bisherige Lehnsmann Kuno Baldewin (Kune Baldewyn) ohne Erben gestorben war, dem Ritter Curt von Stein zum Lehen gegeben. Nach der Rückkehr des Erzbischofs verglich sich dieser mit den Herzögen von Sachsen wegen Giebichenstein und gab dieses nebst verschiedenen anderen seinem Bruder Graf Heinrich von Schwarzburg, der an Curt von Stein 2500 rheinische Gulden gezahlt hat, auf seine Bitte zum Lehen. Das ganze Lehen besteht aus - 24 Pfannen im "im dutzschen Bornen" zu Halle, von denen augenblicklich 11 Koppe von Ammendorf, zwei Clauwis Kopitz, zwei Hentze Smed, zwei Henrich Holtzwart, eine Heinrich Koch, eine Hans Schraplau (Schrapelow), vier Lorenz Brachstete und eine "die Kotzen" innehaben, - vier Vierteilen und zwei Pfannen im Gutjare, die augenblicklich Hans Schafstete innehat, - einem Viertel und zwei Pfannen, die Caspar und Albrecht von Ende innehaben, - einem Viertel und zwei Pfannen, die Jacob Kindow (Jacof Cyndow) innehat, - einem Viertel, das Hans Schreiber innehat, - zwei Nösel im Hakeborn, die Andrewis Fischer und Clauwis Serwitz innehaben, - vier Viertel in der Metritze, die Martin Hothanz (ein Viertel), Caspar von Rude (ein Nösel), Reynhart Goldschmied (ein Nösel), Clauwitz Serwitz (ein Viertel), Heinrich Schüler (ein Nösel) und Heine und Berndt, genannt die Ludicken (ein Nösel), innehaben, - ferner aus dem halben Lehen an der Vorsaale, das "die Kotzen" innehaben, - dem Lutkenhof (?) und andere Zinsen in der Stadt Halle, - dem Siedelhof zu Döllnitz und dem Dorfe daselbst, - drei 1/2 Hufen zu Gröbers gelegen auf der Stabil und der Perlitzmarken, - drei 1/2 Hufen Landes und zwei Höfe zu Bennewitz, - dem Hofe zu Lochau (Lochnow) mit dem Dorfe daselbst, - ein 1/2 Hufen Landes zu Morl (Mordel), - sechs Hufen Landes und J. Höfen zu Gustow (?), - zwei 1/2 Hufen und ein Hofe Wiese und Weiden zu Schobelitz, - eine Hufe Landes und ein Hof zu Stutz, die von Nordhausen an Kuno von Ammendorf gekommen sind, - ferner den Zinsen von dem Neuen Markt und der Ketzerstraße zu Halle, die augenblicklich Otto und Geiseler von Dieskau innehaben, und endlich - verschiedene andere nicht genannte Güter. Falls der männliche Stamm des Grafen Heinrich von Schwarzburg ausstirbt, sollen die Lehen an den dann im Amte befindlichen Erzbischof zurückfallen. Als Zeugen dienen der Domprobst Burkhart von Merseburg (Merberge) und der Dechant Heinrich daran. Vgl. Bestätigungen Nr. 306 und Nr. 340.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Magdeburg">Magdeburg</cei:placeName>
+              <cei:placeName>Magdeburg</cei:placeName>
               <cei:date value="14360506">1436 Mai 6</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -10956,7 +10956,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Sigismund gibt seine Zustimmung dazu, dass Konrad Goldner einige Reichslehen im Dorfe Hammerstedt und in dem Gericht zu Kapellendorf an den Erfurter Bürger Johann Milwitz verkauft hat. Kaiser Sigismund gibt seine Zustimmung dazu, dass Konrad Goldner einige Reichslehen im Dorfe Hammerstedt und in dem Gericht zu Kapellendorf an den Erfurter Bürger Johann Milwitz, Meister in freien Künsten, und dessen Erben verkauft hat, nämlich 12 Höfe und Häuser, sechs Hufen Artland, davon man jährlich als Zins gibt 14 1/2 Malter Korn, Gerste und Hafer und etliche Pfennig Zinsen, die Erhard und Friedrich von Würtzburg, zu Rothenkirchen gesessen, und Hermann von Berge, Bürger zu Jena, inne gehabt haben. Die Lehen hat vorher Konrad Goldner besessen, sie aber durch Kauf an Johann Milwitz und dessen Erben abgegeben. Als Strafe für den, der sich gegen den Kauf vergeht, wird festgesetzt 60 Mark lötigen Silbers Erfurtischen Gewichts, die an den Kaiser, 40, die an das Reich, und 20, die an die jedesmaligen Lehnsinhaber zu zahlen sind. Vgl. Nr. 310.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="14370218">1437 Februar 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11033,7 +11033,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Friedrich und Wilhelm zu Sachsen, Landgrafen von Thüringen und Landgraf Friedrich von Thüringen erteilen den Grafen Bodo von Stolberg, Heinrich dem Älteren und Heinrich dem Jüngere von Schwarzburg, Herren zu Arnstadt und Sondershausen, und Heinrich, Ernst und Eldiger von Hohnstein einen Schutzbrief gegen den Bischof Burchard von Halberstadt und die Städte Halberstadt, Quedlinburg und Aschersleben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Saalfeld">Saalfeld</cei:placeName>
+              <cei:placeName>Saalfeld</cei:placeName>
               <cei:date value="14380109">1438 Januar 9</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11078,7 +11078,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Friedrich und Wilhelm zu Sachsen, Landgrafen von Thüringen und Landgraf Friedrich von Thüringen erteilen den Grafen Bodo von Stolberg, Heinrich dem Älteren und Heinrich dem Jüngere von Schwarzburg, Herren zu Arnstadt und Sondershausen, und Heinrich, Ernst und Eldiger von Hohnstein einen Schutzbrief gegen den Bischof Burchard von Halberstadt und die Städte Halberstadt, Quedlinburg und Aschersleben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Saalfeld">Saalfeld</cei:placeName>
+              <cei:placeName>Saalfeld</cei:placeName>
               <cei:date value="14380109">1438 Januar 9</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11505,7 +11505,7 @@
           <cei:chDesc>
             <cei:abstract>König Friedrich III. belehnt Ulrich von Dymerode zusammen mit seinen Brüdern Johann und Heinrich mit dem bei Frankenhausen gelegenen Reichslehen Schüsselholz. König Friedrich III. belehnt den persönlich erschienenen Ulrich von Dymerode zusammen mit seinen Brüdern Johann und Heinrich mit dem bei Frankenhausen gelegenen Reichslehen Schüsselholz mit allen Zugehörungen, wie sie und ihre Vorfahren es bisher besessen haben, jedoch unbeschadet der Rechte von König und Reich sowie Dritter. Nach altem Herkommen sollen Ulrich und seine Brüder dafür einen Heerwagen mit Schüsseln als Zins entrichten, falls er oder seine Nachfolger im Reich nach Thüringen kämen. König Friedrich bestätigt, dass Ulrich für sich und seine Brüder den gewöhnlichen Eid geschworen hat. Vgl. Nr. 264 und 385.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Straßburg">Straßburg</cei:placeName>
+              <cei:placeName>Straßburg</cei:placeName>
               <cei:date value="14420827">1442 August 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11714,7 +11714,7 @@
           <cei:chDesc>
             <cei:abstract>Die Landgrafen Friedrich und Wilhelm von Thüringen belehnen Graf Heinrich den Jüngeren von Schwarzburg mit Ichstedt, Arnstadt, Stadtilm und Plaue. Die Herzöge Friedrich und Wilhelm von Sachsen, Landgrafen von Thüringen belehnen auf Antrag des Grafen Heinrich von Schwarzburg, dessen Sohn und dessen Lehnserben mit den Schlössern und Städten, Ichstedt, Arnstadt, Stadtilm und Plaue, somit auch mit allen anderen Städten, Schlössern und Gütern, die Graf Heinrich bereits als Lehen gehabt hat. In Heringen und Kelbra erfolgt die Belehnung gemeinsam mit den Grafen von Stolberg. Zugleich wird bestimmt, dass, wenn Bodo von Stolberg ohne Leibeserben sterben sollte, dessen Anteil auf die beiden Grafen Heinrich von Schwarzburg übergehen soll. | Zeugen: Der Obermarschalk Georg von Bebenburg (Jürge von Bebemburg), Bernhard von Kochberg, Ritter Friedrich von Witzleben, Thame Loser, Friedrich von Maltitz, Otto Spigel.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Meißen">Meißen</cei:placeName>
+              <cei:placeName>Meißen</cei:placeName>
               <cei:date value="14430211">1443 Februar 11</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11754,7 +11754,7 @@
           <cei:chDesc>
             <cei:abstract>Die Landgrafen Friedrich und Wilhelm von Thüringen belehnen die Grafen von Schwarzburg und von Hohnstein zusammen mit Graf Bodo von Stolberg mit Ebersburg, Roßla und Röblingen. Die Herzöge Friedrich und Wilhelm von Sachsen, Landgrafen von Thüringen belehnen die Grafen Heinrich den Jüngeren und Heinrich den Älteren von Schwarzburg und die Grafen Heinrich und Ernst von Hohnstein zusammen mit Graf Bodo von Stolberg mit den Schlössern Ebersburg (Ebersperg), Roßla und Röblingen (Rebeningen). Die Grafen von Schwarzburg und der Graf von Stolberg werden zusammen mit den Grafen von Hohnstein mit Schloss und Stadt Bleicherode und Hüttenrode (Hönterode) belehnt, jedoch so, dass das Leibgedinge von Bodos Gemahlin an den Schlössern Ebersburg, Roßla und Röblingen nicht geschädigt wird. Wenn der Graf von Stolberg oder die Grafen von Hohnstein ohne Leibeserben sterben, sollen die anderen deren Lehnsanteil erhalten. | Zeugen: Der Obermarschall Georg von Bebenburg (Jürge von Bebemberg), Bernhard von Kochberg, Friedrich von Witzleben, Thame Loser, Friedrich von Maltitz, Otto Spigel.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Meißen">Meißen</cei:placeName>
+              <cei:placeName>Meißen</cei:placeName>
               <cei:date value="14430211">1443 Februar 11</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11792,7 +11792,7 @@
           <cei:chDesc>
             <cei:abstract>Die Landgrafen Friedrich und Wilhelm von Thüringen belehnen die Grafen Heinrich von Schwarzburg und Bodo von Stolberg gemeinschaftlich mit Heringen. Die Herzöge Friedrich und Wilhelm von Sachsen, Landgrafen von Thüringen, belehnen den Grafen Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, und Graf Bodo von Stolberg gemeinschaftlich mit Heringen, nachdem sie die Hälfte der Stadt, die Gottschalk und Thomas von Plessow und Heinrich der Ältere und der Jüngere von Gera besessen, von diesen zu der ihrigen Hälfte hinzugekauft haben. Wer ohne Leibeserben von ihnen stirbt, dessen Anteil soll auf den anderen übergehen. | Zeugen: Der Obermarschall Georg von Bebenburg (Jürge von Bebemburg), Bernhard von Kochberg, Friedrich von Witzleben, Thame Loser, Friedrich von Maltitz, Otto Spigel.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Meißen">Meißen</cei:placeName>
+              <cei:placeName>Meißen</cei:placeName>
               <cei:date value="14430211">1443 Februar 11</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -11863,7 +11863,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Sachsen und sein Bruder Landgraf Wilhelm von Thüringen belehnen die Grafen Heinrich von Schwarzburg und Bodo von Stolberg gemeinsam mit der Hälfte von Kelbra. Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, und Graf Bodo von Stolberg haben vor Zeiten den Markgrafen Friedrich und Wilhelm zu Meißen und dem Landgrafen Friedrich von Thüringen 14900 rheinische Gulden und 200 lötige Mark Silbers geliehen, wofür sie die Hälfte von Kelbra, die einst Heinrich von Hohnstein besessen, als Pfand erhalten haben. Jetzt haben sie den Herzögen Friedrich und Wilhelm von Sachsen, den Söhnen des zuerst genannten Friedrich, noch 2000 Gulden dazu geliehen, aber darum gebeten, dass ihnen und dem Sohne Heinrichs, Heinrich, die Hälfte von Kelbra als Gesamtlehen gegeben werde. Die Herzöge leihen es ihnen, machen aber zur Bedingung, dass die Stadt in allen ihren Kriegen für sie offen bleiben muss außer gegen den Erbherrn und gegen den Erzbischof Günther von Magdeburg. Dafür aber wollen sie wiederum die Grafen schützen. | Zeugen: Georg (Jürge) von Bebenburg, Obermarschall, Bernhard von Kochberg, Hofmeister, Friedrich von Witzeleben, Thame Loser, Friedrich von Maltitz, Otto Spigel.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Meißen">Meißen</cei:placeName>
+              <cei:placeName>Meißen</cei:placeName>
               <cei:date value="14430210">1443 Februar 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -12523,7 +12523,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen verkauft das Schloss Käfernburg an Graf Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, für 10000 rheinische Gulden. Herzog Wilhelm von Sachsen beurkundet, dass er das Schloss Käfernburg mit allem Zubehör und allen Rechten an Graf Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, für 10000 rheinische Gulden verkauft hat, mit Ausnahme der geistlichen Lehen und der Ritterlehen. Wenn die Käfernburg etwa an jemand verloren geht, will der Herzog mit dem, der sie genommen, nicht eher Frieden machen, als bis sie dem Grafen zurückgegeben ist. Wenn der Herzog die Burg zurückkaufen will, soll er es 1/2 Jahr vor Ostern ansagen und dann zum 1. Ostertag das Geld in Erfurt oder Arnstadt zurückzahlen; wenn er dazu nicht imstande ist, haftet er für allen entstehenden Schaden. Bürgen für den Vertrag sind Günther von Beichlingen, Günther von Mansfeld, Adolf von Gleichen, Siegesmund von Gleichen, Friedrich von Hopfgarten, Friedrich von Witzleben, Apel Vitztum der Ältere, Heinrich Hachte zu Brücken, Claus von Wangenheim, Thilo von Sebach. Diese erklären sich einverstanden und wollen eventuell selbst als Schuldner eintreten.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißenfels">Weißenfels</cei:placeName>
+              <cei:placeName>Weißenfels</cei:placeName>
               <cei:date value="14460501">1446 Mai 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -12579,7 +12579,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen bestimmt, dass, falls in der Käfernburg, die Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, von ihm gekauft hat, sich Bauten nötig machen sollten, diese von ihren beiderseitigen Räten bestimmt werden sollen, dass dann Heinrich sie ausführen, aber beim Wiederkaufe seine Auslagen zurückerhalten soll</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14460516">1446 Mai 16</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -12860,7 +12860,7 @@
           <cei:chDesc>
             <cei:abstract>König Friedrich III. gewährt Graf Heinrich von Schwarzburg auf dessen Bitte zwei Jahre Aufschub zum Empfang der erblich an ihn gefallenen Reichslehen Schloss Schwarzburg und Stadt Königsee. König Friedrich III. gewährt Graf Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, auf dessen Bitte zwei Jahre Aufschub zum Empfang der nach dem Tod des Grafen Günthers von Schwarzburg, erblich an ihn gefallenen Reichslehen Schloss Schwarzburg und Stadt Königsee mit ihren Zugehörungen und unbeschadet Heinrichs Rechten an diesen Lehen. Er bestimmt, dass Heinrich innerhalb dieser Zeit vor ihm persönlich erscheinen soll, um die Lehen zu empfangen und ihm dafür zu huldigen und zu schwören. König Friedrich III. gewährt ihm außerdem im Namen seines Vetters König Ladislaus von Ungarn und Böhmen solange Aufschub zum Empfang der von der Krone Böhmen zu Lehen gehenden, an Heinrich nach dem Tod seines Vaters Graf Heinrich von Schwarzburg erblich gefallenen Stadt Rudolstadt mit ihren Zugehörungen, bis Ladislaus großjährig geworden ist und Heinrich von jenem die Lehen selbst empfangen kann, ebenfalls unbeschadet dessen Rechten an dem Lehen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wiener Neustadt">Wiener Neustadt</cei:placeName>
+              <cei:placeName>Wiener Neustadt</cei:placeName>
               <cei:date value="14500415">1450 April 15</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13000,7 +13000,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Friedrich III. belehnt Graf Heinrich von Schwarzburg mit den Reichslehen, namentlich mit den Schlössern und Städten Schwarzburg und Königsee sowie mit Schloss und Stadt Blankenburg und den Gütern zu Hammerstedt</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wiener Neustadt">Wiener Neustadt</cei:placeName>
+              <cei:placeName>Wiener Neustadt</cei:placeName>
               <cei:date value="14521218">1452 Dezember 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13048,7 +13048,7 @@
           <cei:chDesc>
             <cei:abstract>König Ladislaus von Ungarn und Böhmen belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen mit Rudolstadt, Könitz und der Mannschaft, die zum Schloss Stein gehört, und bestätigt zugleich alle böhmischen Lehen, die dessen Vorfahren erhalten haben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wien">Wien</cei:placeName>
+              <cei:placeName>Wien</cei:placeName>
               <cei:date value="14530111">1453 Januar 11</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13603,7 +13603,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen regelt die Lehnsverhältnisse von Schloss und Stadt Wiehe. Herzog Wilhelm von Sachsen regelt die Lehnsverhältnisse von Schloss und Stadt Wiehe, welche Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, an Dietrich von Werthern (Wertirde) für 8000 rheinische Gulden und etliches Baugeld auf Wiederkauf verkauft hat. Er erteilt seinen Konsens dazu und bestimmt, dass, wenn Graf Heinrich oder seine Erben ohne Leibeserben sterben sollten, es dem Herzog Wilhelm oder seinen Erben gestattet sein soll, die Stadt für 8000 Gulden zurückzukaufen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14610121">1461 Januar 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13642,7 +13642,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen belehnt Schwarzburg, Stolberg und Hohnstein mit Heringen und Kelbra in der Weise, dass, wenn Graf Heinrich von Schwarzburg und Graf Heinrich von Stolberg, Herr zu Wernigerode, ohne Leibeserben stirbt, die Lehen an die Grafen Ernst und Hans von Hohnstein übergehen sollen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14610121">1461 Januar 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13681,7 +13681,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen belehnt die Grafen von Hohnstein, Stolberg und Schwarzburg. Wir Wilhelm von gotes gnadenn hertzog zcu Sachsen, lanndgrave Indoringen und marcgrave zcu Miessen bekennen uffintlich an diesem brive fur uns, unnser erbin, erbnemen und nachkomen und thun kund allermeniglich , das die edeln wolgebornnen her Heinrich grave zcu Swarczpurg, herre zcu Arnstet und Sundershusen, her Heinrich grave und herre zcu Stalberg und Wernigerode und her Ernst grave von Haynstein, herre zcu Lare und Clettenberg von sinen und graven Hannses von Hoynstein, graven Ernsts seligen sons sins vettern wegen unnser gevatter heimlichen und lieben getruwen fur uns komen sind demutiglichin bittinde, das wir sie und yre libeslehinserben mit diesen hernachgeschriben slossen, steten, durffern, lehenen und gutern und yren zcugehorungen, so die yre eldern seligen und sie von den hochgebornnen fursten hern Friderichen landgraven Indoringen und marctgraven zcu Miessen, unnserm lieben vettern seligen, auch hern Friderichenn hertzogen zcu Sachsen et cetera, unnserm lieben bruder und uns in gesampten lehin gehabt und herbracht haben: Als nemlich mit den slossen und steten Lare, Hottinrode, Elrich, Badungen und Blichenrode und iglichen yren zcugehorungen, so die genanten von Swarczpurg und Stalberg mit den herren von Hoynstein vorgenand; auch mit Rebeningen, Rossla und Ebersperg und allen yren zcugehorungen, als die der von Swarczpurg und die von Hoynstein vorgenant mit graven Heinrichen von Stalberg und mit den sloßen und stad Arnsperg, Clingen und Grußen und yren zcugehorungen die der von Stalberg und die von Hoynstein mit dem von Swarczpurg vorgenant in gesampten lehin haben, auch semptlich zcu belehenen und yn die zcu gesampten lehen zcu lihen gnediclich geruchten. Habin wir angesehin mogelichkeid yrer bete auch willige getruwe und anneme dinste, die yr aller eldern und sie unnsern eldern und vettern seligen, unnserm bruder und uns zcu ufftmaln unverdroßin und zcu dancke getan haben, sie tegelichs thun und in zcukunfft thun sullen und mogen. Und dorummb die vorgenannten graven Heinrichen von Swarczpurg, graven Heinrichen von Stalberg, graven Ernsten und graven Hannsen von Hoynstein gevettern und yrer aller libeslehinserben mit den vorgenanten slossen, steten, dorffern, lehen und gutern mit allen und iglichen Lehenen, geistlichen und wertlichen gerichten, geleyten, zcollen, wiltpennen, friheidten, wonnen, weyden, wassern und allen andern zcu und ingehorungen gesucht und ungesucht wie das alles genand ist, nichts ußgenomen zcu rechten gesampten lehin gnediclich gereicht und gelihenn alsvil wir durch recht doran zcuverlihen habin, reichen und lihen ynach die also zcu rechten gesampten lehin als gesampter lehin recht und gewonheid ist, gennvertiglich in und mit crafft dieses brives. Also weres das grave Ernst und grave Hanns von Haynstein vorgenant beyde an libeslehinserben mit tode verfilen, so sollten die sloss, stete und dorffer Lare, Hotenrode, Elrich, Badungen und Blichenrode mit allen und iglichen yren zcugehorungen nichts ußgesloßin uff graven Heinrich von Swarczpurg, uff graven Heinrichen von Stalberg und yre libeslehinserben komen und gefallen. Ginge aber grave Heinrich von Stalberg abe on libeslehinserbenn, so solten Rebenyngen, Roßla und Ebersperg mit allen und iglichen yren zcuge- horungen an graven Heinrichen von Swarczpurg und an die von Hoynstein vorgenand und yre libeslehinserben komen und gefallen. Deßglichen widerumb ob gescheh das grave Heinrich von Swarczpurg on libeslehinserben mit tode abginge, so solten die sloss und stad Arnsperg, Grußin und Clingen mit allen und iglichen yren zcugehorungen an graven Heinrichen von Stalberg und die von Hoynstein vorgenant und yre libeslehinserben komen und gefallin und sullen die obgenanten graven von Swarczpurg, Stalberg und Hoynstein und yre libeslehinserben alle und igliche obgeschriben sloss, stete, dorffer und yre zcugehorunge nichts usgesloßin wie vorgemeldt ist furdmer von uns und unnsern erben zcu rechten gesampten lehin vorgerurtermaße von eym teyl uff die andern zcu gefallen, innhaben, besitzenn, gebruchin, genießen alß sich geburt, verdinen und den lehin wie ufft die zcufalle komen rechte folge thun, als sollicher gesampter lehinguter alt herkomen recht und gewonheid ist on alles geverde. Doch unschedelich der wolgebornnen frauwen Annan grafynn und frauwen zcu Stalberg wittwen an yrem lipgedinge das sie had an und uff den slossenn Rebenyngen und Roßla mit yren zcugehorungen vorberurt, nach laut unnser brive yre doruber gegebin auch on geverd. Des alles zcu urkunde habin wir unnser furstlich maiestad insigel fur uns, unnser erben, erbnemen und nachkomen mit rechter wiessen an diesen brieff thun hencken. Gebin zcu Wiessinse uff mittwochin Agnetis virginis nach Cristi unnsers herren geburt tausend vierhundert und darnach im einundsechzigstenn jarenn. Zusammenfassung: Herzog Wilhelm von Sachsen, Landgraf in Thüringen belehnt die Grafen Ernst und Hans von Hohnstein mit Lohra, Utterode, Großenehrich, Bodungen und Bleicherode, sowie die Grafen Ernst und Hans von Hohnstein, Heinrich von Schwarzburg und Heinrich von Stolberg, Herr zu Wernigerode, gemeinschaftlich mit Röblingen, Roßla, Ebersberg, Arnsburg (Arnsperg), Greußen und Clingen in der Weise, dass, wenn einer von ihnen ohne Leibeslehnserben stirbt, sein Anteil auf die andern übergehen soll. Derselbe Inhalt wie Nr. 380.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14610121">1461 Januar 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13724,7 +13724,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen belehnt die Grafen von Hohnstein, Stolberg und Schwarzburg. Herzog Wilhelm von Sachsen, Landgraf in Thüringen belehnt die Grafen Ernst und Hans von Hohnstein mit Lohra, Utterode, Großenehrich, Bodungen und Bleicherode, sowie die Grafen Ernst und Hans von Hohnstein, Heinrich von Schwarzburg und Heinrich von Stolberg, Herr zu Wernigerode, gemeinschaftlich mit Röblingen, Roßla, Ebersberg, Arnsburg (Arnsperg), Greußen und Clingen in der Weise, dass, wenn einer von ihnen ohne Leibeslehnserben stirbt, sein Anteil auf die andern übergehen soll. Derselbe Inhalt wie Nr. 379</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weißensee">Weißensee</cei:placeName>
+              <cei:placeName>Weißensee</cei:placeName>
               <cei:date value="14610121">1461 Januar 21</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -13873,7 +13873,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Friedrich III. belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, mit Schwarzburg und Leutenberg. Kaiser Friedrich III. belehnt Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, unter Hinweis auf seine vormalige Belehnung mit dem halben Teil des Schlosses Schwarzburg und mit der Stadt Königsee als Lehnsträger des noch unmündigen Grafen Balthasar II. von Schwarzburg, nach dem Tod von dessen Vater Graf Heinrich von Schwarzburg, Herr zu Leutenberg, auch mit der anderen Hälfte von Schloss Schwarzburg sowie mit dem Schloss Leutenberg samt Zugehörung, die von König und Reich zu Lehen gehen und erblich an Balthasar gefallen sind, jedem zu seinen Teilen und Rechten, jedoch unbeschadet seiner und des Reiches Mannschaft, Lehenschaft und Dienste sowie der Rechte und Gerechtigkeiten Dritter. Er bestimmt, dass Graf Heinrich dafür den üblichen Eid für sich und als Lehnsträger Graf Balthasars bis Sankt Martins Tag (November 11.) an seiner Statt gegenüber Graf Ludwig von Gleichen, Herr zu Blankenhain, ablegen soll.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wiener Neustadt">Wiener Neustadt</cei:placeName>
+              <cei:placeName>Wiener Neustadt</cei:placeName>
               <cei:date value="14640627">1464 Juni 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -14150,7 +14150,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Herzog Ernst von Sachsen belehnt Graf Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit Ichstedt | Zeugen: der Obermarschall Hugold von Schleinitz, Nickel von Schonberg, der Untermarschalk Dietrich von Schonberg, Johann von Mergental (Canzler).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14660520">1466 Mai 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -14404,7 +14404,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen belehnt die Grafen von Schwarzburg und von Stolberg mit Frohndorf. Herzog Wilhelm von Sachsen belehnt die Grafen Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, und Heinrich von Stolberg und Wernigerode mit Schloss und Dorf Frohndorf sowie den Dörfern Großorlishausen, Kleinorlishausen, Großneuhausen, Kleinneuhausen, Rettgenstedt, Backleben, Bachra, Battgendorf, Schillingstedt, Dermsdorf und Ellersleben, von welchen Graf Heinrich von Schwarzburg dem Grafen Heinrich von Stolberg, nachdem sie sie gemeinschaftlich von den Grafen von Beichlingen gekauft haben, seine Hälfte verkauft hat. Wenn Heinrich von Stolberg ohne Leibeserben stirbt, sollen die Dörfer an die Grafen von Schwarzburg zurückfallen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14690213">1469 Februar 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -14617,7 +14617,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Wilhelm von Sachsen und Graf Heinrich von Schwarzburg legen die Grenze an den Wasserläufen bei Frankenhausen, Oldisleben, Ringleben und Esperstedt fest. Vertrag zwischen Herzog Wilhelm von Sachsen und der Graf Heinrich von Schwarzburg, Herrn von Arnstadt und Sondershausen, um das Wasser und Röhrig zu Frankenhausen und dem Damm zu Ringleben wegen des Hochwassers, der Trift und der Viehweide. Es werden die Grenzen für jeden einzelnen bei Frankenhausen, Esperstedt, Ringleben und Oldisleben festgesetzt. Einzelne darin erwähnte Punkte sind die Dunne, der Geglingsberg, der Bruchsen und die Genslache.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14740601">1474 Juni 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -15381,7 +15381,7 @@
           <cei:chDesc>
             <cei:abstract>Transsumpt einer Lehensurkunde des böhmischen Königs Ladislaus II. für Rudolstadt und Könitz. Der Rat der Stadt Erfurt bestätigt den Inhalt des Lehnbriefes des Böhmischen Königs Ladislaus über Rudolstadt und Könitz, ausgestellt zu Prag am Donnerstag nach Pfingsten, 1483 Mai 22. Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, hat den Lehnbrief durch seinen Kanzler Johann Zwuster nach Erfurt zum Rat bringen lassen, damit er in das dortige Stadtbuch eingetragen und eine Abschrift davon ihm ausgestellt werde.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="15270213">1527 Februar 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -15644,7 +15644,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Sachsen belehnt die Grafen Günther den Älteren und Günther den Jüngeren von Schwarzburg und ihren Vetter Heinrich von Schwarzburg mit Arnstadt, Stadtilm und Plaue. Kurfürst Friedrich von Sachsen und sein Bruder Johann belehnen die Brüder Günther den Älteren und Günther den Jüngeren von Schwarzburg, Herren zu Arnstadt und Sondershausen, und ihren Vetter Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit Arnstadt, Stadtilm und Plaue in der Weise, dass Günther der Jüngere das Lehen erst antritt zu der Zeit, die von seinem Vater und in der zu Greiz getroffenen Entscheidung festgelegt ist. Falls die drei ohne Leibeserben sterben sollten, sollen ihr Bruder Heinrich und ihr Vetter Heinrich in die Lehen eintreten. Der Bitte der drei, sie auch noch mit Käfernburg zu belehnen, kann augenblicklich nicht erfüllt werden bis zum Austrag des Irrtums zwischen den beiden Lehnsherren und ihrem Vetter Albrecht. Doch sollen bis dahin die drei Grafen den Nutzen aus dem Lehen ziehen. | Zeugen: Ritter Caspar von Vestenberg, Marschalk Caspar Metsch und Kanzler Johann Sifrid.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Torgau">Torgau</cei:placeName>
+              <cei:placeName>Torgau</cei:placeName>
               <cei:date value="14890731">1489 Juli 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -15687,7 +15687,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Sachsen belehnt die Grafen Günther den Älteren und Günther den Jüngeren von Schwarzburg und ihren Vetter Heinrich von Schwarzburg mit Ichstedt. Kurfürst Friedrich von Sachsen belehnt die Grafen Günther den Älteren und Günther den Jüngeren von Schwarzburg, Herren zu Arnstadt und Sondershausen, und ihren Vetter Heinrich, Herrn von Arnstadt und Sondershausen, in der Weise, dass Günther der Jüngere das Lehen erste antreten darf zu der Zeit, die von seinem Vater in der von ihm gegebenen Ordnung festgesetzt ist. Falls die drei ohne Leibeserben sterben sollten, soll das Lehen an die beiden Brüder und den Vetter Heinrich von Schwarzburg übergehen. | Zeugen: Ritter Caspar von Vestenberg, Marschalk Caspar Metsch, Kanzler Johann Sifrid.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Torgau">Torgau</cei:placeName>
+              <cei:placeName>Torgau</cei:placeName>
               <cei:date value="14890731">1489 Juli 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -16168,7 +16168,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Friedrich III. belehnt die Grafen von Schwarzburg mit den Reichslehen Schloss und Stadt Schwarzburg, Königsee, Leutenberg und Blankenburg. Kaiser Friedrich III. belehnt die Grafen Günther den Älteren, Günther den Jüngeren und Heinrich von Schwarzburg, Herren zu Arnstadt und Sondershausen, mit den Reichslehen Schloss und Stadt Schwarzburg, Königsee, Leutenberg und Blankenburg mit all ihren Zugehörungen, die ihr Vater und Vetter Graf Heinrich zusammen mit Graf Balthasar von Schwarzburg, Herr zu Leutenberg, von Kaiser und Reich in Gemeinschaft zu Lehen empfangen hatte und die nun nach Heinrichs Tod erblich an sie gefallen sind. Er bestätigt ihnen außerdem all ihre Privilegien und Rechte sowie Ordnung und Testament ihres Vaters und Vetters Graf Heinrich. Er bestimmt, dass sie die Lehen zusammen mit ihrem Vetter Balthasar in Gemeinschaft innehaben sowie ihre Privilegien und Rechte in gleicher Weise wie ihre Vorfahren und Graf Heinrich besitzen sollen, jedoch unbeschadet der Rechte und Gerechtigkeiten von Kaiser und Reich sowie Dritter. Er gebietet den Grafen, den gewöhnlichen Eid an seiner Statt gegenüber Fürst Waldemar von Anhalt bis Weihnachten zu leisten. Kaiser Friedrich III. befiehlt allen Kurfürsten, Fürsten etc. und Reichsuntertanen bei seiner und des Reiches schweren Ungnade und einer je zur Hälfte an die kaiserliche Kammer bzw. an die Grafen von Schwarzburg zu entrichtenden Pön von 50 Mark Gold die Beachtung seiner Verleihung.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Linz">Linz</cei:placeName>
+              <cei:placeName>Linz</cei:placeName>
               <cei:date value="14910530">1491 Mai 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -16217,7 +16217,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Friedrich III. belehnt die Grafen von Schwarzburg mit dem Schüsselholz bei Frankenhausen. Kaiser Friedrich III. belehnt die Brüder und Grafen Günther den Älteren und Günther den Jüngeren sowie deren Vetter Heinrich von Schwarzburg, Herren zu Arnstadt und Sondershausen, mit dem bei der Stadt Frankenhausen gelegenen Reichslehen Schüsselholz mit allen Zugehörungen, das von ihrem Vater und Vetter Graf Heinrich von Schwarzburg erblich an sie gefallen ist, jedoch unbeschadet der Rechte von Kaiser und Reich sowie Dritter. Er bestimmt, dass die Grafen nach altem Herkommen einen Heerwagen mit Schüsseln als Zins entrichten sollen, falls der Kaiser oder dessen Nachfolger nach Thüringen kämen, und gebietet ihnen, den gewöhnlichen Eid an seiner Statt gegenüber Fürst Waldemar von Anhalt bis Weihnachten zu leisten.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Linz">Linz</cei:placeName>
+              <cei:placeName>Linz</cei:placeName>
               <cei:date value="14910530">1491 Mai 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -16974,7 +16974,7 @@
           <cei:chDesc>
             <cei:abstract>König Maximilian I. belehnt die Grafen von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg. König Maximilian I. belehnt die Grafen Günther den Älteren, Günther den Jüngeren, Balthasar und Heinrich von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg. Günther der Jüngere hat bereits seinen Lehnseid geleistet, die anderen sollen es bis Marientag dem Markgarfen von Meißen als Erzmarschall des Reiches tun. Wer die Genannten in ihrem Besitze stört, soll 50 Mark lötigen Goldes als Strafe zahlen, wovon die Hälfte dem Reiche, die Hälfte den Lehnsinhabern zufallen soll.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="14950701">1495 Juli 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17396,7 +17396,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt Graf Günther von Schwarzburg mit Clingen und Greußen. Herzog Georg von Sachsen belehnt in Vertretung seines Vaters Albrecht von Sachsen den Graf Günther von Schwarzburg, den Jüngeren, mit Clingen und Greußen, der Hälfte des großen Salzzolls zu Frankenhausen samt der Regierung des Bergwerks und mit den im Meißnischen Anteil gelegenen Lehen, die früher Konrad von Tannroda besaß. Falls der genannte Günther ohne Leibeslehnserben sterben sollte, sollen die Lehen an seinen älteren Bruder Günther, und wenn dieser nicht mehr am Leben ist an seinen Vetter Heinrich übergehen; und wenn alle drei ohne Leibeslehnserben sterben, soll an ihre Stelle ihr Bruder und Vetter, der Domherr Heinrich treten.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="14980529">1498 Mai 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17434,7 +17434,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg und von Stolberg-Wernigerode mit Heringen und Kelbra. Herzog Georg von Sachsen belehnt in Vertretung seines Vaters Albrecht von Sachsen die Grafen Günther den Jüngeren und den Älteren von Schwarzburg ihren Vetter Heinrich, Herren zu Arnstadt und Sondershausen, und den Grafen Heinrich den Älteren von Stolberg-Wernigerode mit Heringen und Kelbra. Wenn die Genannten ohne Leibeslehnserben sterben, soll an ihre Stelle Graf Ernst von Hohnstein treten. | Zeugen: die Grafen Volrat und Günther von Mansfeld, Domdechandt Dr. Ulrich von Wolfersdorf, Thame Loser, Doktor und Domherr zu Meißen, Heinrich von Schleinitz, Obermarschall, Dietrich von Schleinitz, Hofmeister, Caspar von Schönberg auf dem Purschenstein, Siegmund von Miltitz zu Batzdorf, Hofmarschall Günther von Bünau zu Liebstadt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="14980529">1498 Mai 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17473,7 +17473,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt den Grafen Heinrich von Schwarzburg mit Frankenhausen, Arnsberg, Heringen halb, Kelbra halb, Gerterode halb, Kleinkeula und Urbach. Herzog Georg von Sachsen belehnt in Vertretung seines Vaters Albrecht von Sachsen den Grafen Heinrich von Schwarzburg mit Frankenhausen, Arnsberg, Heringen halb, Kelbra halb, Gerterode halb, Kleinkeula ganz, Urbach halb und die Lehen, die früher Konrad von Tannroda innegehabt hat. Falls dieser ohne Leibeslehnserben stirbt, sollen die Stücke an seinen Vetter Günther von Schwarzburg, den Älteren, und falls dieser nicht mehr am Leben ist, an dessen Bruder Günther, den Jüngeren, übergehen. Wenn aber alle drei ohne Leibeslehnserben sterben, soll die Lehen ihr Vetter, der Domherr Günther von Schwarzburg erhalten. | Zeugen: die Grafen Volrat und Günther von Mansfeld, Domdechant Dr. Ulrich von Wolfersdorf, Dr. Thame Loser, Domherr zu Meißen, der Obermarschall Heinrich von Schleinitz, der Hofmeister Dietrich von Schleinitz, Caspar von Schönberg auf dem Purschenstein, Siegmund von Miltitz zu Batzdorf, Hofmarschall Günther von Bünau zu Liebstadt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="14980529">1498 Mai 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17516,7 +17516,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, von Hohnstein und von Stolberg mit Clingen und anderen gemeinschaftlichen Besitzungen. Herzog Georg von Sachsen belehnt Graf Heinrich den Älteren von Stolberg und Graf Ernst von Hohnstein gemeinschaftlich mit den Grafen Günther von Schwarzburg, dem Älteren und dem Jüngeren, und Heinrich von Schwarzburg mit Clingen und anderen zusammengesetzten Lehnstühlen, nämlich Arnsberg und Greußen, Lora, Hüttenrode, Elrich, Bodungen und Bleicherode, die Schwarzburg und Stolberg gemeinschaftlich mit Hohnstein besitzen sowie mit Röblingen (Rebenyngen), Roßla und Ebersberg, die Schwarzburg und Hohnstein gemeinschaftlich mit Stolberg haben. Sie werden gemeinschaftlich mit den genannten Stücken belehnt in der Weise, dass der Besitz dessen, der ohne Leibeslehnserben stirbt, auf die anderen übergeht. | Zeugen: Graf Volrat und Günther von Mansfeld, Domdechant Dr. Ulrich von Wolfersdorf, Dr. Thame Loser, Domherr zu Meißen, Heinrich von Schleinitz, Obermarschalk, Dietrich von Schleinitz, Hofmeister, Caspar von Schönberg auf Purschenstein, Siegmund von Miltitz zu Batzdorf, Günther von Bünau, Hofmarschall.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="14980529">1498 Mai 29</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17654,7 +17654,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Sachsen belehnt Graf Günther von Schwarzburg mit Arnstadt, Stadtilm und Plaue. Kurfürst Friedrich von Sachsen belehnt Graf Günther von Schwarzburg, den Jüngeren, mit Arnstadt, Stadtilm und Plaue und den Lehen, die vormals Conrad von Tannroda innehatte, mit der Bestimmung, dass wenn Günther der Jüngere ohne Leibeserben stirbt, sein Anteil an seinen Bruders Günther den Älteren und, falls dieser nicht mehr am Leben ist, auf seinen Vetter Heinrich übergeht. Wenn aber alle drei ohne Leibeserben sterben, dann sollen die Besitzungen übergehen an den Domprobst Heinrich von Schwarzburg und an den den Domherrn Heinrich von Schwarzburg, seinen Bruder. | Zeugen: Heinrich von Ende, Hofmeister, Hans Hunt, Landvogt zu Sachsen, Heinrich Mönch zu Weida und Hans Manch zu Jena, Amtleute, Hans von Obernitz, Amtmann zu Altenburg, Caspar Metsch, Hauptmann zu Weimar, Dr. Matthias Gstoltz, Hans Leymbach, Landrentmeister.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14990227">1499 Februar 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -17694,7 +17694,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Friedrich von Sachsen belehnt Graf Heinrich von Schwarzburg mit Ichstedt. Kurfürst Friedrich von Sachsen belehnt Graf Heinrich von Schwarzburg, den Jüngeren, Herrn zu Arnstadt und Sondershausen, mit Ichstedt. Zugleich mit ihm werden die Grafen Günther von Schwarzburg, der Ältere und der Jüngere, belehnt in der Weise, dass wenn Heinrich ohne Leibeslehnserben stirbt, Günther der Ältere, und falls dieser nicht mehr lebt, Günther der Jüngere, in das Lehen eintritt. Wenn aber alle drei ohne Leibeserben sterben, dann sollen an ihre Stelle treten ihre Vettern, der Domprobst Heinrich von Schwarzburg und dessen Bruder Domherr Heinrich von Schwarzburg. | Zeugen: Heinrich von Ende, Hofmeister, Hans Hunt, Landvogt von Sachsen, Heinrich Mönch zu Weida, Hans Mönch zu Jena, Amtleute, Hans von Obernitz, Amtmann zu Altenburg, Caspar Metzsch, Amtmann zu Weimar, Dr. Matthias Gstolz, Hans Leymbach, Landrentmeister.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="14990227">1499 Februar 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -18137,7 +18137,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Günther von Schwarzburg belehnt Wolf Stange mit dem Hofe zu Dörnfeld an der Ilm. Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, belehnt Wolf Stange mit dem Hofe zu Dörnfeld an der Ilm nebst Zubehör, dem halben Singerberge, einer Hufe Landes, die halb im Hammersfelder Feld liegt, halb in das Hammersfelder Feld stößt, und mit Zinsen, die Hans Ferber, Claus Grunnbergk, Peter Ferber, Wenzel Estener, Heinz Koch, Marx Wassermann, Hans Preusser zu geben haben, und einigem anderen Besitz. Dafür muss Wolf Stange jährlich 5 Schillinge weniger 3 Pfennige zahlen. Zugleich wird Walter Stange in Osthausen mitbelehnt, der jedoch erst eintritt, wenn Wolf ohne Leibeserben sterben sollte. | Zeugen: der Kanzler Reiche (Reche), Benedikt Reinhard und Lutz von Wüllersleben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15009999">1500</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -18595,7 +18595,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Jakob von Mainz belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein mit Sondershausen, Straußberg und Keula</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="15060822">1506 August 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -18636,7 +18636,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Jakob von Mainz belehnt die Grafen von Schwarzburg mit Langewiesen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="15060822">1506 August 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19193,7 +19193,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Uriel von Mainz belehnt die Grafen Günther und Heinrich Günther von Schwarzburg, Heinrich von Stolberg und Heinrich Hans und Ernst von Hohnstein mit Sondershausen, Straußberg und Keula</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15130530">1513 Mai 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19234,7 +19234,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Uriel von Mainz belehnt die Vettern Günther und Heinrich von Schwarzburg mit Schwerborn und halb Gerterode</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15130530">1513 Mai 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19274,7 +19274,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Uriel von Mainz belehnt die Grafen Günther und Heinrich Günther von Schwarzburg einerseits und Balthasar von Schwarzburg andererseits mit dem Dorf Langewiesen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15130530">1513 Mai 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19590,7 +19590,7 @@
           <cei:chDesc>
             <cei:abstract>Albrecht von Brandenburg, Erzbischof von Mainz, belehnt die Grafen Günther und Heinrich von Schwarzburg, Bodo von Stolberg-Wernigerode und Ernst von Hohnstein mit Sondershausen, Straußberg und Keula</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="15171112">1517 November 12</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19713,7 +19713,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt Graf Günther von Schwarzburg unter anderem mit der Hälfte des großen Salzzolls in Frankenhausen. Herzog Georg von Sachsen belehnt Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, zugleich mit seinem Vetter Heinrich von Schwarzburg, mit der Hälfte des großen Salzzolls zu Frankenhausen sowie mit Schloss Clingen, mit der Stadt Greußen und den Lehen, die früher Conrad von Tannrode gehabt hat. Heinrich von Schwarzburg soll erst dann eintreten, wenn Günter von Schwarzburg ohne Leibeslehnserben sterben sollte. | Zeugen: Hans von Werthern, Reichs-Erb-Kammertürhüter, Ritter zu Wiehe, Cäsar Pflugk, Ritter, Dietrich von Werthern, Johann Kochel, Kanzler, Christof von Taubenheim, Hermann von Pagk zu Freyburg, Sangerhausen und Sachsenburg, Amtleute.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15181210">1518 Dezember 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19753,7 +19753,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg unter anderem mit Frankenhausen. Herzog Georg von Sachsen belehnt die Grafen Heinrich von Schwarzburg, Herrn zu Arnstadt und Sondershausen, und seinen Vetter Günther von Schwarzburg mit Frankenhausen, Arnsberg, Heringen halb, Kelbra halb, Gerterode halb, Kleinkeula (Niedernkeula), Urbich halb und den Lehen, die einst Konrad von Tannroda hatte. Günther von Schwarzburg soll aber erst eintreten, wenn Heinrich ohne Leibeslehnserben sterben sollte. | Zeugen: Hans von Werthern, Reichs-Erb-Kammertürhüter, Ritter zu Wiehe, Cäsar Pflugk, Ritter, Dietrich von Werthern, Johann Kochel, Kanzler, Christof von Taubenheim, Hermann von Pagk zu Freyburg, Sangerhausen und Sachsenburg, Amtleute.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15181210">1518 Dezember 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -19797,7 +19797,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg und von Stolberg gemeinschaftlich mit Heringen und Kelbra. Herzog Georg von Sachsen belehnt die Grafen Günther und Heinrich von Schwarzburg und Graf Bodo von Stolberg gemeinschaftlich mit Heringen und Kelbra, mit der Bestimmung, daß wenn alle drei ohne Leibeslehnserben sterben sollten, die Lehen Graf Ernst von Hohnstein übergehen sollen. | Zeugen: Hans von Werthern, Reichs-Erb-Kammertürhüter, Ritter zu Wiehe, Cäsar Pflugk, Ritter, Dietrich von Werthern, Johann Kochel, Kanzler, Christof von Taubenheim, Hermann von Pagk zu Freyburg, Sangerhausen und Sachsenburg, Amtleute.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15181210">1518 Dezember 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20054,7 +20054,7 @@
           <cei:chDesc>
             <cei:abstract>Anargk von Wildenfels schlichtet einen Streit um den Zoll von Stadtilm. Auf Befehl des Herzogs Johann von Sachsen und des Kurfürsten Friedrich von Sachsen hat Anargk von Wildenfels, Herr zu Schönkirchen und Ronneberg, die Streitigkeiten, welche zwischen Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, und Graf Ludwig von Gleichen, Herr zu Kranichfeld und Blankenhain entstanden waren, weil die Männer von Bösleben, Gleichensche Untertanen, den Zoll zu Stadtilm übersehen hatten, durch folgenden Entscheid geschlichtet: Die Leute von Bösleben haben in Zukunft für ihre Zufuhr von Nahrungsmitteln, Brennholz etc. keinen Zoll zu entrichten, sondern sie bezahlen diesen nur, wenn sie fremde Güter führen. Wenn sie eigene Güter durch fremdes Fuhrwerk führen lassen, sind sie ebenfalls zollfrei, doch haben sie vorher dem Vogt zu Stadtilm Anzeige zu machen. Für die Zollfreiheit aber sollen sie von Martini (1521 November 11) ab jährlich zwei Erfurtische Malter Hafer an den Grafen von Schwarzburg liefern. Graf Günther soll die Männer von Bösleben, die er hat festnehmen lassen, desgleichen Graf Ludwig die gefangenen Bürger von Arnstadt, ohne Lösegeld freigeben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Coburg">Coburg</cei:placeName>
+              <cei:placeName>Coburg</cei:placeName>
               <cei:date value="15201208">1520 Dezember 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20159,7 +20159,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. belehnt die Grafen von Schwarzburg und von Hohnstein mit den Straßen in Schwarzburg und Hohnstein. Kaiser Karl V. belehnt die Grafen Günther und Heinrich von Schwarzburg, Herren zu Arnstadt und Sondershausen, und die Grafen Heinrich und Ernst von Hohnstein nach dem Tode der Grafen Günther von Schwarzburg und Ernst von Hohnstein mit den Straßen in Schwarzburg und Hohnstein, unter der Bedingung, dass die Grafen Günther und Ernst, die bereits den Lehenseid geleistet haben, bis zu St. Jacobs-Tag (Juli 25) die schriftliche Notifikation des Eides der beiden Heinriche in die Kaiserliche Kanzlei liefern.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15210225">1521 Februar 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20198,7 +20198,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. belehnt die Grafen von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg. Kaiser Karl V. belehnt die Grafen Günther von Schwarzburg, Herren zu Arnstadt und Sondershausen, Balthasar von Schwarzburg, Herr zu Schwarzburg, Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, und Hans Heinrich von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg, Schloss und Stadt. Wer sie in ihrem Besitze stöhrt, der soll als Strafe 50 Mark lötigen Goldes zahlen, wenn denen die Hälfte der Reichskammer und die Hälfte den Lehnsinhabern zufallen soll.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15210220">1521 Februar 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20239,7 +20239,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. belehnt die Grafen von Schwarzburg mit dem Schüsselholz bei Frankenhausen. Kaiser Karl V. belehnt die Grafen Günther und Heinrich von Schwarzburg, Herren zu Arnstadt und Sondershausen, mit dem Schüsselholz bei Frankenhausen unter der Bedingung, dass Günther, der den Lehenseid bereits geleistet hat, bis zum nächsten Jakobstag (Juli 25) eine schriftliche Notifikation über den Eid seines Vetters Heinrich beibringt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Worms">Worms</cei:placeName>
+              <cei:placeName>Worms</cei:placeName>
               <cei:date value="15210224">1521 Februar 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20350,7 +20350,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Günther von Schwarzburg belehnt Friedrich Udra mit einem Siedelhof in Clingen. Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, belehnt Friedrich Udra mit einem Siedelhof und sieben Hufe Landes samt allem Zubehör in Clingen, die er Kerstan von Witzleben abgekauft und die früher Simon von Greußen inne gehabt hat. | Zeuge: Georg von Witzleben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15220410">1522 April 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20602,7 +20602,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg und Graf Bodo von Stolberg mit Heringen und Kelbra. Herzog Georg von Sachsen belehnt die Grafen Günther von Schwarzburg, den Älteren und den Jüngeren, ihren Vetter Heinrich von Schwarzburg und Graf Bodo von Stolberg gemeinschaftlich mit Heringen und Kelbra. Falls sie alle ohne Leibeslehnserben sterben, soll an ihre Stelle Graf Ernst von Hohnstein treten. | Zeugen: Graf Ernst von Mansfeld und Herr zu Heldrungen, Hans von Werthern auf Wiehe, Rudolf von Bünau, Simon Pistoris, Kanzler.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15261105">1526 November 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20642,7 +20642,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein gemeinschaftlich mit Lohra, Hüttenrode, Elrich, Bodungen, Bleichroda, Arnsberg, Clingen, Greußen, Roßla und Ebersberg. Herzog Georg von Sachsen belehnt die Grafen Günther von Schwarzburg, den Älteren und den Jüngeren, und Heinrich von Schwarzburg, Graf Bodo von Stolberg und Graf Ernst von Hohnstein gemeinschaftlich mit Lohra, Hüttenrode, Elrich, Bodungen, Bleicherode, Arnsberg, Clingen, Greußen, Roßla und Ebersberg. Wer von ihnen ohne Leibeslehnserben stirbt, dessen Anteil soll auf die anderen übergehen. | Zeugen: Graf Ernst von Mansfeld, Herr zu Heldrungen, Hans von Werthern auf Wiehe, Rudolf von Bünau, Simon Pistoris, Kanzler.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15261105">1526 November 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20684,7 +20684,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg unter anderem mit Frankenhausen. Herzog Georg von Sachsen belehnt Graf Günther von Schwarzburg und seinen Vetter Graf Heinrich von Schwarzburg sowie Graf Günther von Schwarzburg den Älteren mit Frankenhausen, Arnsburg, Heringen halb, Kelbra halb, Gerterode halb, Keula (Niedern-Keula) und Urbich halb und den Lehen, die früher Konrad von Tannroda innegehabt hat. Günther der Ältere soll jedoch erst eintreten, wenn die andern beiden ohne Leibeslehnserben sterben. | Zeugen: Graf Bodo von Stolberg, Graf Ernst von Mansfeld, Herr zu Heldrungen, Graf Ernst von Hohnstein, Hans von Werthern auf Wiehe, Rudolf von Bünau, Simon Pistoris, Kanzler.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15261105">1526 November 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20801,7 +20801,7 @@
           <cei:chDesc>
             <cei:abstract>Transsumpt des Rats zu Erfurt über ein Urkunde Kaiser Ferdinands I. Der Rat zu Erfurt bestätigt eine Urkunde des Kaisers Ferdinand I., in dem dieser einen Lehnbrief des Kaisers Karl IV. von 1361, Februar 1 (an unser Frauen Abend zu Lichtmessen 1361, vgl. Nr. 122) über die vom Römischen Reich zu Lehen rührenden Amter Saalfeld, Könitz, Veste zum Stein und Rudolstadt, gegenüber den Grafen Heinrich und Günther von Schwarzburg, Herren zu Arnstadt und Sondershausen, ausgestellt hat. Überbringer des Briefes und Besteller der Abschrift ist der Kanzler Graf Günthers des Älteren zu Arnstadt und Sondershausen, Johann Zwuster.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Erfurt">Erfurt</cei:placeName>
+              <cei:placeName>Erfurt</cei:placeName>
               <cei:date value="15270213">1527 Februar 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20918,7 +20918,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. belehnt den Grafen Günther von Schwarzburg, den Älteren, und seinen Sohn Heinrich, Herren zu Arnstadt und Sondershausen, dergleichen deren Vettern Günther den Jüngeren, Heinrich den Jüngeren, Herren zu Arnstadt und Sondershausen, und Hans Heinrich, Herrn zu Leutenberg, gemeinschaftlich mit Rudolstadt und Könitz sowie der Feste zum Stein</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="15280419">1528 April 19</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -20993,7 +20993,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. stimmt der Verschreibung von Schloss und Amt Blankenburg als Leibgedinge der Katharina von Schwarzburg, geborene von Henneberg durch ihren Gemahl, Graf Heinrich von Schwarzburg, Sohn des Grafen Günther</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Speyer">Speyer</cei:placeName>
+              <cei:placeName>Speyer</cei:placeName>
               <cei:date value="15280901">1528 September 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21063,7 +21063,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Johann von Sachsen belehnt die Grafen von Schwarzburg mit Ichstedt. Kurfürst Johann von Sachsen belehnt die Brüder Günther, den Jüngeren, und Heinrich, den Jüngeren, von Schwarzburg, Herren zu Arnstadt und Sondershausen, mit Ichstedt. Zugleich werden belehnt ihre Vettern Heinrich von Schwarzburg, Vater und Sohn, die jedoch erst eintreten, wenn jene ohne Leibeslehnserben sterben sollten. | Zeugen: Friedrich von Thüna zu Weißenburg, Christof von Taubenheim, Hans von Dölzk.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="15290104">1529 Januar 4</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21101,7 +21101,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen bestätigt die Leibzucht der Gräfin Anna von Schwarzburg in Heringen und Oberspier. Herzog Georg von Sachsen bestätigt die Leibzucht der Gräfin Anna von Schwarzburg, geborene von Nassau. Graf Heinrich von Schwarzburg hat seiner Gemahlin Anna von Nassau den Schwarzburgischen Anteil von Heringen und von Oberspier als Leibgedinge verschrieben. Da die sächsischen Lehen bis jetzt aber noch nicht bestätigt sind, haben Heinrichs Söhne Günther und Heinrich um die Bestätigung gebeten, die in dem Briefe erteilt wird. Zu Vormündern werden ernannt Bodo von Stolberg und Ernst von Mansfeld. Die Ritterdienste an den genannten Orten behält der Herzog sich vor.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="15291128">1529 November 28</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21320,7 +21320,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. belehnt die Grafen von Schwarzburg mit Schwarzburg, Königsee, Leutenberg und Blankenburg samt dem Schüsselholz. Kaiser Karl V. belehnt die Grafen von Schwarzburg, nämlich Heinrich den Älteren und Günther den Älteren und den Jüngeren, Herren zu Arnstadt und Sondershausen, und Hans Heinrich, Herrn zu Leutenberg, mit Schwarzburg, Königsee, Leutenberg und Blankenburg samt dem Schüsselholz, nachdem sie durch ihren Abgesandten Siegmund von Holbach dem Pfalzgrafen bei Rhein Friedrich an Stelle des Kaisers den Lehnseid geleistet haben. Wer sie in ihrem Besitze stört, soll eine Strafe 50 Mark lötigen Goldes zahlen, wovon die Hälfte der Reichskammer, die Hälfte den Lehnsinhabern zufallen soll.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Regensburg">Regensburg</cei:placeName>
+              <cei:placeName>Regensburg</cei:placeName>
               <cei:date value="15320610">1532 Juni 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21398,7 +21398,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Johann Friedrich von Sachsen belehnt Heinrich von Schwarzburg mit Arnstadt, Stadtilm und Plaue. Kurfürst Johann Friedrich von Sachsen belehnt Heinrich von Schwarzburg, den Älteren, Herrn zu Arnstadt und Sondershausen, mit Arnstadt, Stadtilm und Plaue. Zugleich werden belehnt seine Vettern, die Brüder Günther der Jüngere und Heinrich der Jüngere, welche jedoch erst eintreten sollen, wenn Heinrich ohne Leibeslehnserben stirbt. | Zeugen: Wolfgang Weißenbusch, Doctor und Präceptor zu Lichtenberg, Friedrich von Thüna in Weißenburg, Wolf von Weißenbach zu Schönfeld, Günther von Bünau zu Breitenhain, Hans Meysch, Hauptmann zu Wittenberg, Christian Beyer, Kanzler, Gregorius Bruck.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="15321024">1532 Oktober 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21508,7 +21508,7 @@
           <cei:chDesc>
             <cei:abstract>Schlichtung von Streitigkeiten zwischen den Grafen Günther und Heinrich von Schwarzburg um die Teilung der Güter. Die Grafen Günther und Heinrich von Schwarzburg haben ihre Güter geteilt und sind darüber in Streit geraten. Bodo von Stolberg, Georg von Werthern, Philipp von Eberstein und Bernhard von Tettenborn schlichten den Streit wie folgt: Straußberg mit Zubehör soll Günther, Gerterode mit Zubehör Heinrich erhalten; dieser soll auch die rückständige Schuld von 250 Gulden, die an Dietrich von Berlepsch nächste Martini (November 11) zu entrichten sind, bezahlen. Die 2500 Gulden, die Günther nach der Teilung herausbekommen soll, hat er erlassen. Aller Vorrat an Vieh und Schafen an den Orten, die Heinrich bekommt, soll ihm bleiben, doch soll er 300 Gulden von des Kurfürsten Gelde an Günther zahlen; alle Geräte, Käse und Butter zu Frankenhausen bleiben Heinrich. Allen sonstigen Vorrat und die Füllen erhält Günther. Alles väterliche Silbergeschirr, die Kleinodien und die Büchsen zu Mühlhausen sollen gleich geteilt und darum gelost werden. Die zwei alten Wildzeuge Garn sollen Heinrich allein gehören, aber die drei Wylden, die von Peukendorf genommen, sollen dahin zurückgeschickt werden. Alle Urkunden sollen in gemeinsamen Gewahrsam genommen werden, sodass sie beiden zugänglich sind. Die beiden Grafen sind mit dem Entscheid einverstanden.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Nordhausen">Nordhausen</cei:placeName>
+              <cei:placeName>Nordhausen</cei:placeName>
               <cei:date value="15321001">1532 Oktober 1</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21575,7 +21575,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Heinrich von Schwarzburg belehnt Angehörige der Familie von Wüllersleben mit Gütern und Zinsen. Graf Heinrich von Schwarzburg, Herr zu Arnstadt und Sondershausen, belehnt Lutze, Lutolff, Caspar, Adam und Melchior von Wüllersleben, Vettern und Gebrüder, mit Gütern, Zinsen etc. zu Wülfershausen, Marlishausen, Alkersleben, Witzleben, Mankenbach, Schwarzburg, Oberhain, Unterhain, Allendorf, Meura, Schöbling, Garsitz und Pennewitz. Falls die Genannten ohne Lehnserben sterben, sollen die Lehen an Friedrich von dem Hofe fallen. Andere noch vorkommende Namen sind Käfernburg, Jesuborn, der Steinich (Holz). | Zeugen: Siegmund von Holbach und Curt von Griesheim.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15320113">1532 Januar 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21685,7 +21685,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Johann Friedrich von Sachsen belehnt Graf Heinrich von Schwarzburg mit Ichstedt. Kurfürst Johann Friedrich von Sachsen belehnt Graf Heinrich von Schwarzburg den Jüngeren, Herrn zu Arnstadt und Sondershausen, mit Ichstedt. Wenn Heinrich ohne Leibeslehnserben stirbt, soll Günther der Jüngere, und wenn dieser in gleicher Weise stirbt, Heinrich der Ältere das Lehen erhalten. | Zeugen: Christof von Taubenheim, Christian Beyer, Kanzler, Dittrich von Starschedel, Philipp Rosennecker.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="15330905">1533 September 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21723,7 +21723,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt Graf Heinrich von Schwarzburg unter anderem mit Clingen. Herzog Georg von Sachsen belehnt Graf Heinrich von Schwarzburg, den Älteren, Herrn zu Arnstadt und Sondershausen, mit Clingen, dem halben großen Salz-Zoll zu Frankenhausen, Greußen und dem, das früher Konrad von Tannroda gehabt hat. Wenn Heinrich ohne Leibeslehnserben stirbt, sollen die Lehen an die Brüder Günther den Jüngeren und Heinrich, seine Vettern, übergehen. | Zeugen: Heinrich der Jüngere von Schwarzburg, Simon Pistoris, Kanzler, Georg von Karlowitz, Amtmann zu Radeberg, Hans von Schamberg der Ältere, Ernst von Miltitz zu Watzdorff.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="15330331">1533 März 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21761,7 +21761,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein mit Lohra, Hüttenrode, Elrich, Bodungen, Bleicherode, Röblingen, Roßlau und Ebersberg, Arnsberg, Clingen und Greußen. Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, nämlich Heinrich den Älteren und seine Vettern Günther und Heinrich den Jüngeren, die Grafen Bodo von Stolberg sowie Ernst von Hohnstein mit Lohra, Hüttenrode, Elrich, Bodungen, Bleicherode, Röblingen, Roßlau und Ebersberg, Arnsberg, Clingen und Greußen. Wer von den Genannten ohne Leibeslehnserben stirbt, dessen Anteil soll auf die anderen übergehen. | Zeugen: Simon Pistoris, Kanzler, Georg von Karlowitz, Amtmann zu Radeberg, Hans von Schönberg, der Ältere, Ernst von Miltitz zu Watzdorf, Marschall.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="15330331">1533 März 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21805,7 +21805,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein gemeinschaftlich mit Heringen und Kelbra. Herzog Georg von Sachsen belehnt die Grafen von Schwarzburg, nämlich Heinrich den Ältere und seine Vettern Heinrich und Günther die Jüngeren, sowie die Grafen Bodo von Stolberg und Ernst von Hohnstein gemeinschaftlich mit Heringen und Kelbra. Wer von den Genannten ohne Leibeslehnserben stirbt, dessen Anteil soll auf die anderen übergehen. | Zeugen: Simon Pistoris, Kanzler, Georg von Karlowitz, Amtmann zu Radeberg, Hans von Schönberg der Ältere, Ernst von Miltitz zu Watzdorf.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Dresden">Dresden</cei:placeName>
+              <cei:placeName>Dresden</cei:placeName>
               <cei:date value="15330331">1533 März 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -21845,7 +21845,7 @@
           <cei:chDesc>
             <cei:abstract>Das Stift Fulda belehnt die Grafen von Schwarzburg mit Allmenhausen und Abtsbessingen. Der Abt des Stift Fulda, Johann von Henneberg belehnt seinen Schwager, Graf Heinrich von Schwarzburg, den Älteren, und dessen Vettern Günther und Heinrich den Jüngeren mit Allmenhausen und Abtsbessingen. Zugleich erteilt er die Erlaubnis, Allmenhausen weiter an die von Schlotheim zu verleihen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15330610">1533 Juni 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22030,7 +22030,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Johann Friedrich von Sachsen belehnt Heinrich von Schwarzburg mit Käfernburg. Kurfürst Johann Friedrich von Sachsen belehnt Heinrich von Schwarzburg den Älteren, Herrn zu Arnstadt und Sondershausen, mit Käfernburg. Falls dieser ohne Leibeslehnserben stirbt, sollen in das Lehen eintreten seine Vettern, die Brüder Günther und Heinrich der Jüngere. | Zeugen: Wolf von Weißenbach, Hans von der Planitz, Ewald von Brandenstein, Hauptmann zu Weimar, Eberhard von der Than, Amtmann zu Wartburg, Georg von Goldau, Christian Beyer, Kanzler, Jobst vom Hain.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="15350414">1535 April 14</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22570,7 +22570,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Johann Friedrich von Sachsen belehnt Graf Günther von Schwarzburg mit Ichstedt. Kurfürst Johann Friedrich von Sachsen belehnt Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, nach dem Tode seines Bruders Heinrich des Jüngeren mit Ichstedt. Wenn Günther ohne Leibeslehnserben stirbt, soll an seine Stelle sein Vetter Heinrich von Schwarzburg der Ältere treten. | Zeugen: Wolfgang Weißenbusch, Doctor und Präzeptor zu Lichtenberg, Christof von Taubenheim, Hans von Ponikau, Kämmerer, Caspar von Teutebaum, Magister, Franciscus Burckhard, Vizekanzler.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Torgau">Torgau</cei:placeName>
+              <cei:placeName>Torgau</cei:placeName>
               <cei:date value="15380120">1538 Januar 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22646,7 +22646,7 @@
           <cei:chDesc>
             <cei:abstract>Hans von Ponikau und die Sekretäre der Kurfürstlich Sächsischen Kanzlei beurkunden, dass Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, 500 Gulden für drei Lehnbriefe über Arnstadt, Käfernburg und Ichstedt bezahlt hat</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Weimar">Weimar</cei:placeName>
+              <cei:placeName>Weimar</cei:placeName>
               <cei:date value="15390819">1539 August 19</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22688,7 +22688,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. belehnt die Grafen Günther von Schwarzburg und seinen Vetter Hans Heinrich mit den böhmischen Lehen, nämlich Rudolstadt, Könitz und dem Schloss zum Stein, nachdem sie darum durch ihren Bevollmächtigten Benedictus Rainhart haben bitten lassen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hagenau">Hagenau</cei:placeName>
+              <cei:placeName>Hagenau</cei:placeName>
               <cei:date value="15400722">1540 Juli 22</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22727,7 +22727,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. belehnt Graf Günther von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg sowie mit dem Schüsselholz. Kaiser Ferdinand I. belehnt Graf Günther von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit Schwarzburg, Königsee, Blankenburg und Leutenberg sowie mit dem Schüsselholz, nachdem Graf Günther durch seinen Bevollmächtigten Benedictus Rainhart den Lehnseid hat leisten lassen. Wer ihn in seinem Besitze stört, soll eine Strafe von 50 Mark lötigen Goldes zahlen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hagenau">Hagenau</cei:placeName>
+              <cei:placeName>Hagenau</cei:placeName>
               <cei:date value="15400723">1540 Juli 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22768,7 +22768,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. belehnt Graf Günther von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg sowie mit dem Schüsselholz. Kaiser Ferdinand I. belehnt Graf Günther von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit den Straßen in allen seinen Herrschaften, nachdem Graf Günther durch seinen Bevollmächtigten Benedictus Rainhart den Lehnseid hat leisten lassen. Wer ihn in seinem Besitz stört, soll eine Strafe von 50 Mark lötigen Goldes zahlen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hagenau">Hagenau</cei:placeName>
+              <cei:placeName>Hagenau</cei:placeName>
               <cei:date value="15400723">1540 Juli 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22809,7 +22809,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Albrecht von Magdeburg belehnt Graf Günther von Schwarzburg nach dem Tod seines Bruders Heinrich und seines Vetters Heinrich alleine mit den Thalgütern in Halle. Genaue Angaben wie in Nr. 299. | Zeugen: Johann von Meiendorff und Johann von Walwitz, Domherren von Magdeburg, Niklas von Lochau und Johann Horneburg, Domherren von Halberstadt, Christof Türck, Doktor jur. Kanzler</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Magdeburg">Magdeburg</cei:placeName>
+              <cei:placeName>Magdeburg</cei:placeName>
               <cei:date value="15400308">1540 März 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -22847,7 +22847,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Philipp von Fulda belehnt Günther von Schwarzburg mit Allmenhausen und Abtsbessingen, wobei er Allmenhausen weiter an die von Schlotheim verleihen darf</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15401206">1540 Dezember 6</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23400,7 +23400,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Moritz von Sachsen belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein gemeinschaftlich mit Lohra, Utterode, Elrich, Bodungen, Bleicherode, Roßla, Ebersberg, Arnsberg, Clingen und Greußen. Herzog Moritz von Sachsen belehnt Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, die Grafen Wolf, Ludwig Heinrich, Albrecht und Christof von Stolberg, die Söhne Bodos von Stolberg, und den Grafen Ernst von Hohnstein gemeinschaftlich mit Lohra, Hüttenrode, Elrich, Bodungen und Bleicherode, Roßla und Ebersberg, Arnsberg, Clingen und Greußen, in der Weise, dass der Anteil dessen, der ohne Leibeslehnserben stirbt, auf die anderen übergehen soll. | Zeugen: Georg von Karlowitz auf Kriebstein, Ernst von Miltitz auf Batzdorf, Ludwig Fachs, Ordinarius zu Leipzig, Georg Kommerstedt, Georg Vitzthum von Eckstädt, Hofmarschall.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15420318">1542 März 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23439,7 +23439,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Moritz von Sachsen belehnt die Grafen von Schwarzburg, von Stolberg und von Hohnstein gemeinschaftlich mit Heringen und Kelbra. Herzog Moritz von Sachsen belehnt Graf Günther von Schwarzburg, die Grafen Wolf, Ludwig, Heinrich, Albrecht und Christof von Stolberg, die Söhne des Grafen Bodo von Stolberg, und Graf Ernst von Hohnstein mit Heringen und Kelbra. Ernst von Hohnstein soll jedoch erst dann eintreten, wenn die anderen ohne Leibeslehnserben sterben. | Zeugen: Georg von Karlowitz auf Kriebstein, Ernst von Miltitz zu Batzdorf, Ludwig Fachs, Ordinarius zu Leipzig, Georg Kommerstedt, beide Doktoren der Rechte, Georg Vitzthum von Eckstädt, Hofmarschall.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15420318">1542 März 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23479,7 +23479,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Moritz von Sachsen belehnt Graf Günther von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit Clingen und Greußen, der Hälfte des großen Salzzolls zu Frankenhausen, Arnsberg, Heringen, Kelbra, halb Gerterode, Kleinkeula (Niederkeula) und Urbich | Zeugen: Georg von Karlowitz auf Kriebstein, Ernst von Miltitz zu Batzdorf, Ludwig Fachs, Ordinarius in Leipzig, Georg Kommerstedt, Georg Vitzthum von Eckstädt</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15420318">1542 März 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23806,7 +23806,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. mahnt Graf Günther von Schwarzburg, die vom Reichstag in Nürnberg beschlossene Türkensteuer zu bezahlen. Auf dem Reichstag zu Nürnberg ist von den Ständen eine Türkensteuer bewilligt worden, die in einer der drei Städte Nürnberg, Regensburg oder Frankfurt am Main in drei Terminen erlegt werden sollte. Wie aber der Reichspfennigmeister Walther von Habsperg gemeldet hat, haben viele der Herrschaften den auf sie fallenden Anteil an den ersten Termine nicht entrichtet, viele mit der Entschuldigung, dass die genannten Städte das Geld nicht angenommen hätten. Der Kaiser fordert auf, die zum 1. Termin fällig gewesene Quote und, da der zweite Termin nahe sei, auch die für diesen fällige möglichst bald abzuliefern. Die Gefahr sei groß, da die Türken in Ungarn schon viele Orte eingenommen und bis Ofen vorgedrungen seien.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="15430623">1543 Juni 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23916,7 +23916,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, bekennt, dass Erzbischof Johann Albrecht von Magdeburg ihm den Lehnbriefe über die Thalgüter zu Halle übergeben hat</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Sondershausen">Sondershausen</cei:placeName>
+              <cei:placeName>Sondershausen</cei:placeName>
               <cei:date value="15460531">1546 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -23953,7 +23953,7 @@
           <cei:chDesc>
             <cei:abstract>Die Brüder Heinrich der Ältere, der Mittlere und der Jüngere von Plauen belehnen Jürgen und Rudolf von Witzleben mit Land bei Marlishausen. Heinrich der Ältere von Plauen, Herr zu Greiz und Kranichfeld, belehnt zugleich im Namen seiner Brüder Heinrich des Mittleren und Heinrich des Jüngeren, Jürgen und Rudolf von Witzleben zu Marlishausen mit einer Hufe Landes, von der Marten Albrecht einen Zins zu zahlen hat und einer freien Hofstatt zu Marlishausen, die Lutze von Oßmanstedt gekauft hat; zugleich belehnt er auch ihren Vetter Heinrich zu Rudolstadt zu gesamter Hand. | Zeugen: Stephan Kloert, Kanzler, und Fabian von Oberweimar, Amtmann der Herrschaft Kranichfeld.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Kranichfeld">Kranichfeld</cei:placeName>
+              <cei:placeName>Kranichfeld</cei:placeName>
               <cei:date value="15460607">1546 Juni 7</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24154,7 +24154,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Moritz von Sachsen belehnt Graf Günther von Schwarzburg mit Ichstedt. Herzog Moritz von Sachsen, der nach Verzichtleistung Johann Friedrichs von Sachsen die Kurwürde erlangt hat, belehnt Graf Günther von Schwarzburg mit Ichstedt. Sollte dieser ohne Leibeslehnserben sterben, soll Graf Heinrich der Ältere von Schwarzburg an seine Stelle treten. Da dieser aber den Lehnseid noch nicht geleistet hat, wird verlangt, dass er dies bis Pfingsten (1549 Juni 9) tue. | Zeugen: Wolfgang Graf zu Barby, Herr zu Mühlingen, Ernst von Miltitz auf Batzdorf, Oberhauptmann des Meißnischen Kreises, Christof von Karlowitz auf Zörbig, Georg Kommerstedt auf Kalkreuth, Ludwig Fachs, Ordinarius zu Leipzig, Sebastian Pflug zu Strehla, Michael von Schleinitz zu Seerhausen, Hans Worm zu Thamsbrück (?), Ulrich Mardeisen, der Rechte Doktor, Damian (Dahm) von Sebottendorf, Senator.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15481224">1548 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24194,7 +24194,7 @@
           <cei:chDesc>
             <cei:abstract>Herzog Moritz von Sachsen, der nach Verzichtleistung des Johann Friedrich von Sachsen die Kurwürde erlangt hat, belehnt Graf Günther von Schwarzburg mit der Käfernburg | Zeugen: Wolfgang Graf von Barby, Ernst von Miltitz auf Batzdorf, Christof von Karlowitz auf Zörbig, Georg Kommerstedt auf Kalkreuth, Ludwig Fachs, Sebastian Pflug zu Strehla, Michael von Schleinitz zu Seerhausen, Hans Worm, Ulrich Mardeisen, Damian (Dahm) von Sebottendorf.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15481224">1548 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24234,7 +24234,7 @@
           <cei:chDesc>
             <cei:abstract>Kurfürst Moritz von Sachsen belehnt Graf Günther von Schwarzburg mit Arnstadt, Stadtilm und Plaue sowie Einkünften in der Umgebung von Erfurt. Herzog Moritz von Sachsen belehnt nach Erlangung der Kurwürde den Grafen Günther von Schwarzburg, Herrn zu Arnstadt und Sondershausen, mit Arnstadt, Stadtilm und Plaue, außerdem noch mit den Gütern, die früher Konrad von Tannroda besessen und mit einigen Gütern, Zinsen und Stücken, die der Rat von Erfurt und etliche ihrer Bürger von dem genannten Grafen zu Lehen erhalten haben, die aber in dem früheren Lehnbrief nicht einzeln angeführt sind, nämlich mit einem Viertel der Gerichte zu Ollendorf mit allem Zubehör, wie solches die Hutner als Mannlehen innehatten, dazu mit der Hälfte des Dorfes Ollendorf mit 15 1/2 Hufen Landes und einem Vierteil Landes mit ihren Zinshöfen, mit einem Vorhof, mit einer Scheune, mit einem Baumgarten, dazu mit drei Äckern, Weingärten, einer Schenkstatt, mit der Hälfte des Gebelberges und einem Backofen, davon man jährlich 3 Pfund Pfennig als Zins gibt, mit den Gerichten über Hals und Hand zu Ollendorf, Udestedt, Rangsdorf (?), Großengottern (Gottier) und Geblingsborn (?) und mit drei Vogtsgerichten, die jährlich zu Ollendorf gehalten werden, welche Lehen der Utisberger gewesen mit 12 Hufen Landes und einem Viertel Artlandes in den Dörfern Ollendorf, Udestedt und Rangsdorf und an dem Gebelsberge, mit der Vogtei zu Ollendorf und in den genannten Dörfern etc., einem Schenkhof zu Ollendorf, zwei Schock Geldes jährlich der Gemeinde zu Ollendorf, die die Paradies zu Lehen getragen, mit 6 Pfund neun Schilling und drei Pfennig Landswährung Münze, 36 Hühnern, 5 1/2 Gänse Erbzins, davon gibt von 12 Höfen, 6 Hufen und einem Vierteil Artlandes mit Weiden und Wiesen an 5 1/2 Acker im Dorf und Felde zu Waltersleben, einem Teil des Schenkhofs, der Holzmark und der Wildbahn, dem Dorfe Schmira mit dem Kirchlehen daselbst mit allem Zubehör, etlichen Lehengütern und Gerechtigkeiten, so zu Ollendorf gelegen, so Aßmus Scheden redlich abverkauft, einem freien Hofe mit Zubehör, 14 Hufen und 30 Höfen zu Udestedt gelegen, die jetzt Adolar Gütner gebraucht, 2 1/2 Hufen Landes, 10 Acker Weiden und Wiesen und einem Siedelhofe zu Haßleben gelegen, die jetzt Hans Rottendorfer gebraucht, einem Viertel einer Mühle, 2 1/2 Hufen Landes in 1 1/2 Viertel, 9 1/2 Hufen und 3 Äckern Weingarten zu Hopfgarten gelegen, denselbigen Gütern Vierteils des Kirchlehen folgen soll, die jetzt Godischalg von der Sachsen gebraucht, mit 10 Höfen, 9 Hufen arthaftigen Ackers etc. zu Hopfgarten gelegen, die jetzt die Kelnerin gebraucht, 4 1/2 Hufen Landes und 6 Höfen im Dorf Walschleben gelegen, 6 Acker Weingarten unter dem Kiliaxberg vor Erfurt und 2 Krautgärten daselbst, 2 Hufen Landes und einem Hofe zu Udestedt 70 Acker Holz zu Bechstedt an dem Grießberg, das jetzt die von der Sachsen gebrauchen, 3 1/2 Hufen Landes zu Rannstedt mit einem Vierteil des Gerichtes daselbst, mit 2 Hufen arthaftigen Ackers zu Udestedt, mit einem Pfund Geldes, drei Schillingen und 18 Hufnern Erbzins zu Haßleben und Stotternheim, das jetzt Adelarius und Timotheus Huttner gebrauchen, 2 1/2 Hufen Landes und 10 Ackern Weiden und Wiesen zu Haßleben, das jetzt Johann Reinboth gebraucht, der Korn- und Ölmühle in Erfurt auf dem Farte hinter dem Großen Kolleg und einer Hofstatt dabei, mit dem Damme daselbst und allem Zubehör, die jetzt Kristan Milanitz gebraucht, 21 Hufen Landes, der Vogtei eines Teiles Weingarten, Höfen und Gärten zu Melchendorf und jährlichem Erbzins, 21 Pfund und 17 Schilling Erfurtische Pfennige bei der Buße auf St. Katharinen Tag, mit dem Weingarten, Weiden und Wiesen und 31 1/2 Hof und Garten zu Hopfgarten, mit 21 Malter Korn, Gerste und Hafer, 12 Pfund und 15 Schilling weniger 3 Pfennige jährlich Erbzins mit 5 Gänsen und 87 Hühnern wenige 1/2 auch 8 Ackern Weingarten daselbst zu Hopfgarten, dazu mit der Hälfte des Eichholzes zu Troistedt (Droistedte) gelegen und einem Weingarten am Storttenhagener Berge mit dazu gehörigem Artland und mit fünf Ackern, so die Zigler jetzt gebrauchen, ferner 4 1/2 Hufen Artlandes, Vogtei, Feldgericht und dazu gehörenden Höfen und Häusern, Wiesen und Weiden zu Schwerborn, dazu mit 8 Hufen und einem Vierteil Artlandes, einem Weingarten an dem Berge und dem Kirchlehen der St. Niklaskirche, des daselbigen Gütern folgt, dazu allem Zubehör in Schwerborn, so die von Marten gebrauchen, ferner fünf Hufen Landes und fünf Höfen zu Kleinmölsen (Wenigen Mulhausen), was früher den von der Sachsen gewesen, auch mit vier Schock Groschen jährlichen Zinses an dem Schulzenamt zu Ilmen, früher den Paradis, jetzt dem Gerlach und Herebardus von der Marten gehörig, ferner mit 10 Hufen Landes und 24 Höfen, eine Hufe und einem Viertel Landes mit freien Ackern Feldes, von denen man jährlich gibt 15 Pfund 17 Schilling 8 Pfennig, 92 1/2 Hühnern, 10 Schock und 50 Eier, drei Malter 10 1/2 Scheffel Hafer und Gerste, eine Hufe und ein Viertel und eine Hufe und 3 Acker Felder, alles in der Flur von Udestedt, samt dem Verkauf und der Wiederkauf an dem Lehngute zu Udestedt, welches Heinrich von Salvelt versetzt und jetzt George Dönstedt gebraucht, ferner mit sechs Schillingen an einem halben Viertel Landes, von Martin Teichmann zu Michaelis gibt, 4 Malter Korn und Gerste zu Michaelis auf sechs Acker Feldes, welches Kurt Diner, 5 1/2 Schilling zu Michaelis von einem Hof und Garten, welche Hans Dohna mit 5 Schilling und 5 Pfennig zu Michaelis von drei Sätteln Feldes, welches Hans Dohna, mit 7 1/2 Schilling zu Michaelis von einer Gelangen im neuen Land, von Alban Probst, mit 15 Pfennig zu Michaelis von einem Hofe und drei Äckern, von Hans Kuchen, mit zwei Schilling zu Michaelis, von einem Hofe, welches Hans Drescher mit 7 1/2 Schilling zu Michaelis von einem halben Viertel Landes, und von einer halben Hufe, von Hans Zink mit 2 Schilling, 10 Pfennig zu Michaelis von drei Äckern, von Heinrich Ollendorf, mit sechs Schilling zu Michaelis von einer Wiese, von Klaus Kuchen und Blasius Günther mit acht Pfennig zu Michaelis von zwei Äckern, von Klaus Dohna, mit sechs Pfennig zu Michaelis von 1 Acker, mit Klaus Dohna, mit 9 Schilling zu Michaelis von einem Viertel Landes, welches Heinrich Bernhart, mit 7 1/2 Schilling und 4 Hellern zu Michaelis von einem halben Viertel Landes, welches Alban Probst, mit neun Schilling zu Michaelis von einem halben Viertel Landes, welches Alban Probst mit sechs Pfennig zu Michaelis von einem Acker, welches Martin Teichmann, mit 1 Huhn zu Michaelis von 1 Acker, welches Martin Teichmann, mit 2 Schilling zu Michaelis, von einem Hofe genannt zu den Bunnden (?), von Hermann Mathes, mit 2 Schilling und 1 Huhn zu Michaelis von einem Hof und einem Viertel Landes, von Hans Dona im Hohen Hause, mit drei Schilling und zwei Hühnern zu Michaelis von einem Hofe, von Thetzel Jahre, mit einem Schilling zu Michaelis von 1/2 Viertel Landes, von Klaus Kuchen, mit drei Schilling 9 Pfennigen zu Michaelis von einem Viertel Landes, von Klaus Kuchen zwei Schilling zu Michaelis von einem Hofe gelegen in der Geisgrub von Klaus Kuchen, mit vier Schilling zwei Hühnern und zwei Äckern, von Blasius Günther, in 18 Pfennigen zu Michaelis von 1/2 Viertel Landes, von Jorge Franncke, mit 3 Schilling zu Michaelis von 1/2 Viertel Land, von Jorge Franncke, mit 15 Pfennig zu Michaelis von 1/2 Viertel Land, von Jorge Franncke, mit 7 1/2 Pfennigen zu Michaelis von zwei Äckern von Hans Dona, mit zwei Schilling und zwei Hühnern zu Michaelis von zwei Äckern, von Werner Oldendorff, mit vier Schilling zu Michaelis von einem Hofe, mit die Porlitzin, 4 1/2 Schilling zu Michaelis von einem Viertel Land, mit Klaus Dohna; mit 8 Schilling zu Michaelis von einem Hofe, mit Klaus Kuchen, mit 10 Schilling zu Michaelis von einem Viertel Land von Klaus Dohna, mit 6 Schilling zu Michaelis von zwei Äckern, von Klaus Dohna, 5 1/2 Schilling zu Michaelis von 1/2 Viertel Landes, mit Hans Schimpff mit 9 Schilling zu Michaelis von 1/2 Viertel Land, mit 1 Schilling zu Michaelis von 1 Hufe Landes von Dietrich Albyn, einem Schilling zu Michaelis von 1/2 Hufe Land von Hans Bierwage, mit 6 Pfennig zu Michaelis von einem Hofe von Hans Mesendorf, mit 9 1/2 Schilling zu Michaelis von 1/2 Viertel Land von Hans Finderwürfel, mit 9 Schilling zu Michaelis und zwei Hühnern von 1/2 Viertel, von Dionisius Allendorf, 3 1/2 Malter Korn zu Michaelis von vier Äckern, von Titzel Kleinschmit, mit 1 Schilling 2 Hühnern zu Michaelis von 1 Acker von Hans Dohna, mit 7 Schilling zu Michaelis von 5 Höfen und Gärten, von Klaus Reichart, mit 6 Pfennig zu Michaelis von einem Hofe und 1/2 Viertel Landes von Heinrich Orthwin, mit 36 Schilling zu Michaelis von 1/2 Hufe Land von Jacob Zwetz, mit 18 Pfennig zu Michaelis von 1 Viertel Land von Hans Setzmann, mit 1/2 Hufe von einer Satteln von Klaus Dohna, mit 15 Pfennig von 2 1/2 Acker zu Michaelis von Hans Dohna, mit 4 Schilling zu Michaelis von 8 Acker, von Klaus Dohna, mit 4 Schilling zu Michaelis von 1 Hofe, von Hans Dohna, mit 4 Schilling von 1 Hofe, von Klaus Nehnhaus mit 4 Schilling 2 Hühner zu Michaelis von 1 Hofe, von Klaus Reichart, mit 18 Schilling zu Michaelis von 1/2 Hufe Land von Klaus Heipe, mit 7 1/2 Schilling zu Michaelis, von 3 Äckern Wiese, von Klaus Müller, mit 1/2 Malter Korn und Gerste zu Michaelis von 1/2 Hufe Land von Klaus Dohna, mit 4 Schilling 1 Hufe zu Michaelis von 1/2 Hufe Land von Klaus Kuchen, mit 4 Schilling 1 Hufe zu Michaelis von 1/2 Hufe Land, das Klaus Kuchen gibt, alles im Felde von Haßleben gelegen; dazu sollen die Männer zu Haßleben jährlich gedachtem Utisberger vier Fuder diesteil Haßleben zu Walschleben gegen Erfurt führen, dazu soll des Grafen Voigt zu Haßleben den Utisbergern hilfreich werden bei seinen Pflichten den Herrschaft getan ohne Entgelt. Ferner wird er belehnt mit 4 1/2 Hufen Landes und 6 Höfen zu Walschleben, 6 Ackern Weingarten unter dem Kiliaxberge vor Erfurt und 2 Krautgärten daselbst, mit 2 Hufen Landes und einem Hofe zu Udestedt, mit 27 Ackern Holzes zu Bechstedt an dem Griesberge, mit der Wildbahn in genanntem Holze, die jetzt die von Utzberg gebrauchen, samt allem Zubehör und allen Einnahmen. | Zeugen: Wolfgang, Graf zu Barby, Ernst von Miltitz auf Batzdorf, Oberhauptmann des Meißnischen Kreises, Christof von Karlowitz auf Zörbig, Georg Kommerstedt auf Kalkreuth, Ludwig Fachs, Sebastian Pflug zu Strehla, Michael von Schleinitz zu Seerhausen, Hans Worm zu Thamsbrück (?), Hofmarschall, Ulrich Mardeisen, der Rechte Doktor, Damian (Dahm) von Sebottendorf, Senatorius.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Leipzig">Leipzig</cei:placeName>
+              <cei:placeName>Leipzig</cei:placeName>
               <cei:date value="15481224">1548 Dezember 24</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24477,7 +24477,7 @@
           <cei:chDesc>
             <cei:abstract>Graf Günther von Schwarzburg, Herr zu Arnstadt und Sondershausen, belehnt Georg von Witzleben mit Gütern und Zinsen in Marlishausen, Lengefeld und Wüllersleben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15480802">1548 August 2</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24517,7 +24517,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Wolfgang von Fulda belehnt Günther von Schwarzburg mit Allmenhausen und Abtsbessingen, wobei er Allmenhausen weiter an die von Schlotheim verleihen darf</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15500718">1550 Juli 18</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -24703,7 +24703,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Friedrich von Magdeburg belehnt Graf Günther von Schwarzburg mit den Thalgütern zu Halle und der Stadt Görzke | Zeugen: Johann von Walwitz, Domprobst zu Havelberg und Domher zu Magdeburg, Hoyer Schubbesack, Amtsbefehlshaber (?) zu Querfurt, Hans Russen sonst Pommer genannt und Bartholomäus Uhde, Senator.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Querfurt">Querfurt</cei:placeName>
+              <cei:placeName>Querfurt</cei:placeName>
               <cei:date value="15520816">1552 August 16</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -25094,7 +25094,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Wolfgang von Fulda belehnt die Grafen Günther und Hans Günther von Schwarzburg, zugleich in Vormundschaft für die Brüder Wilhelm und Albrecht von Schwarzburg, mit Allmenhausen und Abtsbessingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15530426">1553 April 26</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -25223,7 +25223,7 @@
           <cei:chDesc>
             <cei:abstract>Die Grafen Günther und Hans Günther von Schwarzburg, zugleich in Vormundschaft für Wilhelm und Albrecht von Schwarzburg, belehnen Georg von Witzleben mit Gütern und Zinsen in Marlishausen, Lengefeld und Wüllersleben | Zeugen: Benedikt Reinhard, Christof von Entzenberg, Hans von Bodenstein, Amtmann zu Schwarzburg und Paulinzella, Apelchen (?) Hoffmann.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15530220">1553 Februar 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -25506,7 +25506,7 @@
           <cei:chDesc>
             <cei:abstract>Die Grafen von Schwarzburg belehnen Angehörige der Familie von Thüna mit Gütern und Zinsen zu Witzleben und Hettstedt. Die Graf Günther, Hans Günther, Wilhelm und Albrecht belehnen Christof von Thun zu Witzleben, zugleich auch Wolff Thüna zu Molsdorf und die Söhne des Friedrich von Thüna, Christof, Heinrich, Woff, Christoffel, Jacob und Hans mit Gütern und Zinsen zu Witzleben und Hettstedt. | Zeugen: Benedictus Reinhart, Christof von Entzenberg, Siegmund von Witzleben.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Arnstadt">Arnstadt</cei:placeName>
+              <cei:placeName>Arnstadt</cei:placeName>
               <cei:date value="15540417">1554 April 17</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -25868,7 +25868,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Ferdinand I. belehnt die Grafen von Schwarzburg mit den Reichslehen. Kaiser Ferdinand I. belehnt die Grafen Philipp, Günther, Hans Günther und Albrecht von Schwarzburg mit den Reichslehen, nämlich Schwarzburg, Königsee, Blankenburg, Leutenberg und dem Schüsselholz, nachdem sie (für den ersten die Bevollmächtigten Caspar von Bernstat und Hans von Würtzburg) durch ihren gesamten Anwalt Joachim ? den Lehnseid geleistet. Die Strafe für den, der sie in ihrem Besitze stört legt er auf 50 Mark lötigen Goldes fest.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="15580203">1558 Februar 3</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -25912,7 +25912,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Wolfgang von Fulda belehnt die Grafen Günther, Hans Günther, Wilhelm und Albrecht von Schwarzburg mit Allmenhausen und Abtsbessingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15581216">1558 Dezember 16</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -26745,7 +26745,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Maximilian II. belehnt die Grafen von Schwarzburg mit den Reichslehen. Kaiser Maximilian II. belehnt die Grafen Günther, Hans Günther, Wilhelm und Albrecht von Schwarzburg mit den Reichslehen, nämlich Schwarzburg, Königsee, Blankenburg, Leutenberg und dem Schüsselholz, nachdem Günther von Schwarzburg für sich und seine Brüder den Lehnseid geleistet hat. Als Strafe für den, der sie in ihrem Besitz stört, wird die Zahlung von 60 Mark lötigen Goldes festgesetzt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Frankfurt am Main">Frankfurt am Main</cei:placeName>
+              <cei:placeName>Frankfurt am Main</cei:placeName>
               <cei:date value="15660527">1566 Mai 27</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -27260,7 +27260,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Wilhelm von Fulda belehnt die Grafen Günther, Hans Günther, Wilhelm und Albrecht von Schwarzburg mit Allmenhausen und Abtsbessingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15690303">1569 März 3</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -27299,7 +27299,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Balthasar von Fulda belehnt die Grafen Günther, Hans Günther, Wilhelm und Albrecht von Schwarzburg mit Allmenhausen und Abtsbessingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15701102">1570 November 2</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -27710,7 +27710,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Hans Günther, Wilhelm und Albrecht von Schwarzburg mit Schwerborn und Gerterode (jeweils zur Hälfte)</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15830819">1583 August 19</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -27796,7 +27796,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Hans Günther, Wilhelm und Albrecht von Schwarzburg mit dem ganzen Dorf Langewiesen. Teilweise inseriert ist eine Urkunde des Erzbischofs Daniel von Mainz, 1555 Januar 16. zum gleichen Betreff.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15830820">1583 August 20</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -27970,7 +27970,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt Graf Wilhelm von Schwarzburg mit Sondershausen, Straußberg und Keula, nach einem Vergleich mit seinen Brüdern Hans Günther und Albrecht von Schwarzburg</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15860708">1586 Juli 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28013,7 +28013,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz erteilt Graf Wilhelm von Schwarzburg die Mitlehnschaft für Schwerborn und halb Gerterode nach einem Vergleich mit seinen Brüdern Hans Günther und Albrecht von Schwarzburg</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15860708">1586 Juli 8</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28201,7 +28201,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Ludwig von Hersfeld belehnt die Grafen von Schwarzburg mit Geschwenda und sieben Hufen zu Großliebringen. Abt Ludwig von Hersfeld belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des Grafen Hans Günther von Schwarzburg Günther, Anton Heinrich, Hans Günther und Christian Günther mit Geschwenda und sieben Hufen zu Großliebringen. Vormünder für die unmündigen Söhne Hans Günthers sind die Grafen Johann und Anton von Oldenburg sowie Sebastian von Germar, Hauptmann zu Sondershausen, und Georg von Schönfeld in Rudolstadt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hersfeld">Hersfeld</cei:placeName>
+              <cei:placeName>Hersfeld</cei:placeName>
               <cei:date value="15871025">1587 Oktober 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28249,7 +28249,7 @@
           <cei:chDesc>
             <cei:abstract>Der Administrator des Stifts Fulda, Maximilian von Österreich, belehnt die Grafen von Schwarzburg mit Allmenhausen und Abtsbessingen. Der Administrator des Stifts Fulda, Maximilian von Österreich, belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des Grafen Hans Günther von Schwarzburg Günther, Anton Heinrich, Hans Günther und Christian Günther mit Allmenhausen und Abtsbessingen. Vormünder für die unmündigen Söhne Hans Günthers sind die Grafen Johann und Anton von Oldenburg, Sebastian von Germar zu Gorsleben, Hauptmann zu Sondershausen, und Georg von Schönfeld in Rudolstadt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Fulda">Fulda</cei:placeName>
+              <cei:placeName>Fulda</cei:placeName>
               <cei:date value="15880204">1588 Februar 4</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28297,7 +28297,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des verstorbenen Grafen Hans Günther von Schwarzburg, Günther, Anton Heinrich, Hans Günther und Christian Günther mit Sondershausen, Straußberg und Keula</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15880310">1588 März 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28344,7 +28344,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des verstorbenen Grafen Hans Günther von Schwarzburg, Günther, Anton Heinrich, Hans Günther und Christian Günther mit Schwerborn und halb Gerterode</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15880310">1588 März 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28390,7 +28390,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des verstorbenen Grafen Hans Günther von Schwarzburg Günther, Anton Heinrich, Hans Günther und Christian Günther mit Langewiesen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="15880310">1588 März 10</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28475,7 +28475,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Rudolf II. belehnt die Grafen von Schwarzburg mit den Ämtern Schwarzburg, Königsee, Blankenburg und Leutenberg sowie dem Schüsselholz. Kaiser Rudolf II. belehnt Graf Albrecht von Schwarzburg, Herrn zu Sondershausen, Arnstadt und Leutenberg, für sich, seinen Bruder Wilhelm und die (nicht namentlich genannten) nachgelassenen Söhne des Grafen Hans Günther mit Ämtern Schwarzburg, Königsee, Blankenburg und Leutenberg sowie dem Schüsselholz. Als Strafe für jeden, der ihn in seinem Rechte stört, wird die Zahlung von 60 Mark lötigen Goldes festgesetzt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="15890123">1589 Januar 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28525,7 +28525,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Krato von Hersfeld belehnt die Grafen von Schwarzburg mit Geschwenda und sieben Hufen Landes in Großliebringen. Abt Krato (Craft) von Hersfeld belehnt die Grafen Wilhelm und Albrecht von Schwarzburg sowie die Söhne des verstorbenen Grafen Hans Günther von Schwarzburg Günther, Anton Heinrich, Hans Günther und Christian Günther mit Geschwenda und sieben Hufen Landes in Großliebringen. Die Vormünder der unmündigen Kinder des Grafen Johann Günther sind die Grafen Johann und Ernst von Oldenburg.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hersfeld">Hersfeld</cei:placeName>
+              <cei:placeName>Hersfeld</cei:placeName>
               <cei:date value="15891030">1589 Oktober 30</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28649,7 +28649,7 @@
           <cei:chDesc>
             <cei:abstract>Abt Joachim von Hersfeld belehnt die Grafen Günther, Anton Heinrich, Hans Günther und Christian Günther von Schwarzburg und zugleich Wilhelm und Albrecht von Schwarzburg mit Allmenhausen sowie sieben Hufen Landes zu Großliebringen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Hersfeld">Hersfeld</cei:placeName>
+              <cei:placeName>Hersfeld</cei:placeName>
               <cei:date value="15931031">1593 Oktober 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28867,7 +28867,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt die Grafen Albrecht, Günther, Anton Heinrich, Hans Günther und Christian Günther von Schwarzburg mit Langewiesen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="16000123">1600 Januar 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28910,7 +28910,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt nach dem Tode des Grafen Wilhelm von Schwarzburg die Grafen Albrecht, Günther, Anton Heinrich, Hans Günther und Christian Günther von Schwarzburg mit Sondershausen, Straußberg und Keula.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="16000125">1600 Januar 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -28956,7 +28956,7 @@
           <cei:chDesc>
             <cei:abstract>Erzbischof Wolfgang von Mainz belehnt nach dem Tod des Grafen Wilhelm von Schwarzburg die Grafen Albrecht, Günther, Anton Heinrich, Hans Günther und Christian Günther von Schwarzburg mit Schwerborn und halb Gerterode</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Aschaffenburg">Aschaffenburg</cei:placeName>
+              <cei:placeName>Aschaffenburg</cei:placeName>
               <cei:date value="16000125">1600 Januar 25</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -29001,7 +29001,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Matthias belehnt die Grafen von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg samt dem Schüsselholz bei Frankenhausen. Kaiser Matthias belehnt die Grafen Karl Günther, Ludwig Günther und Albrecht Günther von Schwarzburg mit Schwarzburg, Königsee, Blankenburg und Leutenberg samt dem Schüsselholze bei Frankenhausen. Die Strafe für den, der sie im Besitze stört, wird auf 60 Mark lötigen Goldes festgelegt.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Wien">Wien</cei:placeName>
+              <cei:placeName>Wien</cei:placeName>
               <cei:date value="16130305">1613 März 5</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -29940,7 +29940,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt dem Grafen Heinrich von Stolberg, für den Fall, dass die Städte Goslar, Nordhausen und andere mehr, die er an Graf Günther von Schwarzburg verpfändet hat, sich weigern würden, diesem zu huldigen, ihm Beistand zu leisten und die Städte zur Huldigung zu zwingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -29986,7 +29986,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt dem Herzog Ernst dem Älteren von Braunschweig, dem Grafen Günther von Schwarzburg, wenn diesem die Städte Goslar und Nordhausen nicht huldigen würden, beizustehen und die Städte zur Huldigung zu zwingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30033,7 +30033,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt Graf Heinrich von Hohnstein, Herrn zu Sondershausen, dem Grafen Günther von Schwarzburg nötigenfalls beizustehen, um die Städte Goslar und Nordhausen zur Huldigung zu zwingen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30079,7 +30079,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. befiehlt dem Grafen Heinrich von Schwarzburg, die Städte Nordhausen und Goslar anzuhalten, dass sie ihre Pflicht dem Reiche gegenüber erfüllen. Kaiser Karl IV. an Graf Heinrich von Schwarzburg: Teilt mit, daß sich die Bürgermeister, Räte und Bürgerschaften der Städte Nordhausen und Goslar wegen des Dienstes, den sie dem Kaiser gegen die Lombardei hätten tun sollen, mit dem Adressaten als dem Vertreter des Kaisers nicht verrichten (mit dir nicht verrichten von unsern wegen) und dies auch nicht tun wollen, obwohl sie dazu von Rechts wegen verpflichtet sind. Er gebietet dem Adressaten daher bei seiner dem Reiche gegenüber geleisteten Treupflicht ernstlich, sie kraft kaiserlicher Gewalt dazu anzuhalten, daß sie wegen der genannten Dienste Recht gegenüber dem Kaiser tun. Was der Adressat gegen die genannten Städte unternehmen wird, soll ihm nicht schaden, weil er [der Adressat] sich mit ihnen freundschaftlich auseinanderzusetzen hat (daran, das du mit in fruntlich ze schaffen hast).</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13570706">1357 Juli 6</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30124,7 +30124,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. bekennt, dass er den Grafen Heinrich und Günther von Schwarzburg und den Grafen von Hohnstein für die Pfandschaft am Rhein und in der Wetterau die Stadt Nordhausen (für 2000 Mark Silber) verpfändet hat unter der Bedingung, dass er noch eine einmalige Steuer von Nordhausen erheben darf und ihm die Grafen 2000 Mark breite Prager Groschen leihen, für die er ihnen wieder die Pfandschaft am Rhein und in der Wetterau verpfändet</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Troppau">Troppau</cei:placeName>
+              <cei:placeName>Troppau</cei:placeName>
               <cei:date value="13620513">1362 Mai 13</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30165,7 +30165,7 @@
           <cei:chDesc>
             <cei:abstract>Verpfändung der Stadt Nordhausen durch König Karl IV. König Karl IV. teilt den Bürgermeistern, dem Rat und den Bürgern der Stadt Nordhausen mit, dass er die Städte Nordhausen, Goslar, Gelnhausen, 10 Schillinge Heller auf dem Zoll zu Mainz und alle Einkünfte zu Mühlhausen dem Grafen Günther von Schwarzburg, Herren zu Arnstadt um 2000 Mark verpfändet hat und ihm 25 Ritter als Bürgen dafür gestellt hat, dass die Huldigung seitens der genannten Städte erfolgt. Es fordert demnach die Stadt Nordhausen auf, dem Grafen Günther zu Schwarzburg und seinen Erben zu huldigen und gehorsam zu sein.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30212,7 +30212,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt der Stadt Goslar, dem Grafen Günther von Schwarzburg und seinen Erben, denen er sie mit anderen Städten verpfändet hat, zu huldigen</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30257,7 +30257,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt der Stadt Mühlhausen, dem Grafen Günther von Schwarzburg und seinen Erben die ihm verpfändeten Einkünfte zu Mühlhausen zu verschreiben</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490531">1349 Mai 31</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30302,7 +30302,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl IV. befiehlt der Stadt Nordhausen, die Grafen Heinrich und Günther von Schwarzburg nicht zu belästigen, sondern ihnen gehorsam zu sein und sie zu unterstützen. Kaiser Karl IV. an den Bürgermeister, die Ratsherren und die Gemeinde der Stadt Nordhausen: Er gebietet ihnen ernstlich (fidelitati vestre committimus et iniungimus seriose), daß sie den Grafen Heinrich und Günther von Schwarzburg, Herren in Arnstadt, in allen Dingen, die ihnen rechtmäßigerweise zustehen, keine Beschwerung auferlegen. Zu seiner [des Kaiser] und des Reiches Ehre mögen die Adressaten, soweit sie es vermögen, von Belästigungen und Unrechtshandlungen anderer im Namen des Kaisers (nostro nomine et auctoritate) auf Wunsch der Grafen mit allen ihnen richtig erscheinenden Mitteln verteidigen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Prag">Prag</cei:placeName>
+              <cei:placeName>Prag</cei:placeName>
               <cei:date value="13560617">1356 Juni 17</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30343,7 +30343,7 @@
           <cei:chDesc>
             <cei:abstract>König Karl IV. befiehlt der Stadt Nordhausen, dem Grafen Günther von Schwarzburg, Herrn zu Arnstadt, und seinen Erben und dem Grafen Heinrich von Hohnstein, Propst zu Nordhausen, sowie den Grafen Heinrich, Dietrich, Bernhard und Ulrich von Hohnstein zu huldigen und gehorsam zu sein und droht für den Fall der Weigerung Zwangsmaßregeln an</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Mainz">Mainz</cei:placeName>
+              <cei:placeName>Mainz</cei:placeName>
               <cei:date value="13490615">1349 Juni 15</cei:date>
             </cei:issued>
             <cei:witnessOrig>
@@ -30528,7 +30528,7 @@
           <cei:chDesc>
             <cei:abstract>Kaiser Karl V. fordert Graf Günther von Schwarzburg auf, Oberhoheit und Vogtei über das Kloster Paulinzella dem Grafen Hans Heinrich von Schwarzburg zu übergeben. Kaiser Karl V. fordert Graf Günther von Schwarzburg, Herrn zu Arnstadt und Sondershausen, auf, dass er dem Grafen Hans Heinrich von Schwarzburg, Herrn zu Leutenberg, die Oberhoheit, Vogtei usw. über das Kloster Paulinzella übergebe, den verbliebenen Abt nebst dem Entwandten restituiere und alles völlig wieder abtrete. Widrigenfalls werde dem Kurfürsten Johann Friedrich und dem Herzog Heinrich von Sachsen die Exekution aufgetragen.</cei:abstract>
             <cei:issued>
-              <cei:placeName key="name:Regensburg">Regensburg</cei:placeName>
+              <cei:placeName>Regensburg</cei:placeName>
               <cei:date value="15410723">1541 Juli 23</cei:date>
             </cei:issued>
             <cei:witnessOrig>
