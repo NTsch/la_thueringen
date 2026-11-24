@@ -10,11 +10,11 @@ The portal delivers two different record layouts, both are handled:
   * "stat_file" records (Rudolstadt: Archivum Commune, Lehnbriefe, Documenta
     varia, ...; Meiningen: Hennebergica ...):
         unitid, unittitle.type.proper (+ .formal), unitdate, bibliography,
-        provenance, GND entity links, ...
+        provenance, GND entity links, derivate_metadata, mets_physdesc, ...
 
 Output layout:
   <out>/<fonds>/<fonds>.cei.xml        one file per fond, multiple <cei:text> elements
-  <out>/conversion_report.txt          counts, unmapped fields
+  <out>/conversion_report.txt          counts, unmapped fields, physical-desc sources
   <out>/review.tsv                     records that need a human look
 
 Mapping (CEI element <- source):
@@ -22,18 +22,20 @@ Mapping (CEI element <- source):
   chDesc/abstract                                 <- register | title (+ remark text); seal
                                                      sentences removed; witnesses appended
                                                      after " | "
-  chDesc/issued/placeName + date | dateRange      <- date text / index dates (place only
-                                                     when the date line starts "Ort, 1349 ...")
+  chDesc/issued/placeName + date | dateRange      <- date text / index dates; place only
+                                                     when the date line starts "Ort, 1349 …"
+                                                     or when a dating clause names a place
   chDesc/witnessOrig/traditioForm                 <- tradition
   chDesc/witnessOrig/archIdentifier               <- archive labels + signature + ref to
                                                      database entry
   chDesc/witnessOrig/auth/sealDesc                <- seal sentences cut from the text
-  chDesc/witnessOrig/physicalDesc                 <- size/material found in 'provenance'
-  chDesc/witnessOrig/note[@type=provenance]       <- provenance
-  chDesc/witnessOrig/figure/graphic[@url]         <- derivate_images (from the IIIF manifests,
-                                                     --with-manifests in the harvester);
-                                                     otherwise --image-url-template or XML
-                                                     comments
+  chDesc/witnessOrig/physicalDesc                 <- material and dimensions from:
+                                                       - 'provenance' (legacy size field)
+                                                       - derivate_metadata (physForm.*)
+                                                       - mets_physdesc (MODS physicalDescription)
+  chDesc/witnessOrig/note[@type=provenance]       <- residual provenance strings
+  chDesc/witnessOrig/figure/graphic[@url]         <- derivate_images (IIIF manifests)
+                                                     or --image-url-template
   chDesc/diplomaticAnalysis/quoteOriginaldatierung<- datequote | dating clause in the text
   chDesc/diplomaticAnalysis/listBibl*             <- bibliography (Druck / Reg. / Lit.)
   chDesc/diplomaticAnalysis/p                     <- remark lines ("Vgl. Nr. ...")
@@ -64,7 +66,7 @@ NS = "http://www.monasterium.net/NS/cei"
 ET.register_namespace("cei", NS)
 
 # --------------------------------------------------------------------- tables
-TRADITIO = {  # value in the index -> text written to traditioForm (edit as you like)
+TRADITIO = {
     "ausfertigung": "Ausfertigung",
     "beglaubigteAbschrift": "beglaubigte Abschrift",
     "nichtBeglaubigteAbschrift": "nicht beglaubigte Abschrift",
@@ -84,7 +86,8 @@ UNDATED = {"sine", "ohne datum", "undatiert", "s.d.", "s. d.", "o. d.", "o.d."}
 # input fields that are used by the converter
 FIELDS_USED = {
     "id", "shelfmark", "register", "date", "datequote", "date_iso_from", "tradition",
-    "derivates", "derivate_ids", "derivate_images",          # NEW: derivate_images
+    "derivates", "derivate_ids", "derivate_images",          # images
+    "derivate_metadata", "mets_physdesc", "mets_fetched",     # physical description
     "ArchFile_class_001", "ArchFile_class_001_Label",
     "unitid", "unittitle.type.proper", "unittitle.type.formal", "unitdate", "bibliography",
     "provenance", "entitylink.gnd.href", "entitylink.gnd.title", "place.type.gnd", "place",
@@ -96,15 +99,15 @@ FIELDS_IGNORED = {
     "tectonics_path": "duplicate of ArchFile_class_001_Label",
     "ArchFile_class_001_Label.de": "duplicate of ArchFile_class_001_Label",
     "date_extended_search": "search-index copy of date/datequote",
-    "date_iso_to": "harvester helper (index stores only the start date for certificates)",
-    "date_precision": "harvester helper; precision is re-derived from the date text",
+    "date_iso_to": "harvester helper; precision is re-derived from the date text",
+    "date_precision": "harvester helper",
     "date_uncertain": "harvester helper",
     "objectKind": "database internal", "state": "database internal",
     "file_type": "database internal (always 'certificate')",
     "propertitle": "duplicate of unittitle.type.proper",
     "indexBrowseCorporation": "search-index copy of the title",
     "unittitleSort": "sort key", "unitid.as.is": "duplicate of unitid",
-    "derivate.class.derivate_types.content": "database internal (derivate id)",
+    "derivate.class.derivate_types.content": "already captured inside derivate_metadata",
     "gnd": "duplicate of the entity links / place GND ids",
     "place_extended_search": "search-index copy of place",
     "entitylink.gnd.type": "database internal",
@@ -115,19 +118,17 @@ FIELDS_IGNORED = {
 
 # ----------------------------------------------------------------- text helpers
 SEALW = re.compile(r"(?i)\w*siegel\w*|\bsiegl\w*|\bpetschaft\w*|\bsigill\w*")
-# witness list start: "Zeugen:", "Weitere Zeugen:", "Zeugen des Kaufs:", "Zeugen und Siegler:"
 WIT = re.compile(r"(?:(?<=[.;\])])|^)\s*(?P<w>(?:Weitere\s+)?Zeug(?:e|en)\b[^:.;]{0,30}:)")
 STRONG = re.compile(
     r"^(?:Es\s+siegel|Siegel\b|Siegler\b|Petschaft\b|(?:Der|Die)\s+Aussteller\w*\s+siegel"
     r"|\(\d+(?:-\d+)?\)[^.]{0,80}siegel)")
-# predicates that make a longer sentence a statement about sealing THIS charter
 SEAL_VERB = re.compile(
     r"(?i)\bsiegel(?:t|n)\b|\b(?:mit)?besiegelung\b|\bkündig\w*\b[^.]{0,70}\bsiegel|"
     r"\b(?:hängt|hängen|drückt|drücken)\b[^.]{0,70}\bsiegel|\bbedient\w*\s+sich\b[^.]{0,40}siegel")
 DATE_OPENER = re.compile(
     r"^(?:Datum\b|Dat\.|Actum\b|Gegeb\w*|Geb(?:en|enn|in)\b|Der\s+(?:ist\s+|da\s+)?geb\w*|"
     r"Die\s+geben\b|Daz\b|Geschehen\b|Am\s+tage\s+und\s+jare|A\.\s?d\.)")
-GLUE = re.compile(r"(?<=[A-Za-zäöüÄÖÜß\)\]]\.)(?=[A-ZÄÖÜ\d])")  # '.' glued to the next field
+GLUE = re.compile(r"(?<=[A-Za-zäöüÄÖÜß\)\]]\.)(?=[A-ZÄÖÜ\d])")
 NOTE_REMARK = re.compile(
     r"^\(?(?:[Vv]gl\.|Bestätigung\b|Bestätigt\b|Auf\s+(?:der\s+)?Rückseite\b|Rückseite\b|"
     r"Dorsalvermerk\b|Rückvermerk\b)")
@@ -154,7 +155,6 @@ def sentences(text):
         elif "." in tok or (len(tok) == 1 and tok.isupper()) or tok.lower() in ABBR \
                 or re.fullmatch(r"[A-ZÄÖÜ][a-zäöüß]{0,2}", tok):
             ok = False
-            # a seal/witness opener right after the period is trusted ("dem Abt. Siegel ...")
             if (STRONG.match(nxt) or WIT.match(". " + nxt)) \
                     and "." not in tok and tok.lower() not in ABBR:
                 ok = True
@@ -198,8 +198,7 @@ def end_punct(s):
 
 
 def split_glued_datequote(text, year=None):
-    """stat_file titles: the dating clause is glued to the regest after a period
-    ('... Siegel des Ausstellers.Der gegeben ist 1436 ...')."""
+    """stat_file titles: the dating clause is glued to the regest after a period."""
     for m in GLUE.finditer(text):
         tail = text[m.end():]
         if DATE_OPENER.match(tail) or re.match(r"\d{4}\b", tail) or (year and year in tail):
@@ -243,9 +242,7 @@ def _day_ok(y, m, d):
 
 
 def parse_text_date(t):
-    """Parse the date text. Returns (kind, attrs, flags) or None.
-    flags: set of 'circa', 'uncertain', 'nach' ('nach X' = from X to the end of that year,
-    the convention the archive uses in its own index)."""
+    """Parse the date text. Returns (kind, attrs, flags) or None."""
     flags = set()
     s = t.replace("[", "").replace("]", "").strip()
     if "?" in s:
@@ -286,7 +283,7 @@ def parse_text_date(t):
 
 
 def build_date(text, f, t):
-    """-> (kind, attrs, review_reason_or_None). f/t: ISO strings from the index (or None)."""
+    """-> (kind, attrs, review_reason_or_None)."""
     iso = lambda x: bool(x) and re.fullmatch(r"\d{4}-\d\d-\d\d", x) is not None
     text = norm(text)
     if text.lower().rstrip(".") in {u.rstrip(".") for u in UNDATED} or text.lower() in UNDATED:
@@ -295,7 +292,6 @@ def build_date(text, f, t):
     if parsed:
         kind, attrs, flags = parsed
         reason = None
-        # cross-check the start of the parsed date against the index
         start = attrs.get("value") or attrs.get("from")
         if iso(f):
             fy, fm, fd = f.split("-")
@@ -307,15 +303,14 @@ def build_date(text, f, t):
         return kind, attrs, reason
     if not iso(f):
         return "date", {"value": "99999999"}, "undated_check_text"
-    if iso(t) and t != f:  # the index gives an explicit range (stat_file records)
+    if iso(t) and t != f:
         return ("dateRange", {"from": f.replace("-", ""), "to": t.replace("-", "")},
                 "date_range_from_index_check")
     return "date", {"value": f.replace("-", "")}, "date_irregular_check_value"
 
 
 def strip_final_parenthetical(text):
-    """'1431 Mai 27. (am suntage Cantate)' -> ('1431 Mai 27.', 'am suntage Cantate').
-    A parenthetical that is itself a date (year + month) or only '?' stays in place."""
+    """'1431 Mai 27. (am suntage Cantate)' -> ('1431 Mai 27.', 'am suntage Cantate')."""
     t = text.rstrip().rstrip(".,;").rstrip()
     if not t.endswith(")"):
         return text, None
@@ -336,12 +331,7 @@ def strip_final_parenthetical(text):
     return text, None
 
 
-#PLACE_PREFIX = re.compile(r"^(?P<p>[^\d]+?),\s*(?P<rest>\[?(?:nach\s+|um\s+|vor\s+)?\d{4}.*)$")
-PLACE_PREFIX = re.compile(
-    r"^(?P<p>[^\d]{1,60}?),\s*"
-    r"(?P<rest>(?:\[?(?:nach\s+|um\s+|vor\s+)?)?"
-    r"(?:\d{4}|(?:den\s+)?\d{1,2}\.\s*[A-Za-zäöüÄÖÜ]+\.?\s*\d{4}).*)$"
-)
+PLACE_PREFIX = re.compile(r"^(?P<p>[^\d]+?),\s*(?P<rest>\[?(?:nach\s+|um\s+|vor\s+)?\d{4}.*)$")
 
 
 def split_place_prefix(text):
@@ -377,7 +367,7 @@ def parse_bibliography(entries):
                 out.append(("regest", seg))
             elif lw in ("lit.", "literatur"):
                 out.append(("studies", seg))
-            else:  # 'DrucK', 'Druck des Inserts': keep the label in the text
+            else:
                 out.append(("edition", f"{label}: {seg}"))
     return [(k, t) for k, t in out if t]
 
@@ -391,7 +381,10 @@ def normalize(rec):
     n["labels"] = rec.get("ArchFile_class_001_Label") or []
     n["cls"] = rec.get("ArchFile_class_001") or []
     n["derivates"] = rec.get("derivates") or rec.get("derivate_ids") or []
-    n["derivate_images"] = rec.get("derivate_images") or {}          # NEW
+    n["derivate_images"] = rec.get("derivate_images") or {}
+    n["derivate_metadata"] = rec.get("derivate_metadata") or {}
+    n["mets_physdesc"] = rec.get("mets_physdesc") or {}
+    n["mets_fetched"] = rec.get("mets_fetched")
     n["tradition"] = rec.get("tradition") or []
     n["bibliography"] = rec.get("bibliography") or []
     n["provenance"] = rec.get("provenance") or []
@@ -445,7 +438,6 @@ def normalize(rec):
     if n["date_text"].endswith("."):
         n["date_text"] = n["date_text"][:-1].rstrip()
 
-    # entities
     hrefs = rec.get("entitylink.gnd.href") or []
     titles = rec.get("entitylink.gnd.title") or []
     if hrefs and len(titles) != len(hrefs):
@@ -456,6 +448,74 @@ def normalize(rec):
     n["place_names"] = [x for x in (rec.get("place") or []) if x not in n["place_gnd"]]
     n["urn"] = rec.get("urnLinks") or []
     return n
+
+
+# ------------------------------------------------------- physical description
+MATERIAL_RE = re.compile(
+    r"(?i)\b(pergament|papier|papyrus|leinwand|seide|schafhaut|tierhaut|hadernpapier)\b")
+SIZE_RE = re.compile(r"\d+(?:[.,]\d+)?\s*(?:cm|mm|m)?\s*[x×]\s*\d+(?:[.,]\d+)?", re.I)
+FILE_FORMAT_RE = re.compile(r"(?i)^(?:image/(?:tiff?|jpe?g|png)|tiff?|jpe?g|png|pdf)$")
+
+
+def extract_material_and_dimensions(n):
+    """Collect material and dimensions from derivate_metadata and mets_physdesc.
+
+    Returns (material_or_None, list_of_dimension_strings, list_of_source_tags).
+    File-format values (image/tiff, jpeg …) are ignored — they are provenance
+    for the digitised surrogate, not the charter itself.
+    """
+    material = None
+    dims = []
+    sources = []
+
+    def add_material(v, src):
+        nonlocal material
+        if not material and MATERIAL_RE.search(v):
+            material = v
+            sources.append(src)
+
+    def add_dim(v, src):
+        if SIZE_RE.search(v) and v not in dims:
+            dims.append(v)
+            sources.append(src)
+
+    # 1. Derivate Solr docs
+    for der_id, dm in n.get("derivate_metadata", {}).items():
+        if not isinstance(dm, dict):
+            continue
+        for k, v in dm.items():
+            kl = k.lower()
+            vals = v if isinstance(v, list) else [v]
+            for x in vals:
+                if not isinstance(x, str):
+                    continue
+                x = x.strip()
+                if not x or FILE_FORMAT_RE.match(x):
+                    continue
+                if "material" in kl or "physform" in kl:
+                    add_material(x, f"derivate:{k}")
+                    if "extent" in kl or "dimension" in kl or "size" in kl:
+                        add_dim(x, f"derivate:{k}")
+                elif "extent" in kl or "dimension" in kl or "size" in kl:
+                    add_dim(x, f"derivate:{k}")
+
+    # 2. METS/MODS physicalDescription
+    for k, v in n.get("mets_physdesc", {}).items():
+        kl = k.lower()
+        vals = v if isinstance(v, list) else [v]
+        for x in vals:
+            if not isinstance(x, str) or not x.strip():
+                continue
+            x = x.strip()
+            if FILE_FORMAT_RE.match(x):
+                continue
+            if "material" in kl or kl.startswith("physdesc.form."):
+                add_material(x, f"mets:{k}")
+            elif "extent" in kl or "dimension" in kl:
+                add_dim(x, f"mets:{k}")
+
+    return material, dims, sources
+
 
 # ------------------------------------------------------------------ XML building
 def sub(parent, tag, text=None, **attrs):
@@ -479,16 +539,14 @@ DIM = re.compile(r"\d+(?:,\d+)?\s*(?:cm)?\s*x\s*\d+(?:,\d+)?\s*(?:cm)?", re.I)
 
 
 def build_text_element(n, image_template=None, entities=True, db_url_template=None):
-    """
-    Build a single <cei:text> element for one charter.
-    Returns (text_element, notes, info).
-    """
+    """Build a single <cei:text> element for one charter.
+    Returns (text_element, notes, info)."""
     notes = list(n["notes"])
     info = {}
     shelf = n["signature"]
     if not shelf:
         notes.append(("no_signature", ""))
-        shelf = n["id"]  # body/idno must not be empty
+        shelf = n["id"]
 
     text_el = ET.Element(f"{{{NS}}}text", type="charter")
     body = sub(text_el, "body")
@@ -516,7 +574,7 @@ def build_text_element(n, image_template=None, entities=True, db_url_template=No
     issued = sub(ch, "issued")
     if n["issue_place"]:
         key = None
-        if len(n["place_gnd"]) == 1:  # only trust the id when the record names a single place
+        if len(n["place_gnd"]) == 1:
             core = re.sub(r"^(?:Schloss|Burg|Stadt|Kloster)\s+", "", n["issue_place"]).lower()
             if any(core == x.lower() for x in n["place_names"]):
                 key = f"gnd:{n['place_gnd'][0]}"
@@ -546,25 +604,47 @@ def build_text_element(n, image_template=None, entities=True, db_url_template=No
         sub(ai, "ref", target=db_url_template.format(id=n["id"]))
     if n["seal"]:
         sub(sub(wo, "auth"), "sealDesc", n["seal"])
-    # provenance field: archive provenance, but sometimes size/material was typed here
-    prov_notes, phys = [], []
+
+    # Physical description: combine provenance, derivate metadata, and METS
+    prov_notes = []
+    phys_material = None
+    phys_dimensions = []
+    phys_sources = []
+
     for p in n["provenance"]:
-        (phys if DIM.search(p) else prov_notes).append(norm(p))
-    if phys:
-        pd = sub(wo, "physicalDesc")
-        for p in phys:
-            mm = re.match(r"^(Pergament|Papier)\s*,\s*(.+)$", p)
+        pn = norm(p)
+        if DIM.search(pn):
+            mm = re.match(r"^(Pergament|Papier)\s*,\s*(.+)$", pn)
             if mm:
-                sub(pd, "material", mm[1])
-                sub(pd, "dimensions", mm[2])
+                phys_material = phys_material or mm[1]
+                phys_dimensions.append(mm[2].strip())
             else:
-                sub(pd, "dimensions", p)
-        notes.append(("size_found_in_provenance_field", "; ".join(phys)))
+                phys_dimensions.append(pn)
+            phys_sources.append("provenance")
+        else:
+            prov_notes.append(pn)
+
+    mat2, dims2, src2 = extract_material_and_dimensions(n)
+    if mat2 and not phys_material:
+        phys_material = mat2
+    for d in dims2:
+        if d not in phys_dimensions:
+            phys_dimensions.append(d)
+    phys_sources.extend(src2)
+
+    if phys_material or phys_dimensions:
+        pd = sub(wo, "physicalDesc")
+        if phys_material:
+            sub(pd, "material", phys_material)
+        for d in phys_dimensions:
+            sub(pd, "dimensions", d)
+        notes.append(("physical_desc_from", "; ".join(dict.fromkeys(phys_sources))))
+    info.update(has_material=bool(phys_material), has_dimensions=bool(phys_dimensions))
+
     for p in prov_notes:
         sub(wo, "note", p, type="provenance")
 
-    # NEW: use the exact image URLs from the IIIF manifests when they are there,
-    # otherwise fall back to --image-url-template, otherwise write a comment.
+    # digitised images
     derivate_images = n.get("derivate_images") or {}
     for der in n["derivates"]:
         urls = derivate_images.get(der) or []
@@ -627,10 +707,10 @@ def selftest():
         ("Er schenkt dem Kloster Land.", "Siegel des Ausstellers.", "Zeugen: A, B und andere.")
     assert sp("Die Aussteller bekunden dies [Reg. Nr. 10]. Die Aussteller siegeln (1-15).") == \
         ("Die Aussteller bekunden dies [Reg. Nr. 10].", "Die Aussteller siegeln (1-15).", "")
-    assert sp("Heinrich kündigt sein Siegel an.")[1] == ""          # single sentence: never moved
+    assert sp("Heinrich kündigt sein Siegel an.")[1] == ""
     assert sp("Er kauft von dem Abt. Siegel des Ausstellers.")[:2] == ("Er kauft von dem Abt.", "Siegel des Ausstellers.")
     assert sp("Er kauft das Gut. Er zahlt es zu. Siegel des Ausstellers.")[:2] == \
-        ("Er kauft das Gut. Er zahlt es zu.", "Siegel des Ausstellers.")   # short word before the period
+        ("Er kauft das Gut. Er zahlt es zu.", "Siegel des Ausstellers.")
     assert sp("Er verkauft die Hufe. Zeugen: X, Y. Siegel des Ausstellers.") == \
         ("Er verkauft die Hufe.", "Siegel des Ausstellers.", "Zeugen: X, Y.")
     assert sp("Er verkauft die Hufe und gibt sie weiter; er siegelt.")[:2] == \
@@ -639,12 +719,12 @@ def selftest():
         ("Er verkauft die Hufe, die zum Hof gehört.", "Er siegelt.", "Zeugen: A und B.")
     assert sp("Text hier. Weitere Zeugen: Dr. Johann Müller, Th. von X.")[2] == "Weitere Zeugen: Dr. Johann Müller, Th. von X."
     assert sp("Der Offizial legte eine besiegelte Urkunde vor. Er bat um eine Abschrift.")[1] == ""
-    assert sp("Er verkauft. Siegel des Abts. Der Verkauf wird bestätigt.")[1] == ""  # not at the tail
+    assert sp("Er verkauft. Siegel des Abts. Der Verkauf wird bestätigt.")[1] == ""
     assert sp("Er verkauft. Datum Rome a.d. 1289.", peel_dates=True)[:3] == ("Er verkauft.", "", "")
     assert split_tail("Er verkauft. Datum Rome a.d. 1289.", peel_dates=True)[3] == "Datum Rome a.d. 1289."
     assert split_glued_datequote("Er siegelt.Der gegeben ist 1436 am dornstage.") == \
         ("Er siegelt.", "Der gegeben ist 1436 am dornstage.")
-    assert split_glued_datequote("Schuldig 1.000 Gulden.")[1] == ""      # thousands separator
+    assert split_glued_datequote("Schuldig 1.000 Gulden.")[1] == ""
     assert split_glued_datequote("Er siegelt.Nikolaus war dabei.", "1436")[1] == ""
 
     d = lambda t, f=None, to=None: build_date(t, f, to)[:2]
@@ -672,131 +752,4 @@ def selftest():
     assert strip_final_parenthetical("1431 Mai 27. (am suntage Cantate)") == ("1431 Mai 27.", "am suntage Cantate")
     assert strip_final_parenthetical("1452 April 25 (?).")[1] is None
     assert strip_final_parenthetical("1641 Sep. 29. (1669 Sep. 28)")[1] is None
-    assert split_place_prefix("Köln, 1349 Aug. 10. - 11.") == ("Köln", "1349 Aug. 10. - 11.")
-    assert split_place_prefix("Weißensee (im bougarten), 1261") == ("Weißensee (im bougarten)", "1261")
-    assert split_place_prefix("1431 Mai 27.")[0] is None
-    assert parse_bibliography(["Druck: A S. 1. Regest: B S. 2."]) == [("edition", "A S. 1."), ("regest", "B S. 2.")]
-    assert parse_bibliography(["Nicht im HUB."]) == [("plain", "Nicht im HUB.")]
-    assert parse_bibliography(["Reg.: Pusch Nr. 104; Reg. Henneberg-Römhild Nr. 596."]) == \
-        [("regest", "Pusch Nr. 104; Reg. Henneberg-Römhild Nr. 596.")]
-    print("selftest OK")
-
-
-# ----------------------------------------------------------------------------- main
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--in", dest="inp", help="urkunden.jsonl from harvest_urkunden.py")
-    ap.add_argument("--out", default="cei_out")
-    ap.add_argument("--xsd", help="CEI XSD; if given, every output file is validated")
-    ap.add_argument("--image-url-template",
-                    help="fallback for derivates whose manifest had no images: e.g. "
-                         "'https://host/path/{derivate}/file.jpg' ({derivate} and {id} are "
-                         "replaced). Prefer --with-manifests in the harvester.")
-    ap.add_argument("--no-entities", action="store_true", help="omit the GND person/place links (back)")
-    ap.add_argument("--database-url-template",
-                    default="https://staatsarchive.thulb.uni-jena.de/receive/{id}",
-                    help="URL template for the database entry; {id} is replaced by the record id")
-    ap.add_argument("--selftest", action="store_true")
-    args = ap.parse_args()
-
-    if args.selftest:
-        selftest()
-        return
-    if not args.inp:
-        ap.error("--in is required")
-
-    schema = None
-    if args.xsd:
-        try:
-            import xmlschema
-        except ImportError:
-            sys.exit("--xsd needs: pip install xmlschema")
-        schema = xmlschema.XMLSchema11(args.xsd)
-
-    out = Path(args.out)
-    out.mkdir(parents=True, exist_ok=True)
-    counts, unmapped = Counter(), defaultdict(Counter)
-    review, invalid = [], []
-    n_rec = 0
-
-    fonds = defaultdict(list)  # fond_name -> list of (text_element, notes, info, rec_id)
-
-    with open(args.inp, encoding="utf-8") as f:
-        for line in f:
-            if not line.strip():
-                continue
-            rec = json.loads(line)
-            n_rec += 1
-            for k in rec:
-                if k not in FIELDS_USED and k not in FIELDS_IGNORED:
-                    unmapped[k][json.dumps(rec[k], ensure_ascii=False)[:60]] += 1
-            n = normalize(rec)
-            text_el, notes, info = build_text_element(
-                n,
-                image_template=args.image_url_template,
-                entities=not args.no_entities,
-                db_url_template=args.database_url_template,
-            )
-            fond = fonds_dir(n)
-            fonds[fond].append((text_el, notes, info, rec["id"]))
-
-            counts["records"] += 1
-            counts["layout:stat_file" if n["stat"] else "layout:certificate"] += 1
-            counts["with_seal_sentence"] += info["has_seal"]
-            counts["with_witness_list"] += info["has_witnesses"]
-            counts["with_dating_clause"] += bool(n["dq"])
-            counts["with_bibliography"] += bool(n["bibliography"])
-            counts["with_gnd_links"] += bool(n["persons"] or n["place_gnd"])
-            counts["with_manifest_images"] += bool(n["derivate_images"])
-            counts["derivates"] += len(n["derivates"])
-            counts["derivate_images"] += sum(len(v) for v in n["derivate_images"].values())
-            for reason, detail in notes:
-                counts["review:" + reason] += 1
-                review.append((rec["id"], n["signature"], reason, detail))
-
-    written_fonds = 0
-    for fond, items in fonds.items():
-        # make root element cei:cei/cei:text/cei:group
-        root = ET.Element(f"{{{NS}}}cei")
-        text = ET.SubElement(root, f"{{{NS}}}text")
-        group = ET.SubElement(text, f"{{{NS}}}group")
-        for text_el, _, _, _ in items:
-            group.append(text_el)
-        path = out / fond / f"{fond}.cei.xml"
-        write_xml(root, path)
-        written_fonds += 1
-        if schema is not None:
-            errs = [str(e).splitlines()[0] for e in schema.iter_errors(str(path))]
-            if errs:
-                invalid.append((fond, errs[:3]))
-
-    counts["fonds"] = written_fonds
-
-    with open(out / "review.tsv", "w", encoding="utf-8") as f:
-        f.write("id\tsignature\treason\tdetail\n")
-        for row in review:
-            f.write("\t".join(x.replace("\t", " ").replace("\n", " ") for x in row) + "\n")
-
-    with open(out / "conversion_report.txt", "w", encoding="utf-8") as f:
-        f.write(f"records converted: {n_rec}\n")
-        f.write(f"fonds written: {written_fonds}\n")
-        for k, v in sorted(counts.items()):
-            f.write(f"{k}: {v}\n")
-        f.write("\nunmapped input fields (not in the CEI output, not on the ignore list):\n")
-        if not unmapped:
-            f.write("  none\n")
-        for k, vals in sorted(unmapped.items()):
-            f.write(f"  {k}: {sum(vals.values())} records, e.g. {vals.most_common(2)}\n")
-        f.write("\ninput fields deliberately not converted:\n")
-        for k, why in sorted(FIELDS_IGNORED.items()):
-            f.write(f"  {k}: {why}\n")
-        if schema is not None:
-            f.write(f"\nXSD validation: {written_fonds - len(invalid)} valid files, {len(invalid)} invalid\n")
-            for fname, errs in invalid[:50]:
-                f.write(f"  {fname}: {errs}\n")
-
-    print(open(out / "conversion_report.txt", encoding="utf-8").read())
-
-
-if __name__ == "__main__":
-    main()
+    assert
